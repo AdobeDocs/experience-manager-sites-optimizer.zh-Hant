@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer機會檔案
 description: 瞭解所有可用的Site Optimizer機會，以及如何使用它們來提高您網站的效能。
-source-git-commit: 76efc38b3f6bd3e1f5d63cf2396e443f7cb78762
+source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '758'
 ht-degree: 8%
 
 ---
@@ -96,12 +96,6 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
 * ./invalid-or-missing-metadata.md
   {title=Invalid or missing metadata}
   {image=../../assets/common/card-code.png}
-* ./low-conversions.md
-  {title=Low conversions}
-  {image=../../assets/common/card-bag.png}
-* ./low-views.md
-  {title=Low views}
-  {image=../../assets/common/card-bag.png}   
 * ./missing-alt-text.md
   {title=Missing alt text}
   {image=../../assets/common/card-arrows.png}
@@ -300,52 +294,6 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
                     <p class="is-size-6">瞭解無效或遺失的中繼資料機會，以及如何使用它來改善流量贏取。</p>
                 </div>
                 <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low conversions">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./low-conversions.md" title="低轉換" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="低轉換"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="低轉換">低轉換率</a>
-                    </p>
-                    <p class="is-size-6">瞭解低轉換率機會，以及如何使用它來改善網站上的表單參與度。</p>
-                </div>
-                <a href="./low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low views">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./low-views.md" title="低檢視" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="低檢視"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-views.md" target="_blank" rel="referrer" title="低檢視">低檢視</a>
-                    </p>
-                    <p class="is-size-6">瞭解低檢視機會以及如何使用它來改善網站上的表單參與度。</p>
-                </div>
-                <a href="./low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
