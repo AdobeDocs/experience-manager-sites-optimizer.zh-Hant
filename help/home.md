@@ -1,21 +1,21 @@
 ---
 title: AEM Sites Optimizer
-description: 這是AEM Sites Optimizer登陸頁面。
-source-git-commit: 62909a9c65a62beb202896d98bb9ab058bcd984a
+description: 這是 AEM Sites Optimizer 登陸頁面。
+source-git-commit: ddb9cd950a3c793722ac6de49c449d70c491b495
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 2%
+source-wordcount: '131'
+ht-degree: 100%
 
 ---
 
 
 # AEM Sites Optimizer
 
-![Experience Manager Sites Optimizer](./assets/sites-optimizer/hero.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
-Adobe Experience Manager (AEM) Sites Optimizer是雲端型服務，可分析和改善以AEM建置的網站效能。 它會識別可改善頁面載入、元件使用和內容傳送的區域，協助您增強網站的效能，並降低維護和更新成本。 使用Sites Optimizer可確保順暢可靠的線上體驗，這對於維護參與度和轉換率非常重要。
+Adobe Experience Manager (AEM) Sites Optimizer 是一項雲端型服務，可分析和改進以 AEM 為基礎所建置之網站的績效。其可以識別可改進頁面載入、元件使用和內容傳遞的領域，協助您提高網站的績效並降低維護和更新成本。透過使用 Sites Optimizer，您可以確保流暢可靠的線上體驗，這對於維持參與度和轉換率來說非常重要。
 
-## 開始使用Sites Optimizer
+## 開始使用 Sites Optimizer
 
 <!-- CARDS 
 
@@ -33,8 +33,8 @@ Adobe Experience Manager (AEM) Sites Optimizer是雲端型服務，可分析和�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./opportunity-types/overview.md" title="機會型別" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="opportunity-types/assets/overview/hero.png" alt="機會型別"
+                    <a href="./opportunity-types/overview.md" title="機會類型" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="opportunity-types/assets/overview/hero.png" alt="機會類型"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -42,12 +42,12 @@ Adobe Experience Manager (AEM) Sites Optimizer是雲端型服務，可分析和�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" title="機會型別">機會型別</a>
+                        <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" title="機會類型">機會類型</a>
                     </p>
-                    <p class="is-size-6">瞭解可用的Site Optimizer機會，以及如何使用它們來提高您網站的效能。</p>
+                    <p class="is-size-6">了解可用的 Sites Optimizer 機會，以及如何使用這些機會來提高網站的績效。</p>
                 </div>
                 <a href="./opportunity-types/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -67,10 +67,10 @@ Adobe Experience Manager (AEM) Sites Optimizer是雲端型服務，可分析和�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./documentation/overview.md" target="_blank" rel="referrer" title="文件">文件</a>
                     </p>
-                    <p class="is-size-6">探索Sites Optimizer檔案以瞭解其所有功能。</p>
+                    <p class="is-size-6">探索 Sites Optimizer 文件以了解其所有功能。</p>
                 </div>
                 <a href="./documentation/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
