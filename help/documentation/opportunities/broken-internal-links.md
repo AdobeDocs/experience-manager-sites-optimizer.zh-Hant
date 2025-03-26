@@ -1,72 +1,73 @@
 ---
-title: 中斷的內部連結機會檔案
-description: 瞭解中斷連結商機，以及如何使用它來改善網站上的參與度。
+title: 損壞的內部連結機會文件
+description: 了解損壞的連結機會，以及如何使用它來提高您網站上的參與度。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
-source-git-commit: 40ed1b3d60bd4eb1e5410c8c76a7d45856a3d79b
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '448'
-ht-degree: 0%
+ht-degree: 99%
 
 ---
 
 
-# 無效或遺失中繼資料機會
+# 無效或缺少中繼資料機會
 
-![中斷的內部連結機會](./assets/broken-internal-links/hero.png){align="center"}
+![損壞的內部連結機會](./assets/broken-internal-links/hero.png){align="center"}
 
-內部連結中斷會影響搜尋引擎為您的網站建立索引的能力，且對使用者體驗和搜尋引擎最佳化都會造成負面影響。 為協助修正此問題，中斷的內部連結機會會指出中斷的URL，並提供有效連結更新的建議。 解決這些問題將改善使用者參與度，並確保順暢的導覽和協助工具。
+損壞的內部連結會影響搜尋引擎為您的網站建立索引的能力，並對使用者體驗和搜尋引擎最佳化產生負面影響。為了協助解決這個問題，損壞的內部連結機會會指出損壞的 URL，並提供有效連結更新的建議。解決這些問題會提高使用者參與度，並確保導覽和協助工具順暢運作。
 
-中斷的內部連結機會會在頁面頂端顯示摘要，包括問題及其對網站和業務影響的摘要。
+損壞的內部連結機會會在頁面頂端顯示摘要，內含問題的概要及其對您網站和業務的影響。
 
-* **專案流量遺失** — 因內部連結中斷而預估的流量遺失。
-* **預計流量值** — 遺失流量的預估值。
+* **預計流量損失** - 預計會因內部連結損壞而損失的流量。
+* **預計流量值** – 預計的損失流量值。
 
 ## 自動識別
 
 <!---![Auto-identify broken internal links](./assets/missing-or-invalid-metadata/auto-identify.png){align="center"}-->
 
-中斷的內部連結機會會自動識別並列出頁面上所有中斷的內部連結，並包括下列專案：
+損壞的內部連結機會會自動識別並列出您頁面上所有損壞的內部連結，內容包括：
 
-* **反向連結頁面** — 包含中斷連結的頁面。
-* **中斷的目標URL** — 中斷的內部連結。
-* **建議** — 有關如何更新中斷連結的AI產生的建議。 如需詳細資訊，請參閱自動建議區段。
+* **反向連結頁面** – 包含損壞連結的頁面。
+* **損壞的目標 URL** – 損壞的內部連結。
+* **建議** – 關於如何更新損壞連結的 AI 生成建議。如需詳細資訊，請參閱自動建議區段。
 
 ## 自動建議
 
 <!--![Auto-suggest broken internal links](./assets/broken-internal-links/auto-suggest.png){align="center"}-->
 
-斷開的內部連結機會提供如何更新斷開連結的AI產生建議。 這些建議是根據目標中斷的URL，並提供合適的替代方案。 選取&#x200B;**資訊圖示**&#x200B;會提供AI產生的建議更新理由。
+損壞的內部連結機會會提供有關如何更新損壞連結的 AI 生成建議。其會根據損壞的目標 URL 來提供這些建議，且建議中會提供合適的替代值。選取&#x200B;**資訊圖示**&#x200B;可提供所建議更新的 AI 生成原理。
 
 
 >[!BEGINTABS]
 
->[!TAB AI基本原則]
+>[!TAB AI 原理]
 
 <!--[AI rationale of broken internal links](./assets/broken-internal-links/auto-suggest-ai-rationale.png) -->
 
-選取&#x200B;**資訊**&#x200B;圖示以檢視建議URL的AI原理。 該理由解釋了為什麼AI認為建議的URL最適合損壞的連結。 這可協助您瞭解AI的決策流程，並做出接受或拒絕建議的明智決定。
+選取&#x200B;**資訊**&#x200B;圖示可檢視所建議 URL 的 AI 原理。該原理會解釋為何 AI 認為所建議的 URL 最適合已損壞的連結使用。這可以協助您了解 AI 的決策過程，並做出是要接受還是拒絕建議的明智決定。
 
->[!TAB 編輯目標URL]
+>[!TAB 編輯目標 URL]
 
 <!--![Edit suggested URL of broken internal links](./assets/broken-internal-links/edit-target-url.png){align="center"}-->
 
-如果您不同意AI產生的建議，可以選取&#x200B;**編輯圖示**&#x200B;來編輯建議的連結值。 這可讓您手動輸入所需的連結。 編輯視窗包含連結的&#x200B;**已中斷目標路徑**、**您可在其中手動編輯連結的目標路徑**，以及具有Ai產生的建議的欄位。 完成編輯後，按一下[儲存]，更新中斷的連結專案。 ****&#x200B;專案欄位中將顯示一個黃色點，表示連結已編輯。
+如果您不同意 AI 生成的建議，則可以透過選取&#x200B;**編輯圖示**&#x200B;來編輯建議的連結值。這可讓您手動輸入所需的連結。編輯視窗中會包含連結的&#x200B;**損壞目標路徑**、可供您手動編輯連結的&#x200B;**所需目標路徑**，以及含有 AI 生成建議的欄位。編輯完成後，請按一下「**儲存**」以更新損壞的連結項目。輸入欄位中會出現一個黃點，以指出該連結已經過編輯。
 
->[!TAB 忽略專案]
+>[!TAB 忽略項目]
 
 <!--![Ignore broken links](./assets/broken-internal-links/ignore.png){align="center"}-->
 
-您可以選擇忽略具有目標中斷URL的專案。 選取&#x200B;**忽略圖示**&#x200B;會從機會清單移除專案。 可以從機會頁面頂端的&#x200B;**Ignored**&#x200B;標籤重新使用已忽略的專案。
+您可以選擇忽略具有損壞目標 URL 的項目。選取&#x200B;**忽略圖示**&#x200B;便會從機會清單中移除該項目。若要重新啟用已忽略的項目，可從機會頁面頂端的「**已忽略**」索引標籤進行。
 
 >[!ENDTABS]
 
 
-## 自動最佳化[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## 自動最佳化
 
+[!BADGE Ultimate]{type=Positive tooltip=" Ultimate"}
 
 <!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-links/auto-optimize.png){align="center"}-->
 
-Sites Optimizer Ultimate新增針對商機所找到的中斷連結部署自動最佳化的功能。<!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
+Sites Optimizer Ultimate 新增了針對機會所發現的損壞連結部署自動最佳化功能的能力。<!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 
 
 >[!BEGINTABS]
@@ -75,7 +76,7 @@ Sites Optimizer Ultimate新增針對商機所找到的中斷連結部署自動�
 
 {{auto-optimize-deploy-optimization-slack}}
 
->[!TAB 要求核准]
+>[!TAB 請求核准]
 
 {{auto-optimize-request-approval}}
 

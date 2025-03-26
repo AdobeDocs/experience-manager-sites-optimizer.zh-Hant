@@ -1,72 +1,73 @@
 ---
-title: 低檢視機會檔案
-description: 瞭解低檢視機會以及如何使用它來改善網站上的表單參與度。
+title: 低瀏覽量機會文件
+description: 了解低瀏覽量機會，以及如何使用它來提高您網站上的表單參與度。
 badgeFormOptimization: label="表單最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表單最佳化"
-source-git-commit: 258024606c732a4f4d4fe21a9ee36e1e2d3572f5
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '342'
-ht-degree: 1%
+ht-degree: 99%
 
 ---
 
 
-# 低檢視機會
+# 低瀏覽量機會
 
-![低檢視機會](./assets/low-views/hero.png){align="center"}
+![低瀏覽量機會](./assets/low-views/hero.png){align="center"}
 
-低檢視機會可識別網站上檢視率低的表單。 此機會可協助您瞭解哪些表單的表現不佳，並提供如何改善其參與率的建議。 透過最佳化表單檢視，您可以增加表單提交的數量，並改善網站的整體效能。
+低瀏覽量機會可識別您網站上瀏覽率較低的表單。此機會可協助您了解哪些表單表現不佳，並提供有關如何提高其參與率的建議。透過將表單的瀏覽最佳化，便可增加表單提交數量並提高網站的整體績效。
 
 ## 自動識別
 
-![自動識別低檢視](./assets/low-views/auto-identify.png){align="center"}
+![自動識別低瀏覽量](./assets/low-views/auto-identify.png){align="center"}
 
-每個具有低檢視次數表單的網頁都會列為其自己的&#x200B;**低檢視次數**&#x200B;機會。 商機頁面頂端會顯示商機及AI原理的簡短摘要。
+系統會將表單瀏覽量較低的各個網頁都列為該網頁自己的&#x200B;**低瀏覽量**&#x200B;機會。機會頁面頂端會顯示機會的簡短摘要和 AI 原理。
 
 ## 自動建議
 
-![自動建議低檢視次數](./assets/low-views/auto-suggest.png){align="center"}
+![自動建議低瀏覽量](./assets/low-views/auto-suggest.png){align="center"}
 
-自動建議提供AI產生的網頁變體，這些變體旨在增加您表單的檢視次數。 每個變數都會根據其改善表單參與度的潛力顯示&#x200B;**專案轉換率增加**，協助您排定最有效建議的優先順序。
+自動建議會提供為了增加表單瀏覽量而由 AI 生成的網頁變化版本。每個變化版本都會根據其提高表單參與度的潛力顯示&#x200B;**預計的轉換率提升量**，以協助您優先採用最有效的建議。
 
 >[!BEGINTABS]
 
->[!TAB 控制項變數]
+>[!TAB 控制變化版本]
 
-![控制項變數](./assets/low-views/control-variation.png){align="center"}
+![控制變化版本](./assets/low-views/control-variation.png){align="center"}
 
-控制項變數是網站上目前使用的原始表單。 此變數會用作比較建議變數效能的基準。
+控制變化版本是您網站上目前存在的原始表單。此變化版本會作為用來比較所建議變化版本績效的基準線。
 
->[!TAB 建議的變數]
+>[!TAB 建議的變化版本]
 
-![建議的變數](./assets/low-views/suggested-variations.png){align="center"}
+![建議的變化版本](./assets/low-views/suggested-variations.png){align="center"}
 
-建議的變數是AI產生的網頁變數，這些變數的設計目的是為了增加您表單的檢視次數。 每個變數都會根據改善表單參與度的潛力顯示&#x200B;**預計轉換率增加**，協助您排定最有效建議的優先順序。
+建議的變化版本是為了增加表單瀏覽量而由 AI 生成的網頁變化版本。每個變化版本都會根據其提高表單參與度的潛力顯示&#x200B;**預計的轉換率提升量**，以協助您優先採用最有效的建議。
 
-按一下每個變數，即可在畫面右側預覽。 在預覽上方，有下列動作和資訊可供使用：
+按一下每個變化版本即可在畫面右側進行預覽。預覽畫面頂端有以下可用操作和資訊：
 
-* **變更** — 此變數與&#x200B;**控制項**&#x200B;變數之間變更的簡短摘要。
-* **預計轉換率增加** — 如果實作此變化，預估的表單參與增加。
-* **編輯** — 按一下以編輯AEM編寫中的變數。
+* **變更** - 有此變化版本與&#x200B;**控制**&#x200B;變化版本之間有何變更的簡短摘要。
+* **預計的轉換率提升量** - 實施此變化版本後的表單參與度預計提升量。
+* **編輯** - 按一下即可在 AEM 製作環境中編輯變化版本。
 
 >[!ENDTABS]
 
-## 自動最佳化[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## 自動最佳化
 
+[!BADGE Ultimate]{type=Positive tooltip=" Ultimate"}
 
-![自動最佳化低檢視](./assets/low-views/auto-optimize.png){align="center"}
+![自動最佳化低瀏覽量](./assets/low-views/auto-optimize.png){align="center"}
 
-Sites Optimizer Ultimate新增了針對「低檢視」機會發現的問題部署自動最佳化的功能。
+Sites Optimizer Ultimate 新增了針對低瀏覽量機會所發現的問題部署自動最佳化功能的能力。
 
 >[!BEGINTABS]
 
 >[!TAB 測試多個]
 
 
->[!TAB 已選取發佈]
+>[!TAB 發佈選定的項目]
 
 {{auto-optimize-deploy-optimization-slack}}
 
->[!TAB 要求核准]
+>[!TAB 請求核准]
 
 {{auto-optimize-request-approval}}
 
