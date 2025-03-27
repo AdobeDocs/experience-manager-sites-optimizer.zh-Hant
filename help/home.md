@@ -1,10 +1,10 @@
 ---
 title: AEM Sites Optimizer
-description: 這是 AEM Sites Optimizer 登陸頁面。
-source-git-commit: ddb9cd950a3c793722ac6de49c449d70c491b495
+description: 使用Sites Optimizer提升網站效能 — 提升速度、降低成本、增強可靠性，進而提升參與度。
+source-git-commit: 80d1bb016dedcff9b3b6293008b43070ff24867c
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '140'
+ht-degree: 87%
 
 ---
 
