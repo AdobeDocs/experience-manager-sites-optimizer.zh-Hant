@@ -1,19 +1,19 @@
 ---
-title: 使用Sites Optimizer最佳化安全性狀態
-description: 瞭解如何使用Sites Optimizer改善網站安全性。
+title: 使用 Sites Optimizer 來獲得最佳的安全態勢
+description: 了解如何使用 Sites Optimizer 來提高網站的安全性。
 source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# 安全性狀態機會
+# 安全態勢機會
 
-![安全性狀態機會](./assets/security-posture/hero.png){align="center"}
+![安全態勢機會](./assets/security-posture/hero.png){align="center"}
 
-在AEM Sites Optimizer中維持強大的安全性狀態，對於保護數位體驗和使用者資料至關重要。 透過找出改善機會（例如CORS設定、跨網站指令碼、網站許可權和網站漏洞），團隊可以主動處理潛在的安全性風險，並確保遵循最佳實務。 加強安全性措施不僅可保護敏感資訊，還可增強使用者信任度和網站可靠性。 運用AEM Sites Optimizer的深入分析，協助組織持續監控及改善其安全性立場、降低風險並維護安全的數位環境。
+在 AEM Sites Optimizer 中保持強大的安全態勢對於保護數位體驗和使用者資料來說至關重要。團隊可以透過識別改進機會 (例如 CORS 設定、跨網站指令碼、網站權限和網站漏洞)，主動解決潛在的安全風險並確實遵守最佳實務。加強安全措施不僅可以保護敏感訊息，還可以增強使用者信任和網站可靠性。利用 AEM Sites Optimizer 的分析可協助組織持續監視和改進其安全狀況，以降低風險並維持安全的數位環境。
 
 ## 機會
 
@@ -40,8 +40,8 @@ ht-degree: 8%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/cors-configuration.md" title="CORS設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="CORS設定"
+                    <a href="../documentation/opportunities/cors-configuration.md" title="CORS 設定" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="CORS 設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -49,12 +49,12 @@ ht-degree: 8%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/cors-configuration.md" target="_blank" rel="referrer" title="CORS設定">CORS組態</a>
+                        <a href="../documentation/opportunities/cors-configuration.md" target="_blank" rel="referrer" title="CORS 設定">CORS 設定</a>
                     </p>
-                    <p class="is-size-6">瞭解CORS設定機會，以及識別和修正網站安全漏洞。</p>
+                    <p class="is-size-6">了解 CORS 設定機會並識別和解決網站安全性漏洞。</p>
                 </div>
                 <a href="../documentation/opportunities/cors-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -74,10 +74,10 @@ ht-degree: 8%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/cross-site-scripting.md" target="_blank" rel="referrer" title="跨網站指令碼">跨網站指令碼</a>
                     </p>
-                    <p class="is-size-6">瞭解跨網站指令碼機會，並識別和修正網站安全漏洞。</p>
+                    <p class="is-size-6">了解跨網站指令碼機會並識別和解決網站安全性漏洞。</p>
                 </div>
                 <a href="../documentation/opportunities/cross-site-scripting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -95,12 +95,12 @@ ht-degree: 8%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/website-permissions.md" target="_blank" rel="referrer" title="網站權限">網站許可權</a>
+                        <a href="../documentation/opportunities/website-permissions.md" target="_blank" rel="referrer" title="網站權限">網站權限</a>
                     </p>
-                    <p class="is-size-6">瞭解網站許可權機會，以及如何使用它來提高您網站上的安全性。</p>
+                    <p class="is-size-6">了解網站權限機會，以及如何使用它來提高網站的安全性。</p>
                 </div>
                 <a href="../documentation/opportunities/website-permissions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -120,10 +120,10 @@ ht-degree: 8%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//website-vulnerabilities.md" target="_blank" rel="referrer" title="網站漏洞">網站漏洞</a>
                     </p>
-                    <p class="is-size-6">瞭解網站弱點機會以及如何使用它來提高您網站上的安全性。</p>
+                    <p class="is-size-6">了解網站漏洞機會，以及如何使用它來提高網站的安全性。</p>
                 </div>
                 <a href="../documentation/opportunities//website-vulnerabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>

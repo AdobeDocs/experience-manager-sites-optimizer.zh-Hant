@@ -1,23 +1,23 @@
 ---
-title: Sites Optimizer檔案
-description: Experience Manager Sites Optimizer檔案。
+title: Sites Optimizer 文件
+description: Experience Manager Sites Optimizer 文件。
 source-git-commit: a0b7fcae81bee2bce5ed1d3186026f4577708512
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Sites Optimizer檔案
+# Sites Optimizer 文件
 
 ![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
-歡迎使用Sites Optimizer檔案。 您將在這裡找到有關如何使用Sites Optimizer來最佳化AEM網站的資訊。
+歡迎閱讀 Sites Optimizer 文件。您會在這裡找到有關如何使用 Sites Optimizer 將 AEM 網站最佳化的資訊。
 
-## Site Optimizer基本知識
+## Sites Optimizer 基本資訊
 
-探索AEM Sites Optimizer檔案，瞭解關鍵UI元件，包括首頁儀表板、設定設定和最佳化前瞻分析的機會清單。
+探索 AEM Sites Optimizer 文件以了解關鍵 UI 元件，包括首頁儀表板、設定配置和可獲得最佳化分析的機會清單。
 
 <!-- CARDS 
 
@@ -45,12 +45,12 @@ ht-degree: 8%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./basics.md" target="_blank" rel="referrer" title="基本資訊">基本知識</a>
+                        <a href="./basics.md" target="_blank" rel="referrer" title="基本資訊">基本資訊</a>
                     </p>
-                    <p class="is-size-6">瞭解Sites Optimizer的基本知識以及如何導覽。</p>
+                    <p class="is-size-6">了解 Sites Optimizer 的基本資訊及其導覽方式。</p>
                 </div>
                 <a href="./basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -68,12 +68,12 @@ ht-degree: 8%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/overview.md" target="_blank" rel="referrer" title="機會">個機會</a>
+                        <a href="./opportunities/overview.md" target="_blank" rel="referrer" title="機會">機會</a>
                     </p>
-                    <p class="is-size-6">瞭解所有可用的Site Optimizer機會，以及如何使用它們來提高您網站的效能。</p>
+                    <p class="is-size-6">了解所有可用的 Sites Optimizer 機會，以及如何使用這些機會來提高網站的績效。</p>
                 </div>
                 <a href="./opportunities/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -93,10 +93,10 @@ ht-degree: 8%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./settings.md" target="_blank" rel="referrer" title="設定">設定</a>
                     </p>
-                    <p class="is-size-6">瞭解如何設定Sites Optimizer設定及與其他工具整合。</p>
+                    <p class="is-size-6">了解如何設定 Sites Optimizer 設定並與其他工具整合。</p>
                 </div>
                 <a href="./settings.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>

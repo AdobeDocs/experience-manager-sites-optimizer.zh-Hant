@@ -1,24 +1,24 @@
 ---
-title: Sites Optimizer設定
-description: 瞭解如何設定Sites Optimizer設定及與其他工具整合。
+title: Sites Optimizer 設定
+description: 了解如何設定 Sites Optimizer 設定並與其他工具整合。
 source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Sites Optimizer設定
+# Sites Optimizer 設定
 
-![Sites Optimizer設定](./assets/settings/hero.png){align="center"}
+![Sites Optimizer 設定](./assets/settings/hero.png){align="center"}
 
-Site Optimizer設定是設定Sites Optimizer體驗的中心樞紐。
+Sites Optimizer 設定是用於設定 Sites Optimizer 體驗的中心。
 
 ## Google Search Console
 
-![適用於Google Search Console的Site Optimizer設定](./assets/settings/google-search-console.png){align="center"}
+![Google Search Console 的 Sites Optimizer 設定](./assets/settings/google-search-console.png){align="center"}
 
-AEM Sites Optimizer中的Google Search Console設定聯結器可讓您分析關鍵SEO量度，例如搜尋排名、點進率及核心Web重要元素。 您可以藉由讓Google搜尋主控台保持連線，運用JSON分析發掘最佳化機會並改善網站效能。
+AEM Sites Optimizer 中的 Google Search Console 設定連接器可讓您分析關鍵 SEO 量度，例如搜尋排名、點按率和核心網頁指標。透過讓 Google Search Console 保持連接，您可以利用 JSON 分析來發現最佳化機會並提高網站績效。
 
-若要設定此聯結器，您必須擁有網域的Google Search Console系統管理存取權的認證。
+若要設定此連接器，您必須擁有能以系統管理員身分存取該網域之 Google Search Console 的認證。

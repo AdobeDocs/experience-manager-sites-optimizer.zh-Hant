@@ -1,10 +1,10 @@
 ---
-title: 使用Sites Optimizer進行表單最佳化
-description: 瞭解如何使用Sites Optimizer進行表單最佳化。
+title: 使用 Sites Optimizer 進行表單最佳化
+description: 了解如何使用 Sites Optimizer 進行表單最佳化。
 source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ![表單最佳化機會](./assets/form-optimization/hero.png){align="center"}
 
-AEM Sites Optimizer中的表單最佳化對於改善使用者互動和最大化轉換至關重要。 透過識別需要改進的領域（例如低檢視率和低轉換率的表單），團隊可以改善表單設計、版位和內容，以提高參與度。 最佳化的表單可確保提供順暢的使用者體驗，讓訪客更輕鬆地完成動作並推動業務成果。 運用AEM Sites Optimizer的深入分析，行銷人員可持續找出需改善的領域，進而提高效益及提升整體網站績效。
+AEM Sites Optimizer 中的表單最佳化對於改進使用者互動和最大化轉換率來說至關重要。透過識別可改進的領域 (例如表單的低瀏覽量和低轉換率)，團隊可以調整表單的設計、放置環境和內容，以增強參與度。經過最佳化的表單可確保無縫的使用者體驗，讓訪客能夠更容易地完成操作並促成業務成果。利用 AEM Sites Optimizer 的分析，行銷人員可以不斷識別可改進的領域，並於最終提高有效性並提升網站的整體效能。
 
 ## 機會
 
@@ -33,8 +33,8 @@ AEM Sites Optimizer中的表單最佳化對於改善使用者互動和最大化�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/low-views.md" title="低檢視" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="低檢視"
+                    <a href="../documentation/opportunities/low-views.md" title="低瀏覽量" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="低瀏覽量"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -42,12 +42,12 @@ AEM Sites Optimizer中的表單最佳化對於改善使用者互動和最大化�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" title="低檢視">低檢視</a>
+                        <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" title="低瀏覽量">低瀏覽量</a>
                     </p>
-                    <p class="is-size-6">瞭解低檢視機會以及如何使用它來改善網站上的表單參與度。</p>
+                    <p class="is-size-6">了解低瀏覽量機會，以及如何使用它來提高您網站上的表單參與度。</p>
                 </div>
                 <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -56,8 +56,8 @@ AEM Sites Optimizer中的表單最佳化對於改善使用者互動和最大化�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/low-conversions.md" title="低轉換" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="低轉換"
+                    <a href="../documentation/opportunities/low-conversions.md" title="低轉換率" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="低轉換率"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -65,12 +65,12 @@ AEM Sites Optimizer中的表單最佳化對於改善使用者互動和最大化�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" title="低轉換">低轉換率</a>
+                        <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" title="低轉換率">低轉換率</a>
                     </p>
-                    <p class="is-size-6">瞭解低轉換率機會，以及如何使用它來改善網站上的表單參與度。</p>
+                    <p class="is-size-6">了解低轉換率機會，以及如何使用它來提高您網站上的表單參與度。</p>
                 </div>
                 <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
