@@ -1,26 +1,26 @@
 ---
-title: Sites Optimizer機會檔案
-description: 瞭解所有可用的Site Optimizer機會，以及如何使用它們來提高您網站的效能。
+title: Sites Optimizer 機會文件
+description: 了解所有可用的 Sites Optimizer 機會，以及如何使用這些機會來提高網站的績效。
 source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
 source-wordcount: '758'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# 機會檔案
+# 機會文件
 
-![個Sites Optimizer機會](./assets/overview/hero.png){align="center"}
+![Sites Optimizer 機會](./assets/overview/hero.png){align="center"}
 
 
-Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別並建議網站改進專案。 每個機會都會提供潛在業務價值的深入分析、強調需要注意的領域，並提供最佳化的可行建議。 按一下每個機會，探索已識別的問題、建議的改進，以及如何實施這些變更的逐步指南，以提升網站效能和使用者體驗。
+Sites Optimizer 是由 Adobe AI 提供支援的一組不斷增長的機會所構成，旨在識別並建議您的網站所能進行的改進。每個機會都會提供對於潛在商業價值的分析、點出需要關注的領域，並提供可操作的最佳化建議。按一下每個機會來探索已識別的問題、建議的改進，以及關於如何實施這些變更以增強網站績效和使用者體驗的逐步指導。
 
-透過[Site Optimizer的持續導覽](/help/documentation/basics.md#navigation)中的&#x200B;**機會**&#x200B;功能表選項，可以取得機會。
+您可以透過 [Sites Optimizer 永久性導覽](/help/documentation/basics.md#navigation)中的「**機會**」選單選項來使用機會。
 
 ## 機會狀態
 
-您可以使用頂端的索引標籤，依狀態來組織和篩選商機：
+您可以使用頂端的索引標籤來按狀態組織和篩選機會：
 
 >[!BEGINTABS]
 
@@ -28,47 +28,47 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
 
 ![目前的機會](./assets/overview/current.png){align="center"}
 
-目前擱置中的商機。
+目前待處理的機會。
 
 >[!TAB 已忽略]
 
-![忽略的機會](./assets/overview/ignored.png){align="center"}
+![已忽略的機會](./assets/overview/ignored.png){align="center"}
 
-已被忽略的機會。 可在此檢視中還原被忽略的機會。
+您已忽略的機會。您可以從這個檢視中還原已忽略的機會。
 
 >[!TAB 已最佳化]
 
-已最佳化的機會歷史清單。
+已最佳化之機會的歷史清單。
 
 >[!ENDTABS]
 
 ## 機會
 
-選取[商機狀態](#opportunity-status)後，您就可以檢視商機清單。 可透過以下方式進一步篩選機會清單：
+選取某個[機會狀態](#opportunity-status)後，便可以檢視機會清單。您可以透過以下條件來進一步篩選機會清單：
 
-* **搜尋** — 依&#x200B;**關鍵字、標籤或URL**&#x200B;搜尋商機。
-* **機會型別** — 使用&#x200B;**型別**&#x200B;下拉式清單，依[機會型別](/help/opportunity-types/overview.md)篩選機會。
+* **搜尋** - 透過&#x200B;**關鍵字、標記或 URL** 搜尋機會。
+* **機會類型** - 使用「**類型**」下拉式清單來依[機會類型](/help/opportunity-types/overview.md)篩選機會。
 
 ### 機會詳細資料
 
 ![機會詳細資料](/help/documentation/opportunities/assets/overview/opportunity-details.png){align="center"}
 
-每個機會都會提供問題的簡短說明、其對您網站的潛在影響，以及完整詳細資料的連結。 您也可以檢視其狀態，指出其是否已最佳化或仍在擱置中。
+每個機會都會提供問題的簡短說明、其對您網站的潛在影響，以及完整詳細資料的連結。您也可以查看其狀態，這會指出其已進行最佳化還是仍處於待處理狀態。
 
-* **機會標題** — 問題的簡短說明，及其對網站效能的潛在影響。
-* **上次更新日期** - Sites Optimizer上次使用新資料更新商機的日期。
-* **問題計數** — 您的網站上已識別問題的執行個體數目。
-* **機會型別** — 機會的[型別](/help/opportunity-types/overview.md)，此機會是其中一部分 — 例如流量取得、參與或網站健康狀態。
+* **機會標題** – 問題的簡短說明，及其對您網站績效的潛在影響。
+* **上次更新時間** – Sites Optimizer 上次以新資料更新機會的日期。
+* **問題計數** - 在您網站上發現的問題實例數。
+* **機會類型** – 此機會所屬的[機會類型](/help/opportunity-types/overview.md)，例如流量贏取、參與度或網站健康情況。
 
-每個商機的摘要資訊會依型別而異，可能包括收入影響、流量、使用者參與或安全性威脅的詳細資訊。
+每個機會的摘要資訊會隨類型而異，其中可能會包含有關收入影響、流量、使用者參與度或安全威脅的詳細資料。
 
-若要檢視商機的詳細資料，請按一下&#x200B;**詳細資料**&#x200B;按鈕。
+若要檢視機會的詳細資料，請按一下「**詳細資料**」按鈕。
 
-若要從Sites Optimizer儀表板排除商機，請按一下&#x200B;**忽略**&#x200B;按鈕。  此動作將機會移至&#x200B;[**已忽略**&#x200B;標籤](#opportunity-status)。
+若要從 Sites Optimizer 儀表板中排除某個機會，請按一下「**忽略**」按鈕。此操作會將機會移到「[**已忽略**」索引標籤](#opportunity-status)。
 
 ## 所有機會
 
-探索Sites Optimizer提供的所有可能機會：
+探索 Sites Optimizer 中所有可用的可能機會：
 
 <!-- CARDS
 
@@ -130,10 +130,10 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./accessibility-issues.md" target="_blank" rel="referrer" title="協助工具問題">協助工具問題</a>
                     </p>
-                    <p class="is-size-6">瞭解無障礙問題商機，以及如何使用它來提高網站上的安全性。</p>
+                    <p class="is-size-6">了解協助工具問題機會，以及如何使用它來提高網站的安全性。</p>
                 </div>
                 <a href="./accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -151,12 +151,12 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./broken-backlinks.md" target="_blank" rel="referrer" title="損壞的反向連結">中斷的回溯連結</a>
+                        <a href="./broken-backlinks.md" target="_blank" rel="referrer" title="損壞的反向連結">損壞的反向連結</a>
                     </p>
-                    <p class="is-size-6">瞭解中斷的背景連結商機，以及如何使用它來改善流量贏取。</p>
+                    <p class="is-size-6">了解損壞的反向連結機會，以及如何使用它來改進流量贏取。</p>
                 </div>
                 <a href="./broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -174,12 +174,12 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./broken-internal-links.md" target="_blank" rel="referrer" title="損壞的內部連結">中斷的內部連結</a>
+                        <a href="./broken-internal-links.md" target="_blank" rel="referrer" title="損壞的內部連結">損壞的內部連結</a>
                     </p>
-                    <p class="is-size-6">瞭解中斷連結商機，以及如何使用它來改善網站上的參與度。</p>
+                    <p class="is-size-6">了解損壞的連結機會，以及如何使用它來提高您網站上的參與度。</p>
                 </div>
                 <a href="./broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -188,8 +188,8 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./cors-configuration.md" title="CORS設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-code.png" alt="CORS設定"
+                    <a href="./cors-configuration.md" title="CORS 設定" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-code.png" alt="CORS 設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -197,12 +197,12 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./cors-configuration.md" target="_blank" rel="referrer" title="CORS設定">CORS組態</a>
+                        <a href="./cors-configuration.md" target="_blank" rel="referrer" title="CORS 設定">CORS 設定</a>
                     </p>
-                    <p class="is-size-6">瞭解CORS設定機會，以及識別和修正網站安全漏洞。</p>
+                    <p class="is-size-6">了解 CORS 設定機會並識別和解決網站安全性漏洞。</p>
                 </div>
                 <a href="./cors-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -211,8 +211,8 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./core-web-vitals.md" title="核心網頁生態" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-performance.png" alt="核心網頁生態"
+                    <a href="./core-web-vitals.md" title="核心網頁指標" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-performance.png" alt="核心網頁指標"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -220,12 +220,12 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="核心網頁生態">核心Web重要資訊</a>
+                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="核心網頁指標">核心網頁指標</a>
                     </p>
-                    <p class="is-size-6">瞭解核心的Web重要機會，以及如何使用它來改善流量獲取。</p>
+                    <p class="is-size-6">了解核心網頁指標機會，以及如何使用它來改進流量贏取。</p>
                 </div>
                 <a href="./core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -245,10 +245,10 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./cross-site-scripting.md" target="_blank" rel="referrer" title="跨網站指令碼">跨網站指令碼</a>
                     </p>
-                    <p class="is-size-6">瞭解跨網站指令碼機會，並識別和修正網站安全漏洞。</p>
+                    <p class="is-size-6">了解跨網站指令碼機會並識別和解決網站安全性漏洞。</p>
                 </div>
                 <a href="./cross-site-scripting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -268,10 +268,10 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./high-bounce-rate.md" target="_blank" rel="referrer" title="高跳出率">高跳出率</a>
                     </p>
-                    <p class="is-size-6">瞭解低檢視機會以及如何使用它來改善網站上的表單參與度。</p>
+                    <p class="is-size-6">了解低瀏覽量機會，以及如何使用它來提高您網站上的表單參與度。</p>
                 </div>
                 <a href="./high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -289,12 +289,12 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="中繼資料無效或缺失">無效或遺失中繼資料</a>
+                        <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="中繼資料無效或缺失">中繼資料無效或缺失</a>
                     </p>
-                    <p class="is-size-6">瞭解無效或遺失的中繼資料機會，以及如何使用它來改善流量贏取。</p>
+                    <p class="is-size-6">了解無效或缺少中繼資料機會，以及如何使用它來改進流量贏取。</p>
                 </div>
                 <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -303,8 +303,8 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./missing-alt-text.md" title="遺失替代文字" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="遺失替代文字"
+                    <a href="./missing-alt-text.md" title="缺少替代文字" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="缺少替代文字"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -312,12 +312,12 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./missing-alt-text.md" target="_blank" rel="referrer" title="遺失替代文字">遺失替代文字</a>
+                        <a href="./missing-alt-text.md" target="_blank" rel="referrer" title="缺少替代文字">缺少替代文字</a>
                     </p>
-                    <p class="is-size-6">瞭解遺失的替代文字機會，以及如何使用它來改善網站上的參與度。</p>
+                    <p class="is-size-6">了解缺少替代文字機會，以及如何使用它來提高您網站上的參與度。</p>
                 </div>
                 <a href="./missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -335,12 +335,12 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" title="結構化資料缺失或無效">遺失或無效的結構化資料</a>
+                        <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" title="結構化資料缺失或無效">結構化資料缺失或無效</a>
                     </p>
-                    <p class="is-size-6">瞭解缺少或無效的結構化資料機會，以及如何使用它來改善流量獲取。</p>
+                    <p class="is-size-6">了解缺少或無效的結構化資料機會，以及如何使用它來改進流量贏取。</p>
                 </div>
                 <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -358,12 +358,12 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./sitemap-issues.md" target="_blank" rel="referrer" title="Sitemap 問題">網站地圖問題</a>
+                        <a href="./sitemap-issues.md" target="_blank" rel="referrer" title="Sitemap 問題">Sitemap 問題</a>
                     </p>
-                    <p class="is-size-6">瞭解Sitemap問題商機，以及如何使用它來改善流量贏取。</p>
+                    <p class="is-size-6">了解 Sitemap 問題機會，以及如何使用它來改進流量贏取。</p>
                 </div>
                 <a href="./sitemap-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -381,12 +381,12 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./website-permissions.md" target="_blank" rel="referrer" title="網站權限">網站許可權</a>
+                        <a href="./website-permissions.md" target="_blank" rel="referrer" title="網站權限">網站權限</a>
                     </p>
-                    <p class="is-size-6">瞭解網站許可權機會，以及如何使用它來提高您網站上的安全性。</p>
+                    <p class="is-size-6">了解網站權限機會，以及如何使用它來提高網站的安全性。</p>
                 </div>
                 <a href="./website-permissions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -406,10 +406,10 @@ Sites Optimizer包含越來越多由Adobe AI支援的機會，專門用於識別
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" title="網站漏洞">網站漏洞</a>
                     </p>
-                    <p class="is-size-6">瞭解網站弱點機會以及如何使用它來提高您網站上的安全性。</p>
+                    <p class="is-size-6">了解網站漏洞機會，以及如何使用它來提高網站的安全性。</p>
                 </div>
                 <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>

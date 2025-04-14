@@ -1,23 +1,23 @@
 ---
-title: Sites Optimizer機會型別
-description: 瞭解Sites Optimizer中的關鍵機會型別，以及它們如何協助您改善網站效能。
+title: Sites Optimizer 機會類型
+description: 了解 Sites Optimizer 中的關鍵機會類型，以及其如何協助您提高網站的績效。
 source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 9%
+ht-degree: 71%
 
 ---
 
 
-# 機會型別
+# 機會類型
 
-![機會型別](./assets/overview/hero.png){align="center"}
+![機會類型](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizer提供有價值的深入分析和建議，以協助您改善網站的效能、可用性和安全性。 這些見解將分組為關鍵機會領域：參與、流量取得、安全性狀態以及網站健康狀態。 每個類別都會反白標示增強網站的特定方式，包括增加訪客互動、改善可發現性、增強安全性，或維持網站穩定性。
+AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站的績效、可用性和安全性。這些見解將分組為關鍵機會領域：參與、流量取得、安全性狀態以及網站健康狀態。 每個類別都會反白標示增強網站的特定方式，包括增加訪客互動、改善可發現性、增強安全性，或維持網站穩定性。
 
-利用這些機會改善使用者體驗、吸引合適的對象，並確保您的網站安全可靠。 增強參與度和流量獲取可促進互動和可見度，而強大的安全性狀況和網站健全狀態有助於確保信任和穩定性。  探索以下連結，檢視依類別組織的機會，並探索改善網站的方法。
+利用這些機會可以改進使用者體驗、吸引合適的客群，並確保您的網站安全可靠。增強參與度和流量獲取可促進互動和可見度，而強大的安全性狀況和網站健全狀態有助於確保信任和穩定性。  請探索下面的連結，以查看按類別組織的機會，並找到改進網站的方法。
 
-## 機會型別
+## 機會類型
 
 <!-- CARDS 
 
@@ -48,10 +48,10 @@ AEM Sites Optimizer提供有價值的深入分析和建議，以協助您改善�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./engagement.md" target="_blank" rel="referrer" title="參與度">參與</a>
                     </p>
-                    <p class="is-size-6">瞭解如何改善與Sites Optimizer的互動。</p>
+                    <p class="is-size-6">了解如何使用 Sites Optimizer 提高參與度。</p>
                 </div>
                 <a href="./engagement.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -69,12 +69,12 @@ AEM Sites Optimizer提供有價值的深入分析和建議，以協助您改善�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./security-posture.md" target="_blank" rel="referrer" title="安全態勢">安全性狀態</a>
+                        <a href="./security-posture.md" target="_blank" rel="referrer" title="安全態勢">安全態勢</a>
                     </p>
-                    <p class="is-size-6">瞭解如何使用Sites Optimizer改善網站安全性。</p>
+                    <p class="is-size-6">了解如何使用 Sites Optimizer 來提高網站的安全性。</p>
                 </div>
                 <a href="./security-posture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -92,12 +92,12 @@ AEM Sites Optimizer提供有價值的深入分析和建議，以協助您改善�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./site-health.md" target="_blank" rel="referrer" title="網站健康情況">網站健康狀況</a>
+                        <a href="./site-health.md" target="_blank" rel="referrer" title="網站健康情況">網站健康情況</a>
                     </p>
-                    <p class="is-size-6">瞭解如何使用Sites Optimizer改善您網站的健康情況。</p>
+                    <p class="is-size-6">了解如何使用 Sites Optimizer 來提高網站的健康情況。</p>
                 </div>
                 <a href="./site-health.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -117,10 +117,10 @@ AEM Sites Optimizer提供有價值的深入分析和建議，以協助您改善�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="流量贏取">流量贏取</a>
                     </p>
-                    <p class="is-size-6">瞭解如何使用Sites Optimizer增加流量贏取。</p>
+                    <p class="is-size-6">了解如何使用 Sites Optimizer 來增加流量贏取。</p>
                 </div>
                 <a href="./traffic-acquisition.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
