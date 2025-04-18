@@ -3,9 +3,9 @@ title: 高跳出率機會文件
 description: 了解低瀏覽量機會，以及如何使用它來提高您網站上的表單參與度。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 99%
 
 ## 自動最佳化
 
-[!BADGE Ultimate]{type=Positive tooltip=" Ultimate"}
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![自動最佳化高跳出率](./assets/high-bounce-rate/auto-optimize.png){align="center"}
 

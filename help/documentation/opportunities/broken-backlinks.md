@@ -3,9 +3,9 @@ title: 損壞的反向連結機會文件
 description: 了解損壞的反向連結機會，以及如何使用它來改進流量贏取。
 badgeTrafficAcquisition: label="流量贏取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量贏取"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 99%
 
 ## 自動最佳化
 
-[!BADGE Ultimate]{type=Positive tooltip=" Ultimate"}
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![自動最佳化損壞的反向連結](./assets/broken-backlinks/auto-optimize.png){align="center"}
 

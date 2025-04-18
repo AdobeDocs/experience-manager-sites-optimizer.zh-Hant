@@ -1,10 +1,10 @@
 ---
 title: AEM Sites Optimizer
-description: 使用Sites Optimizer提升網站效能 — 提升速度、降低成本、增強可靠性，進而提升參與度。
+description: 使用 Sites Optimizer 來提升您網站的績效 — 提高速度、降低成本，並增強可靠性，以獲得更好的參與度。
 source-git-commit: 80d1bb016dedcff9b3b6293008b43070ff24867c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 

@@ -3,9 +3,9 @@ title: 協助工具問題機會文件
 description: 了解協助工具問題機會，以及如何使用它來提高網站的安全性。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
 source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
 
 **協助工具問題機會**&#x200B;可識別您網站上的協助工具問題，其所含內容如下：
 
-* **問題** — 發現特定的協助工具問題。
+* **問題** – 所發現的具體協助工具問題。
 * **指南** – 問題所違反的 [WCAG 指南 ID](https://www.w3.org/TR/WCAG21/)。
 * **使用者影響** – 對身心障礙使用者的影響評估。
 * **失敗元素** - 網頁上受問題影響的 HTML 元素。
@@ -36,7 +36,7 @@ ht-degree: 96%
 
 ## 自動最佳化
 
-[!BADGE Ultimate]{type=Positive tooltip=" Ultimate"}
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![自動最佳化協助工具問題](./assets/accessibility-issues/auto-optimize.png){align="center"}
 

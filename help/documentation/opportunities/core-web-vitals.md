@@ -3,9 +3,9 @@ title: 核心網頁指標機會文件
 description: 了解核心網頁指標機會，以及如何使用它來改進流量贏取。
 badgeSiteHealth: label="網站健康情況" type="Caution" url="../../opportunity-types/site-health.md" tooltip="網站健康情況"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 99%
 
 ## 自動最佳化
 
-[!BADGE Ultimate]{type=Positive tooltip=" Ultimate"}
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![自動最佳化核心網頁指標機會](./assets/core-web-vitals/auto-optimize.png){align="center"}
 

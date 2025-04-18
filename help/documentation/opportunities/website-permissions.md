@@ -3,9 +3,9 @@ title: 網站權限機會文件
 description: 了解網站權限機會，以及如何使用它來提高網站的安全性。
 badgeSecurityPosture: label="安全態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="安全態勢"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 99%
 
 ## 自動最佳化
 
-[!BADGE Ultimate]{type=Positive tooltip=" Ultimate"}
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![自動最佳化網站權限](./assets/website-permissions/auto-optimize.png){align="center"}
 

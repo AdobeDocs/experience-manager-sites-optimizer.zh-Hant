@@ -3,9 +3,9 @@ title: 缺少或無效的結構化資料文件
 description: 了解缺少或無效的結構化資料機會，以及如何使用它來改進流量贏取。
 badgeTrafficAcquisition: label="流量贏取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量贏取"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '361'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 99%
 
 ## 自動最佳化
 
-[!BADGE Ultimate]{type=Positive tooltip=" Ultimate"}
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![自動最佳化建議的缺少或無效結構化資料](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
 

@@ -3,9 +3,9 @@ title: Sitemap 問題機會文件
 description: 了解 Sitemap 問題機會，以及如何使用它來改進流量贏取。
 badgeTrafficAcquisition: label="流量贏取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量贏取"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '486'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ Sitemap 只應包含最終目標 URL，而非包含會重新導向的 URL。重�
 
 ## 自動最佳化
 
-[!BADGE Ultimate]{type=Positive tooltip=" Ultimate"}
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![自動最佳化 Sitemap 問題](./assets/sitemap-issues/auto-optimize.png){align="center"}
 
