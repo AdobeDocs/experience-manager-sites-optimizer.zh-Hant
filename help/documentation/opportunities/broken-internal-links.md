@@ -3,14 +3,14 @@ title: 損壞的內部連結機會文件
 description: 了解損壞的連結機會，以及如何使用它來提高您網站上的參與度。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
 source-git-commit: c2bd3f7dc998b103ecdd02c239b1ea0312db20f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '447'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# 中斷的內部連結機會
+# 損壞的內部連結機會
 
 ![損壞的內部連結機會](./assets/broken-internal-links/hero.png){align="center"}
 
