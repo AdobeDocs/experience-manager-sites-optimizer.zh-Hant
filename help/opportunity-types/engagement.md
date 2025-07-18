@@ -1,10 +1,10 @@
 ---
 title: 使用 Sites Optimizer 來獲得最佳參與度
 description: 了解如何使用 Sites Optimizer 提高參與度。
-source-git-commit: 62909a9c65a62beb202896d98bb9ab058bcd984a
-workflow-type: ht
-source-wordcount: '238'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '237'
+ht-degree: 92%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![參與度機會](./assets/engagement/hero.png){align="center"}
 
-AEM Sites Optimizer 中的參與度機會對於增強數位體驗來說至關重要，因為其可以提供有關使用者如何與網頁互動的可操作分析。透過識別可改進的領域 (例如協助工具問題、損壞的內部連結、高跳出率和缺少替代文字)，行銷人員和內容作者可以將其網站最佳化以獲得更好的績效和使用者參與度。這些機會有助於確保內容有效、可發現且引人注目，並於最終促成更高的轉換率和更無縫的客戶歷程。利用 AEM Sites Optimizer 的建議可讓團隊不斷調整其數位策略並大規模地提供高影響力的體驗。
+AEM Sites Optimizer 中的參與度機會對於增強數位體驗來說至關重要，因為其可以提供有關使用者如何與網頁互動的可操作分析。透過識別可改進的領域 (例如協助工具問題、損壞的內部連結、高跳出率和缺少替代文字)，行銷人員和內容作者可以將其網站最佳化以獲得更好的績效和使用者參與度。這些機會有助於確保內容有效、可發現且引人注目，並於最終促成更高的轉換率和更無縫的客戶歷程。使用AEM Sites Optimizer的建議，讓團隊持續調整其數位策略，並大規模提供高影響力的體驗。
 
 
 ## 機會

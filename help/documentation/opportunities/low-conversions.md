@@ -2,9 +2,9 @@
 title: 低轉換率機會文件
 description: 了解低轉換率機會，以及如何使用它來提高您網站上的表單參與度。
 badgeFormOptimization: label="表單最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表單最佳化"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '343'
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '342'
 ht-degree: 100%
 
 ---

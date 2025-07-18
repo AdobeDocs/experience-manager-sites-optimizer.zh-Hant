@@ -2,10 +2,10 @@
 title: CORS 設定機會文件
 description: 了解 CORS 設定機會並識別和解決網站安全性漏洞。
 badgeSecurityPosture: label="安全態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="安全態勢"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 87%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![CORS 設定機會](./assets/cors-configuration/hero.png){align="center"}
 
-正確設定跨原始資源共用 (CORS) 對於保護 Web 應用程式免受未經授權的資料存取至關重要。當 `Access-Control-Allow-Origin` 標頭設定為 `*` 時，任何網域都可以請求並接收回應，從而有可能向攻擊者公開敏感資訊。這提供了一個機會，讓您可以透過實施受信任網域的受控允許清單或在不需要 CORS 時加以停用來加強安全性。確保安全的 CORS 設定有助於保護私人內容，同時讓獲得授權的使用者可以保持無縫存取。
+正確設定跨原始資源共用 (CORS) 對於保護 Web 應用程式免受未經授權的資料存取至關重要。當 `Access-Control-Allow-Origin` 標頭設定為 `*` 時，任何網域都可以請求並接收回應，從而有可能向攻擊者公開敏感資訊。此功能提供了透過實作受信任網域的受控允許清單或在不需要時停用CORS來加強安全性的機會。 確保安全的 CORS 設定有助於保護私人內容，同時讓獲得授權的使用者可以保持無縫存取。
 
 ## 自動識別
 

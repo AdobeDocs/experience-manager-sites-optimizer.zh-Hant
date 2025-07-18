@@ -2,10 +2,10 @@
 title: 跨網站指令碼機會文件
 description: 了解跨網站指令碼機會並識別和解決網站安全性漏洞。
 badgeSecurityPosture: label="安全態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="安全態勢"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 100%
+ht-degree: 78%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![跨網站機會](./assets/cross-site-scripting/hero.png){align="center"}
 
-跨網站指令碼機會可識別並修復網站程式碼中的漏洞，攻擊者可能會利用這些漏洞將惡意指令碼注入到其他使用者檢視的網頁中。這些指令碼可以竊取敏感資訊 (例如工作階段 Cookie)，或代表使用者執行操作 (例如變更使用者的密碼)。
+跨網站指令碼機會會識別您網站程式碼中的漏洞。 接著，它會修正攻擊者可能利用惡意指令碼插入其他使用者所檢視之網頁的問題。 這些指令碼可以竊取敏感資訊 (例如工作階段 Cookie)，或代表使用者執行操作 (例如變更使用者的密碼)。
 
 ## 自動識別
 

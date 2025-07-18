@@ -1,10 +1,10 @@
 ---
 title: 使用 Sites Optimizer 進行表單最佳化
 description: 了解如何使用 Sites Optimizer 進行表單最佳化。
-source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 86%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![表單最佳化機會](./assets/form-optimization/hero.png){align="center"}
 
-AEM Sites Optimizer 中的表單最佳化對於改進使用者互動和最大化轉換率來說至關重要。透過識別可改進的領域 (例如表單的低瀏覽量和低轉換率)，團隊可以調整表單的設計、放置環境和內容，以增強參與度。經過最佳化的表單可確保無縫的使用者體驗，讓訪客能夠更容易地完成操作並促成業務成果。利用 AEM Sites Optimizer 的分析，行銷人員可以不斷識別可改進的領域，並於最終提高有效性並提升網站的整體效能。
+AEM Sites Optimizer 中的表單最佳化對於改進使用者互動和最大化轉換率來說至關重要。透過識別可改進的領域 (例如表單的低瀏覽量和低轉換率)，團隊可以調整表單的設計、放置環境和內容，以增強參與度。經過最佳化的表單可確保無縫的使用者體驗，讓訪客能夠更容易地完成操作並促成業務成果。透過AEM Sites Optimizer的深入分析，行銷人員可持續找出需改善的領域，最終提升效益並提升整體網站績效。
 
 ## 機會
 

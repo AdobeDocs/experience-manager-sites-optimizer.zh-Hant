@@ -2,10 +2,10 @@
 title: 協助工具問題機會文件
 description: 了解協助工具問題機會，以及如何使用它來提高網站的安全性。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
-source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
-workflow-type: ht
-source-wordcount: '253'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '257'
+ht-degree: 73%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![協助工具問題機會](./assets/accessibility-issues/hero.png){align="center"}
 
-協助工具問題機會可識別您的網站符合身心障礙人士需求的程度，以及其是否有遵循[網頁內容無障礙指南 (WCAG)](https://www.w3.org/TR/WCAG21/)。透過評估您的網站符合 WCAG 的程度，您可以協助打造具有包容性的線上體驗，讓具有視覺、聽覺、認知和運動障礙的個人能夠在您的內容上進行導覽、互動並從中受益。這不只是出於道德原因而至關重要，還因為這能夠促進遵守法律要求、改進 SEO，並可擴大客群範圍，從而增強使用者體驗和業務績效。
+協助工具問題機會可識別您的網站符合身心障礙人士需求的程度，以及其是否有遵循[網頁內容無障礙指南 (WCAG)](https://www.w3.org/TR/WCAG21/)。透過評估您的網站符合WCAG的程度，您有助於建立包容性的線上體驗。 反過來，它也能讓視覺、聽覺、認知和運動障礙人士導覽、互動內容，並從中獲益。 此功能不僅出於道德考量是必要的，而且也促進對法律要求的合規性、改善SEO，並可增加您的受眾觸及率，同時增強使用者體驗和業務績效。
 
 ## 自動識別
 

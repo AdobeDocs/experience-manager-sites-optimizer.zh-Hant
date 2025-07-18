@@ -2,10 +2,10 @@
 title: 網站漏洞機會文件
 description: 了解網站漏洞機會，以及如何使用它來提高網站的安全性。
 badgeSecurityPosture: label="安全態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="安全態勢"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '371'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '366'
+ht-degree: 77%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![網站漏洞機會](./assets/website-vulnerabilities/hero.png){align="center"}
 
-網站漏洞機會可識別您應用程式的程式碼所用第三方程式庫中的安全漏洞。惡意攻擊者可能會利用這些漏洞，導致您的網站增加風險並降低安全態勢。
+網站弱點機會會識別您應用程式程式碼所使用的協力廠商程式庫中的安全弱點。 惡意攻擊者會利用這些漏洞，增加風險並降低網站的安全性狀態。
 
 網站漏洞機會會在頁面頂端顯示摘要，其中包含以下內容：
 
@@ -37,17 +37,17 @@ ht-degree: 100%
 
 ![自動建議網站漏洞](./assets/website-vulnerabilities/auto-suggest.png){align="center"}
 
-自動建議會針對有漏洞的程式庫所應升級到的&#x200B;**建議版本**&#x200B;提供 AI 生成的建議。每個項目都會有一個&#x200B;**分數**，以指出其整體嚴重程度，從而協助您確定最關鍵漏洞的先後順序。
+自動建議針對您應升級至之易受攻擊的程式庫的&#x200B;**建議版本**，提供AI產生的建議。 每個項目都會有一個&#x200B;**分數**，以指出其整體嚴重程度，從而協助您確定最關鍵漏洞的先後順序。
 
 >[!BEGINTABS]
 
 >[!TAB 漏洞詳細資料]
 
-每個漏洞均包含指向[國家漏洞資料庫 (NVD)](https://nvd.nist.gov/) 中詳細資訊的連結。按一下漏洞識別碼或說明右側的連結項目便會將帶導向該漏洞的 NVD 頁面。
+每個漏洞均包含指向[國家漏洞資料庫 (NVD)](https://nvd.nist.gov/) 中詳細資訊的連結。按一下漏洞識別碼或說明右側的連結專案，即可前往該漏洞的NVD頁面。
 
 >[!TAB 忽略項目]
 
-您可以選擇忽略漏洞清單中的項目。選取&#x200B;**忽略圖示**&#x200B;便可從機會清單中移除該項目。若要重新啟用已忽略的項目，可從機會頁面頂端的「**已忽略**」索引標籤進行。<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
+您可以選擇忽略漏洞清單中的項目。選取![刪除圖示](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg)會從清單中移除專案。 若要重新啟用已忽略的項目，可從機會頁面頂端的「**已忽略**」索引標籤進行。<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
 
 >[!ENDTABS]
 

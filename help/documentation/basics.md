@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 基本資訊
 description: 了解 Sites Optimizer 的基本資訊及其導覽方式。
-source-git-commit: 38e6921ab511b34e54fe97e7317ba1442a4d2121
-workflow-type: ht
-source-wordcount: '520'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 85%
 
 ---
 
@@ -28,7 +28,7 @@ Sites Optimizer 儀表板會提供您網站的績效和改進機會的高層次�
 「導覽」區段可讓您從 Sites Optimizer 中的任何位置快速且持續地存取 Sites Optimizer 的關鍵區域，包括：
 
 * **首頁** - 主儀表板，會提供您網站的績效和改進機會的高層次概觀。
-* **機會** - 可檢視和管理 Sites Optimizer 所識別的機會，包括已最佳化的機會和尚未最佳化的機會。
+* **商機** — 檢視和管理Sites Optimizer識別出的商機，包括已最佳化或保持未最佳化的商機。
 * **設定**  - 可設定 Sites Optimizer 設定，包括您要監視的網站和您會收到的通知。
 
 ## 網站摘要
@@ -50,7 +50,8 @@ Sites Optimizer 儀表板會提供您網站的績效和改進機會的高層次�
 
 「高影響力機會」區段會根據待處理的機會對您網站績效的潛在影響，點出最重要的待處理機會。這些機會會按類型來組織，讓您可以輕鬆地確定最佳化工作的優先順序。
 
-您可以透過關鍵字、標記或 URL 或透過[機會類型](../opportunity-types/overview.md)來篩選機會，以協助您專注於最關鍵的改進領域。
+依關鍵字、標籤、URL或[機會型別](../opportunity-types/overview.md)篩選機會，以專注於最關鍵的改善領域。
+
 
 ### 機會詳細資料
 
@@ -59,9 +60,9 @@ Sites Optimizer 儀表板會提供您網站的績效和改進機會的高層次�
 每個機會都會提供問題的簡短說明、其對您網站的潛在影響，以及完整詳細資料的連結。您也可以查看其狀態，這會指出其已進行最佳化還是仍處於待處理狀態。
 
 * **機會標題** – 問題的簡短說明，及其對您網站績效的潛在影響。
-* **上次更新時間** – Sites Optimizer 上次以新資料更新機會的日期。
+* **上次更新時間** - Sites Optimizer上次於此日期以新資料更新商機。
 * **問題計數** - 在您網站上發現的問題實例數。
-* **機會類型** – 此機會所屬的[機會類型](../opportunity-types/overview.md)，例如流量贏取、參與度或網站健康情況。
+* **機會型別** — 此機會所屬的[機會型別](../opportunity-types/overview.md) — 例如流量取得、參與或網站健康狀態。
 
 每個機會的摘要資訊會隨類型而異，其中可能會包含有關收入影響、流量、使用者參與度或安全威脅的詳細資料。
 
