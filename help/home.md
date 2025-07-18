@@ -11,7 +11,7 @@ ht-degree: 69%
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455096/?learn=on&enablevpops&captions=chi_hant)
 
 Adobe Experience Manager (AEM) Sites Optimizer 是一項雲端型服務，可分析和改進以 AEM 為基礎所建置之網站的績效。它會識別頁面載入、元件使用和內容傳送方面需改善的領域。 此功能有助於增強網站的效能，同時降低維護和更新成本。 透過使用 Sites Optimizer，您可以確保流暢可靠的線上體驗，這對於維持參與度和轉換率來說非常重要。
 
