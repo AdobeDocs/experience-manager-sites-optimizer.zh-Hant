@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 機會類型
 description: 了解 Sites Optimizer 中的關鍵機會類型，以及其如何協助您提高網站的績效。
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 62%
+source-wordcount: '300'
+ht-degree: 48%
 
 ---
 
@@ -12,6 +12,7 @@ ht-degree: 62%
 # 機會類型
 
 ![機會類型](./assets/overview/hero.png){align="center"}
+
 
 AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站的績效、可用性和安全性。這些見解將分組為下列主要機會領域：
 
@@ -36,6 +37,8 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
    { title = Site health }
 * ./traffic-acquisition.md
    { title = Traffic acquisition }
+* ./form-optimization.md
+   { title = Forms Optimizer }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -132,5 +135,54 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms Optimization">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./form-optimization.md" title="Forms最佳化" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Forms最佳化"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms最佳化">Forms最佳化</a>
+                    </p>
+                    <p class="is-size-6">瞭解如何使用Forms Optimizer改善您的表單轉換。</p>
+                </div>
+                <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms Accessibility">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./form-optimization.md" title="Forms協助工具" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Forms協助工具"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms協助工具">Forms協助工具</a>
+                    </p>
+                    <p class="is-size-6">瞭解如何使用Forms Optimizer改善您的表單協助工具。</p>
+                </div>
+                <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+<span class="preview"> Forms最佳化和Forms協助工具功能可在搶先存取計畫下取得。 您可以從您的正式電子郵件ID寫信到aem-forms-ea@adobe.com ，以加入搶先存取計畫並要求存取功能。</span>

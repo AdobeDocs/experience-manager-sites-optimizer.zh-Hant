@@ -2,10 +2,10 @@
 title: 協助工具問題機會文件
 description: 了解協助工具問題機會，以及如何使用它來提高網站的安全性。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 73%
+source-wordcount: '263'
+ht-degree: 71%
 
 ---
 
@@ -53,3 +53,7 @@ Sites Optimizer Ultimate 新增了針對所發現的漏洞部署自動最佳化�
 {{auto-optimize-request-approval}}
 
 >[!ENDTABS]
+
+## 另請參閱
+
+[Forms無障礙問題商機](/help/documentation/opportunities/forms-accessibility-issues.md)

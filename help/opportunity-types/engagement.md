@@ -1,10 +1,10 @@
 ---
 title: 使用 Sites Optimizer 來獲得最佳參與度
 description: 了解如何使用 Sites Optimizer 提高參與度。
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 92%
+ht-degree: 84%
 
 ---
 
@@ -98,7 +98,7 @@ AEM Sites Optimizer 中的參與度機會對於增強數位體驗來說至關重
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" title="高跳出率">高跳出率</a>
                     </p>
-                    <p class="is-size-6">了解低瀏覽量機會，以及如何使用它來提高您網站上的表單參與度。</p>
+                    <p class="is-size-6">瞭解低檢視機會，以及如何使用它來提高您網站上的表單參與度。</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

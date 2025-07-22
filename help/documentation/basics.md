@@ -1,9 +1,9 @@
 ---
 title: Sites Optimizer 基本資訊
 description: 了解 Sites Optimizer 的基本資訊及其導覽方式。
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '511'
 ht-degree: 85%
 
 ---
@@ -62,7 +62,7 @@ Sites Optimizer 儀表板會提供您網站的績效和改進機會的高層次�
 * **機會標題** – 問題的簡短說明，及其對您網站績效的潛在影響。
 * **上次更新時間** - Sites Optimizer上次於此日期以新資料更新商機。
 * **問題計數** - 在您網站上發現的問題實例數。
-* **機會型別** — 此機會所屬的[機會型別](../opportunity-types/overview.md) — 例如流量取得、參與或網站健康狀態。
+* **機會型別** — 此機會所屬的[機會型別](../opportunity-types/overview.md) — 例如流量取得、參與、轉換或網站健康狀態。
 
 每個機會的摘要資訊會隨類型而異，其中可能會包含有關收入影響、流量、使用者參與度或安全威脅的詳細資料。
 
