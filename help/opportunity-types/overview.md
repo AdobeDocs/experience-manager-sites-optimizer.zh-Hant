@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer 機會類型
 description: 了解 Sites Optimizer 中的關鍵機會類型，以及其如何協助您提高網站的績效。
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 62%

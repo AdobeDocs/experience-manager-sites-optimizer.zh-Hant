@@ -2,7 +2,7 @@
 title: 協助工具問題機會文件
 description: 了解協助工具問題機會，以及如何使用它來提高網站的安全性。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 73%
