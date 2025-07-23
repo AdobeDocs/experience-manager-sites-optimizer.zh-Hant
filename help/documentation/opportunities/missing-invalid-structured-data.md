@@ -3,9 +3,9 @@ title: 缺少或無效的結構化資料文件
 description: 了解缺少或無效的結構化資料機會，以及如何使用它來改進流量贏取。
 badgeTrafficAcquisition: label="流量贏取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量贏取"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '360'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 缺失或無效的結構化資料機會會列出在您網頁上偵測到的所有問題，並包含以下類別：
 
-* **有問題的頁面** — 包含無效或遺失結構化資料的頁面。
+* **有問題的頁面** - 包含無效的結構化資料或缺少結構化資料的頁面。
 * **問題與 AI 建議的修正方法** – 會指出影響頁面的結構化資料問題類型。
 * **建議** - 用於進行合適結構化資料更新的 AI 生成建議。如需詳細資訊，請參閱下一節。
 

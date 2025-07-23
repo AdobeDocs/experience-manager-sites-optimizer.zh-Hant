@@ -2,9 +2,9 @@
 title: 使用 Sites Optimizer 來獲得最佳的安全態勢
 description: 了解如何使用 Sites Optimizer 來提高網站的安全性。
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 89%
 
 ![安全態勢機會](./assets/security-posture/hero.png){align="center"}
 
-在 AEM Sites Optimizer 中保持強大的安全態勢對於保護數位體驗和使用者資料來說至關重要。團隊可以透過識別改進機會 (例如 CORS 設定、跨網站指令碼、網站權限和網站漏洞)，主動解決潛在的安全風險並確實遵守最佳實務。加強安全措施不僅可以保護敏感訊息，還可以增強使用者信任和網站可靠性。使用AEM Sites Optimizer的深入分析可協助組織持續監控及改善其安全性立場、降低風險並維護安全的數位環境。
+在 AEM Sites Optimizer 中保持強大的安全態勢對於保護數位體驗和使用者資料來說至關重要。團隊可以透過識別改進機會 (例如 CORS 設定、跨網站指令碼、網站權限和網站漏洞)，主動解決潛在的安全風險並確實遵守最佳實務。加強安全措施不僅可以保護敏感訊息，還可以增強使用者信任和網站可靠性。組織可以使用 AEM Sites Optimizer 的洞察，持續監視和改進其安全性態勢，降低風險並維持安全的數位環境。
 
 ## 機會
 

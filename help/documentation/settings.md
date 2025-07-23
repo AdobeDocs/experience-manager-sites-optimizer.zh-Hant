@@ -2,9 +2,9 @@
 title: Sites Optimizer 設定
 description: 了解如何設定 Sites Optimizer 設定並與其他工具整合。
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 87%
 
 ![Sites Optimizer 設定](./assets/settings/hero.png){align="center"}
 
-網站最佳化工具設定是設定Sites Optimizer體驗的中央樞紐。
+Sites Optimizer 設定是您設定 Sites Optimizer 體驗的中樞。
 
 ## Google Search Console
 

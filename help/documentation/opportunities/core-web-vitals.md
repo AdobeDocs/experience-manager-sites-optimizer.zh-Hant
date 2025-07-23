@@ -3,9 +3,9 @@ title: 核心網頁指標機會文件
 description: 了解核心網頁指標機會，以及如何使用它來改進流量贏取。
 badgeSiteHealth: label="網站健康情況" type="Caution" url="../../opportunity-types/site-health.md" tooltip="網站健康情況"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '376'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 86%
 
 ![核心網頁指標機會](./assets/core-web-vitals/hero.png){align="center"}
 
-核心網頁指標機會可識別會降低網頁使用者體驗和有機搜尋績效的問題。這些問題源自於廣泛的因素，例如：自訂字型、未最佳化的JavaScript相依性、第三方指令碼等。 核心網頁指標機會會指出這些錯誤元素，並建議可以提高網頁績效的解決方式。請注意，只有瀏覽量至少為 1000 次的頁面才能進行分析。
+核心網頁指標機會可識別會降低網頁使用者體驗和有機搜尋績效的問題。這些問題由各種因素引起，例如自訂字體、未最佳化的 JavaScript 相依性、第三方指令碼等。核心網頁指標機會會指出這些錯誤元素，並建議可以提高網頁績效的解決方式。請注意，只有瀏覽量至少為 1000 次的頁面才能進行分析。
 
 首先，核心網頁指標機會會在頁面頂端顯示摘要，內含問題的概要及其對您網站和業務的影響。
 
@@ -32,11 +32,11 @@ ht-degree: 86%
 
 以上各個問題會顯示在一張表格中，內有「**頁面**」欄可供您識別受影響的頁面項目。
 
-系統會按照「核心Web重要資訊」報表中的標準效能度量來分組這些問題：
+此系統會根據 Core Web Vitals 報告的標準效能指標將這些問題分門別類：
 
-* 最大內容繪製&#x200B;**LCP**
-* 下一個繪圖&#x200B;**INP**&#x200B;的互動
-* 累積配置位移&#x200B;**CLS**
+* Largest Contentful Paint **LCP**
+* Interaction to Next Paint **INP**
+* Cumulative Layout Shift **CLS**
 
 ## 自動建議
 

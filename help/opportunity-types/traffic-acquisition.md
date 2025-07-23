@@ -2,9 +2,9 @@
 title: 使用 Sites Optimizer 將流量贏取最佳化
 description: 了解如何使用 Sites Optimizer 來增加流量贏取。
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 63%
 
 ![流量贏取機會](./assets/traffic-acquisition/hero.png){align="center"}
 
-流量贏取會促使潛在客戶前往您的網站，並建立銷售或潛在客戶機會。 透過使用搜尋引擎最佳化(SEO)等策略，企業可以改善搜尋可見度，並讓使用者更輕鬆地探索其內容。 穩定的訪客流量可提升品牌知名度並建立信任。 它也會產生使用者行為的寶貴見解。 這些見解可幫助團隊完善他們的產品並提升整體體驗。 使用AEM Sites Optimizer的深入分析可持續最佳化，確保持續成長並隨著時間改善轉換率。
+流量贏取可以吸引潛在客戶造訪您的網站，並創造銷售或商機開發的機會。透過使用搜尋引擎最佳化 (SEO) 等策略，企業可以提高搜尋可見度，讓使用者更容易搜尋到其內容。穩定的訪客流量可以提高品牌認知度並建立信任。還能產生有關使用者行為的重要洞察。這些洞察可協助團隊調整他們的產品並增強整體體驗。使用 AEM Sites Optimizer 的洞察可以持續進行最佳化，確保長期持續成長並提高轉換率。
 
 ## 機會
 

@@ -3,9 +3,9 @@ title: Sitemap 問題機會文件
 description: 了解 Sitemap 問題機會，以及如何使用它來改進流量贏取。
 badgeTrafficAcquisition: label="流量贏取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量贏取"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 88%
 
 ![Sitemap 問題機會](./assets/sitemap-issues/hero.png){align="center"}
 
-完整且準確的 Sitemap 有助於搜尋引擎有效率地對網站頁面進行編目和索引，確保網站頁面能在搜尋結果中有更高的可見度。Sitemap 機會可識別您 Sitemap 的潛在問題。修正這些問題可大幅改善搜尋引擎索引以及您網站上的內容可發現性。
+完整且準確的 Sitemap 有助於搜尋引擎有效率地對網站頁面進行編目和索引，確保網站頁面能在搜尋結果中有更高的可見度。Sitemap 機會可識別您 Sitemap 的潛在問題。解決這些問題可大幅改進網站的搜尋引擎索引以及內容可搜尋性。
 
 頁面頂端會顯示摘要，內含問題的概要及其對您網站和業務的影響。
 
@@ -36,11 +36,11 @@ ht-degree: 88%
 
 ![自動識別 Sitemap 用戶端錯誤](./assets/sitemap-issues/auto-identify-client-errors.png){align="center"}
 
-如果您的網站地圖中的URL傳回這些錯誤，搜尋引擎可能會假設您的網站地圖已過期，或頁面遭到錯誤移除。 用戶端會指出來自用戶端 (瀏覽器或編目程式) 的請求無效。常見的錯誤包括：
+如果您 Sitemap 中的 URL 傳回這些錯誤，搜尋引擎可能會認為您的 Sitemap 已過時，或該頁面已遭錯誤移除。用戶端會指出來自用戶端 (瀏覽器或編目程式) 的請求無效。常見的錯誤包括：
 
-* **404找不到** — 要求的頁面不存在。
-* **403 禁止** – 伺服器拒絕您存取請求的頁面。
-* **410已過期** — 有意移除此頁面，因此不會傳回。
+* **404 Not Found** - 請求的頁面不存在。
+* **403 Forbidden** - 伺服器拒絕您存取請求的頁面。
+* **410 Gone** - 此頁面已遭刻意移除，且不會恢復。
 * **401 未授權** – 需要驗證，但未提供。
 
 這些錯誤可能會損害 SEO，尤其是當重要頁面傳回 **404 或 410** 時，因為搜尋引擎可能會移除其索引。
