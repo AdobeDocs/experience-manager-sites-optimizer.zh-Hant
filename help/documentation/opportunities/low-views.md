@@ -1,10 +1,10 @@
 ---
 title: 低瀏覽量機會文件
 description: 瞭解低檢視機會，以及如何使用它來提高您網站上的表單參與度。
-badgeFormOptimization: label="Forms Optimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimizer"
+badgeFormOptimization: label="Forms最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms最佳化"
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 32%
@@ -14,7 +14,7 @@ ht-degree: 32%
 
 # Forms低檢視機會
 
-<span class="preview"> Forms Optimizer功能可在搶先存取計畫下取得。 您可以從您的正式電子郵件ID寫信到aem-forms-ea@adobe.com ，以加入搶先存取計畫並要求存取功能。</span>
+<span class="preview"> Forms最佳化功能可在搶先存取計畫下使用。 您可以從您的正式電子郵件ID寫信到aem-forms-ea@adobe.com ，以加入搶先存取計畫並要求存取功能。</span>
 
 ![低瀏覽量機會](./assets/low-views/hero.png){align="center"}
 

@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer 機會類型
 description: 了解 Sites Optimizer 中的關鍵機會類型，以及其如何協助您提高網站的績效。
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 75%
@@ -38,7 +38,7 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
 * ./traffic-acquisition.md
    { title = Traffic acquisition }
 * ./form-optimization.md
-   { title = Forms Optimizer }
+   { title = Forms Optimization }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -150,7 +150,7 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms最佳化">Forms最佳化</a>
                     </p>
-                    <p class="is-size-6">瞭解如何使用Forms Optimizer改善您的表單轉換。</p>
+                    <p class="is-size-6">瞭解如何使用Forms最佳化改善您的表單轉換。</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -173,7 +173,7 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms協助工具">Forms協助工具</a>
                     </p>
-                    <p class="is-size-6">瞭解如何使用Forms Optimizer改善您的表單協助工具。</p>
+                    <p class="is-size-6">瞭解如何使用Forms最佳化改善您的表單協助工具。</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
