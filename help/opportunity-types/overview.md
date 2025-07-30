@@ -4,7 +4,7 @@ description: 了解 Sites Optimizer 中的關鍵機會類型，以及其如何�
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 75%
+ht-degree: 92%
 
 ---
 
@@ -139,8 +139,8 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./form-optimization.md" title="Forms最佳化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Forms最佳化"
+                    <a href="./form-optimization.md" title="表單最佳化" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="表單最佳化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -148,7 +148,7 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms最佳化">Forms最佳化</a>
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="表單最佳化">表單最佳化</a>
                     </p>
                     <p class="is-size-6">瞭解如何使用Forms最佳化改善您的表單轉換。</p>
                 </div>
@@ -162,8 +162,8 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./form-optimization.md" title="Forms協助工具" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Forms協助工具"
+                    <a href="./form-optimization.md" title="表單無障礙" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="表單無障礙"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -171,7 +171,7 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms協助工具">Forms協助工具</a>
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="表單無障礙">表單無障礙</a>
                     </p>
                     <p class="is-size-6">瞭解如何使用Forms最佳化改善您的表單協助工具。</p>
                 </div>
@@ -185,4 +185,4 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<span class="preview"> Forms最佳化和Forms協助工具功能可在搶先存取計畫下取得。 您可以從您的正式電子郵件ID寫信到aem-forms-ea@adobe.com ，以加入搶先存取計畫並要求存取功能。</span>
+<span class="preview">搶先體驗計劃現在提供表單最佳化和表單無障礙功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>

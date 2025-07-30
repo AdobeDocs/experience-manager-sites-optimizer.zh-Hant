@@ -1,42 +1,42 @@
 ---
-title: Forms無障礙問題機會檔案
-description: 瞭解Forms協助工具問題機會，以及如何使用它來改善您網站上的表單協助工具和使用者體驗。
-badgeFormOptimization: label="Forms最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms最佳化"
+title: 表單無障礙問題機會文件
+description: 了解表單無障礙問題機會，以及如何使用此機會來改善網站的表單無障礙和使用者體驗。
+badgeFormOptimization: label="表單最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表單最佳化"
 hide: true
 hidefromtoc: true
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 2%
+ht-degree: 96%
 
 ---
 
 
-# Forms無障礙問題商機
+# 表單無障礙問題機會
 
-<span class="preview"> Forms最佳化功能可在搶先存取計畫下使用。 您可以從您的正式電子郵件ID寫信到aem-forms-ea@adobe.com ，以加入搶先存取計畫並要求存取功能。</span>
+<span class="preview"> Forms最佳化功能可在搶先存取計畫下使用。 您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
 
-![Forms協助工具問題機會](./assets/forms-accessibility-issues/hero.png){align="center"}
+![表單無障礙問題機會](./assets/forms-accessibility-issues/hero.png){align="center"}
 
-表單協助工具問題機會可識別您的表單是否符合殘障人士的需求，以及他們是否遵循[網頁內容協助工具准則(WCAG)](https://www.w3.org/TR/WCAG21/)。 透過評估您的表單符合WCAG的程度，您有助於建立包容性的表單體驗，讓視覺、聽覺、認知和運動障礙人士能夠導覽、互動並成功完成您的表單。 這不僅是因為道德上的理由，也是為了促進對法律要求的合規性，改善表單完成率，並且可增加您的對象覆蓋率，提升使用者體驗和業務績效。
+表單無障礙問題機會可確認您的表單符合身心障礙人士需求的程度，以及表單是否遵循[網頁內容無障礙指南 (WCAG)](https://www.w3.org/TR/WCAG21/)。透過評估表單符合 WCAG 的程度，您可以協助打造具有包容性的表單體驗，讓患有視覺、聽覺、認知和運動障礙的個人能夠瀏覽您的表單、與表單互動以及成功填寫表單。這項功能之所以極為重要，不但是因為道德原因，更因為能夠促進遵守法律需求、改善表單完成率，並可以擴大客群觸及範圍，從而增強使用者體驗和業務績效。
 
 ## 自動識別
 
-![自動識別表單協助工具問題](./assets/forms-accessibility-issues/auto-identify.png){align="center"}
+![自動識別表單無障礙問題](./assets/forms-accessibility-issues/auto-identify.png){align="center"}
 
-**Forms協助工具問題機會**&#x200B;會識別表單中的具體協助工具問題，並包括下列專案：
+**表單無障礙問題機會**&#x200B;可找出您的表單內具體的無障礙問題，並包含下列內容：
 
-* **問題** — 您在表單中發現的特定協助工具問題。
-* **WCAG條件** - [WCAG准則ID](https://www.w3.org/TR/WCAG21/)表單問題違反了。
-* **層級** — 問題的[一致性層級](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels)。
-* **建議** — 如何修正表單中無障礙問題的特定指引，包括程式碼範例和最佳作法。
-* **Source HTML** — 頁面上表單元素的HTML程式碼片段受此問題影響。
+* **問題** – 在您的表單內發現的具體的無障礙問題。
+* **WCAG 準則** – 表單問題違反的 [WCAG 指南 ID](https://www.w3.org/TR/WCAG21/)。
+* **等級** – 問題的[合規性等級](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels)。
+* **建議** - 有關如何修復表單無障礙問題的具體指引，包括程式碼範例和最佳做法。
+* **來源 HTML** - 網頁上受問題影響之表單元素的 HTML 片段。
 
 ## 自動建議
 
-![自動建議表單協助工具問題](./assets/forms-accessibility-issues/auto-suggest.png){align="center"}
+![自動建議表單無障礙問題](./assets/forms-accessibility-issues/auto-suggest.png){align="center"}
 
-自動建議在&#x200B;**建議**&#x200B;欄位中提供AI產生的建議，該欄位提供如何修正表單協助工具問題的規範性指南。
+自動建議會在「**建議**」欄位中提供 AI 產生的建議，其提供如何解決表單無障礙問題的規範性指導。
 
 <!-- 
 

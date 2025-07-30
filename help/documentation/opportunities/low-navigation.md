@@ -1,36 +1,36 @@
 ---
-title: 低導覽機會檔案
-description: 瞭解低導覽商機，以及如何使用它來提高您網站上的表單參與度。
-badgeFormOptimization: label="Forms最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms最佳化"
+title: 低導覽行為機會文件
+description: 了解低導覽行為機會，以及如何使用此機會來提高網站上的表單參與度。
+badgeFormOptimization: label="表單最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表單最佳化"
 hide: true
 hidefromtoc: true
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '330'
-ht-degree: 23%
+ht-degree: 96%
 
 ---
 
 
-# Forms低導覽商機
+# 表單低導覽行為機會
 
-<span class="preview"> Forms最佳化功能可在搶先存取計畫下使用。 您可以從您的正式電子郵件ID寫信到aem-forms-ea@adobe.com ，以加入搶先存取計畫並要求存取功能。</span>
+<span class="preview"> Forms最佳化功能可在搶先存取計畫下使用。 您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
 
-![低導覽機會](./assets/low-navigation/hero.png){align="center"}
+![低導覽行為機會](./assets/low-navigation/hero.png){align="center"}
 
-低導覽機會可識別網站上導覽率低的表單。 此機會型別可協助您瞭解使用者未探索或存取哪些表單，並提供如何改善其可探索性的建議。
+低導覽行為機會可找出您網站上導覽行為率較低的表單。此機會類型可幫助您了解使用者未能找到或存取哪些表單，並提供如何提高表單被找到的機會之建議。
 
 ## 自動識別
 
-![自動識別低階導覽](./assets/low-navigation/auto-identify.png){align="center"}
+![自動識別低導覽行為](./assets/low-navigation/auto-identify.png){align="center"}
 
-每個具有低瀏覽量表單的網頁都會列為其自己的&#x200B;**低瀏覽量**&#x200B;機會。 商機與基本原理的簡短摘要會顯示在商機頁面的頂端。
+每個表單導覽行為偏低的網頁都會列為其自己的&#x200B;**低導覽行為**&#x200B;機會。機會頁面頂端會顯示機會的簡短摘要和原理。
 
 ## 自動建議
 
-![自動建議低階導覽](./assets/low-navigation/auto-suggest.png)
+![自動建議低導覽行為](./assets/low-navigation/auto-suggest.png)
 
-自動建議提供AI產生的表單變數，這些變數旨在增加表單的導覽次數。 每個變數都會顯示&#x200B;**預計轉換率增加**，這是基於其改善表單可發現性和可存取性的潛力，可幫助您排定最有效建議的優先順序。
+自動建議會提供以增加表單導覽行為為目標而由 AI 產生的表單變化版本。每個變化版本都會根據其改善表單被找到的機會和無障礙功能的潛力顯示&#x200B;**轉換率預計增長量**，協助您優先採用最有效的建議。
 
 >[!BEGINTABS]
 
@@ -38,18 +38,18 @@ ht-degree: 23%
 
 ![控制變化版本](./assets/low-navigation/control-variation.png){align="center"}
 
-控制項變數是網站上目前使用的原始表單。 此變化版本會作為用來比較所建議變化版本績效的基準線。
+控制變化版本是您網站上目前使用中的原始表單。此變化版本會作為用來比較所建議變化版本績效的基準線。
 
 >[!TAB 建議的變化版本]
 
 ![建議的變化版本](./assets/low-navigation/suggested-variations.png){align="center"}
 
-建議的變數是AI產生的表單變數，這些變數的設計目的是增加表單的導覽次數。 每個變數都會顯示&#x200B;**預計轉換率增加**，這是基於其改善表單可發現性和可存取性的潛力，可幫助您排定最有效建議的優先順序。
+建議變化版本是以增加表單導覽行為為目標而由 AI 產生的表單變化版本。每個變化版本都會根據其改善表單被找到的機會和無障礙功能的潛力顯示&#x200B;**轉換率預計增長量**，協助您優先採用最有效的建議。
 
 按一下每個變化版本即可在畫面右側進行預覽。預覽畫面頂端有以下可用操作和資訊：
 
 * **變更** - 有此變化版本與&#x200B;**控制**&#x200B;變化版本之間有何變更的簡短摘要。
-* **預計轉換率增加** — 如果實作此變動，表單參與的預估增加。
+* **轉換率預計增長量** - 實施此變化版本後的表單參與度預計增長量。
 * **編輯** - 按一下即可在 AEM 製作環境中編輯變化版本。
 
 >[!ENDTABS]
