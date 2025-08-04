@@ -2,7 +2,7 @@
 title: Sites Optimizer 機會文件
 description: 了解所有可用的 Sites Optimizer 機會，以及如何使用這些機會來提高網站的績效。
 source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '885'
 ht-degree: 100%
 

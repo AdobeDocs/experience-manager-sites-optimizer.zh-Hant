@@ -2,9 +2,9 @@
 title: Sites Optimizer 機會類型
 description: 了解 Sites Optimizer 中的關鍵機會類型，以及其如何協助您提高網站的績效。
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '300'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -150,7 +150,7 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="表單最佳化">表單最佳化</a>
                     </p>
-                    <p class="is-size-6">瞭解如何使用Forms最佳化改善您的表單轉換。</p>
+                    <p class="is-size-6">了解如何使用表單最佳化提高表單轉換率。</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -173,7 +173,7 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="表單無障礙">表單無障礙</a>
                     </p>
-                    <p class="is-size-6">瞭解如何使用Forms最佳化改善您的表單協助工具。</p>
+                    <p class="is-size-6">了解如何使用表單最佳化改善表單無障礙。</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

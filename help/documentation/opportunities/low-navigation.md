@@ -5,16 +5,16 @@ badgeFormOptimization: label="表單最佳化" type="Caution" url="../../opportu
 hide: true
 hidefromtoc: true
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '330'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
 # 表單低導覽行為機會
 
-<span class="preview"> Forms最佳化功能可在搶先存取計畫下使用。 您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
+<span class="preview">搶先體驗計劃現在提供表單最佳化功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
 
 ![低導覽行為機會](./assets/low-navigation/hero.png){align="center"}
 
