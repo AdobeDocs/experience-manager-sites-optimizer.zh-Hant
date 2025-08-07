@@ -3,15 +3,19 @@ title: 使用 Sites Optimizer 進行表單最佳化
 description: 了解如何使用 Sites Optimizer 進行表單最佳化。
 hide: true
 hidefromtoc: true
-source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
+source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '214'
 ht-degree: 100%
 
 ---
 
 
 # 表單最佳化機會
+
+<span class="preview">搶先體驗計劃現在提供表單最佳化功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
+
+<!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
 ![表單最佳化機會](./assets/form-optimization/hero.png){align="center"}
 
