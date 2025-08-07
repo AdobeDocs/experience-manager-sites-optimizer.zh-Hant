@@ -4,17 +4,15 @@ description: 了解低轉換率機會，以及如何使用此機會來提高網�
 badgeFormOptimization: label="表單最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表單最佳化"
 hide: true
 hidefromtoc: true
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
+source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
 workflow-type: ht
-source-wordcount: '323'
+source-wordcount: '291'
 ht-degree: 100%
 
 ---
 
 
 # 表單低轉換率機會
-
-<span class="preview">搶先體驗計劃現在提供表單最佳化功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
 
 ![低轉換率機會](./assets/low-conversions/hero.png){align="center"}
 
