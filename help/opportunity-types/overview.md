@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 機會類型
 description: 了解 Sites Optimizer 中的關鍵機會類型，以及其如何協助您提高網站的績效。
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
-workflow-type: ht
-source-wordcount: '300'
-ht-degree: 100%
+source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
+workflow-type: tm+mt
+source-wordcount: '343'
+ht-degree: 80%
 
 ---
 
@@ -20,10 +20,11 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
 * 流量贏取
 * 安全性態勢
 * 網站健康情況
+* 預檢
 
-每個類別均強調一個增強網站的不同方法。某個類別可能會增加訪客互動。另一個則可以提高可搜尋性。其他則聚焦於增強安全性或維持網站穩定性。
+每個類別均強調一個增強網站的不同方法。某個類別可能會增加訪客互動。另一個則可以提高可搜尋性。其他則著重於加強安全性或維護網站穩定性。 「預檢」可協助您在發佈頁面之前分析和最佳化頁面。
 
-使用這些機會可以改進使用者體驗、吸引合適的客群，並確保您的網站安全可靠。增強參與度和流量贏取可以促進互動和提高可見度，而強大的安全性態勢和網站健康情況則有助於確保信任和穩定性。請探索下面的連結，以查看按類別組織的機會，並找到改進網站的方法。
+使用這些機會可以改進使用者體驗、吸引合適的客群，並確保您的網站安全可靠。增強參與度和流量獲取可促進互動和可見度，而強大的安全性狀況和網站健康有助於確保信任和穩定性。 預檢分析可確保在內容上線前將其最佳化。 請探索下面的連結，以查看按類別組織的機會，並找到改進網站的方法。
 
 ## 機會類型
 
@@ -39,6 +40,8 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
    { title = Traffic acquisition }
 * ./form-optimization.md
    { title = Forms Optimization }
+* ./preflight.md
+   { title = Preflight }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -181,7 +184,30 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
             </div>
         </div>
     </div>
-
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./preflight.md" title="預檢" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/preflight/hero.png" alt="預檢"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./preflight.md" target="_blank" rel="referrer" title="預檢">預檢</a>
+                    </p>
+                    <p class="is-size-6">瞭解預檢分析以及如何在Sites Optimizer中設定預檢機會。</p>
+                </div>
+                <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                </a>
+            </div>
+        </div>
+    </div>
+ </br>   
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
