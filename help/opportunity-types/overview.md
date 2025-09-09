@@ -2,9 +2,9 @@
 title: Sites Optimizer 機會類型
 description: 了解 Sites Optimizer 中的關鍵機會類型，以及其如何協助您提高網站的績效。
 source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
 * 網站健康情況
 * 預檢
 
-每個類別均強調一個增強網站的不同方法。某個類別可能會增加訪客互動。另一個則可以提高可搜尋性。其他則著重於加強安全性或維護網站穩定性。 「預檢」可協助您在發佈頁面之前分析和最佳化頁面。
+每個類別均強調一個增強網站的不同方法。某個類別可能會增加訪客互動。另一個則可以提高可搜尋性。其他則將焦點放在增強安全性或維持網站穩定性。預檢能協助您在頁面發佈之前加以分析和最佳化。
 
-使用這些機會可以改進使用者體驗、吸引合適的客群，並確保您的網站安全可靠。增強參與度和流量獲取可促進互動和可見度，而強大的安全性狀況和網站健康有助於確保信任和穩定性。 預檢分析可確保在內容上線前將其最佳化。 請探索下面的連結，以查看按類別組織的機會，並找到改進網站的方法。
+使用這些機會可以改善使用者體驗、吸引合適的客群，並確保您的網站安全可靠。提升參與度和流量贏取可促進互動和提高可見度，而強大的安全態勢和網站健康情況則有助於確保信任和穩定性。預檢分析可確保您的內容在上線之前已進行最佳化。請探索下面的連結，以查看按類別組織的機會，並找到改進網站的方法。
 
 ## 機會類型
 
@@ -199,7 +199,7 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./preflight.md" target="_blank" rel="referrer" title="預檢">預檢</a>
                     </p>
-                    <p class="is-size-6">瞭解預檢分析以及如何在Sites Optimizer中設定預檢機會。</p>
+                    <p class="is-size-6">了解預檢分析，以及如何在 Sites Optimizer 中設定預檢機會。</p>
                 </div>
                 <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

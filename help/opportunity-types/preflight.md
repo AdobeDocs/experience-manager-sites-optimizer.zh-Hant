@@ -1,10 +1,10 @@
 ---
-title: AEM Sites Optimizer — 預檢入門指南
-description: 瞭解預檢機會以及如何在AEM Sites Optimizer中設定預檢分析。
+title: AEM Sites Optimizer - 預檢上線指南
+description: 了解預檢機會，以及如何在 AEM Sites Optimizer 中設定預檢分析。
 source-git-commit: 0a6ddcdfd369253500067b31617facfb7f38b656
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '488'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 6%
 
 ![預檢機會](./assets/preflight/hero.png){align="center"}
 
-<span class="preview">AEM Sites Optimizer Preflight會分析頁面的技術和效能資料，並在發佈之前預測和偵測機會。 它使用產生式AI來建議最佳化。</span>
+<span class="preview">AEM Sites Optimizer 預檢功能會分析您頁面的技術和效能資料，並在頁面發佈之前預測和偵測機會。此功能使用生成式 AI 提供最佳化建議。</span>
 
 ## 機會
 
@@ -51,9 +51,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="規範">標準</a>
+                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="規範">規範</a>
                     </p>
-                    <p class="is-size-6">瞭解標準機會，以及如何使用它來改善SEO並防止重複內容問題。</p>
+                    <p class="is-size-6">了解規範機會，以及如何使用此機會改善 SEO 並防止重複內容的問題。</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -74,9 +74,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" title="損壞的內部連結">中斷的內部連結</a>
+                        <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" title="損壞的內部連結">損壞的內部連結</a>
                     </p>
-                    <p class="is-size-6">瞭解中斷的內部連結商機，以及如何使用它來識別和修正網站上中斷或問題的連結。</p>
+                    <p class="is-size-6">了解損壞的內部連結機會，以及如何使用此機會識別和修復網站上損壞或有問題的連結。</p>
                 </div>
                 <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -88,8 +88,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/invalid-or-missing-metadata.md" title="中繼資料" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="中繼資料"
+                    <a href="../documentation/opportunities/invalid-or-missing-metadata.md" title="中繼資料標記" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="中繼資料標記"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,9 +97,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="中繼資料">中繼資料</a>
+                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="中繼資料標記">中繼資料標記</a>
                     </p>
-                    <p class="is-size-6">瞭解中繼資料商機，以及如何使用它來最佳化您的頁面中繼資料，以提升SEO效能。</p>
+                    <p class="is-size-6">了解中繼資料標記機會，以及如何使用此機會將頁面的中繼資料最佳化，獲得更好的 SEO 效能。</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -111,8 +111,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/invalid-or-missing-metadata.md" title="H1計數" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="H1計數"
+                    <a href="../documentation/opportunities/invalid-or-missing-metadata.md" title="H1 計數" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="H1 計數"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,9 +120,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="H1計數">H1計數</a>
+                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="H1 計數">H1 計數</a>
                     </p>
-                    <p class="is-size-6">瞭解H1計數機會，以及如何使用它來確保適當的標題結構和SEO最佳化。</p>
+                    <p class="is-size-6">了解 H1 計數機會，以及如何使用此機會確保合適的標題結構和 SEO 最佳化。</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -145,7 +145,7 @@ ht-degree: 6%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="協助工具">協助工具</a>
                     </p>
-                    <p class="is-size-6">瞭解無障礙機會以及如何使用它來確保您的網站可供所有使用者存取。</p>
+                    <p class="is-size-6">了解協助工具機會，以及如何使用此機會確保所有使用者都能夠存取您的網站。</p>
                 </div>
                 <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -161,18 +161,18 @@ ht-degree: 6%
 
 ### 通用編輯器設定
 
-1. 從URL前往Extension Manager： https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor
-2. 選取AEM Sites Optimizer Preflight擴充功能並請求啟用
-3. AEM團隊將為您的組織啟用此擴充功能
-4. 完成後，在通用編輯器中開啟頁面，例如：https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html
+1. 從以下 URL 前往 Extension Manager：https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor
+2. 選取 AEM Sites Optimizer 預檢擴充功能並要求啟用
+3. AEM 團隊會為您的組織啟用此擴充功能
+4. 此動作完成後，請在通用編輯器中開啟一個頁面，例如：https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html
 5. 預檢擴充功能將顯示在側邊欄中
-6. 按一下側邊欄中的「預檢擴充功能」 ，將會開始目前頁面的「預檢稽核」
+6. 在側邊欄按一下「預檢擴充功能」，會針對當前頁面開始進行預檢稽核
 
-### 檔案式預覽設定
+### 文件型預覽設定
 
-#### 步驟1：使用預檢按鈕啟用Sidekick
+#### 步驟 1：使用預檢按鈕啟用 Sidekick
 
-將下列設定新增至GitHub存放庫中的`/tools/sidekick/config.json`：
+將以下設定新增至您 GitHub 存放庫中的 `/tools/sidekick/config.json`：
 
 ```json
 {
@@ -189,9 +189,9 @@ ht-degree: 6%
 }
 ```
 
-#### 步驟2：建立Sidekick整合指令碼
+#### 步驟 2：建立 Sidekick 整合指令碼
 
-使用下列內容建立`/tools/sidekick/aem-sites-optimizer-preflight.js`：
+使用以下內容建立 `/tools/sidekick/aem-sites-optimizer-preflight.js`：
 
 ```javascript
 (function () {
@@ -238,9 +238,9 @@ ht-degree: 6%
 }());
 ```
 
-#### 步驟3：更新指令碼檔案
+#### 步驟 3：更新指令碼檔案
 
-將下列匯入陳述式新增至預覽URL之`loadLazy()`中的`/scripts/scripts.js`函式，如下所示：
+將以下匯入語句新增至預覽 URL 之 `/scripts/scripts.js` 的 `loadLazy()` 函數內，如下所示：
 
 ```javascript
 if (window.location.href.includes('.aem.page')) {
@@ -248,37 +248,37 @@ if (window.location.href.includes('.aem.page')) {
 }
 ```
 
-現在，Sidekick中應該會顯示「預檢」按鈕。
+現在，應該就會在 Sidekick 中看到「預檢」按鈕了。
 
-#### 步驟4：執行稽核
+#### 步驟 4：執行稽核
 
-開啟已稽核頁面的預覽URL (*.aem.page)。 按一下Sidekick中的「預檢」按鈕。
+開啟受稽核頁面的預覽 URL (*.aem.page)。在 Sidekick 按一下「預檢」按鈕。
 
-### AEM雲端服務設定
+### AEM Cloud Service 設定
 
-您可以使用書籤小程式選項在AEM Cloud Service頁面編輯器和沙箱環境中測試預檢。
+您可以使用書籤小程式選項，在 AEM Cloud Service 頁面編輯器和沙箱環境上測試預檢。
 
 <!-- Drag the button below to your Bookmarks Bar to get started. -->
 
-按&#x200B;**Ctrl+Shift+B** (Windows)或&#x200B;**Cmd+Shift+B** (Mac)以顯示書籤列。 在書籤列上按一下滑鼠右鍵，然後選取「新頁面」或「新增書籤」。 在位址列位中，複製下面的程式碼。
+按下 **Ctrl+Shift+B** (Windows) 或 **Cmd+Shift+B** (Mac) 顯示您的書籤列。在書籤列上按一下右鍵，然後選取「新頁面」或「新增書籤」。在位址欄位中複製以下程式碼。
 
 <!-- **Drag this link to your Bookmarks Bar:**
 
 <a href="javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();">Preflight</a> -->
 
-**複製此程式碼並建立新書籤：**
+**複製此程式碼並建立一個新書籤：**
 
 ```
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-新增書籤小程式後，請開啟稽核頁面的預覽URL (*.aem.page)。 按一下Preflight書籤以開始Preflight稽核。
+新增書籤小程式後，開啟受稽核頁面的預覽 URL (*.aem.page)。按一下「預檢」書籤，開始預檢稽核。
 
-## 最佳做法
+## 最佳實務
 
-使用「預檢」時，請注意下列事項：
+使用預檢時，請留意以下事項：
 
-* 發佈之前，請對所有預備/預覽頁面執行預檢稽核。
-* 先解決高影響力的問題（連結損毀、缺少H1標籤、不安全的連結）。
-* 啟用受保護中繼環境的驗證。
-* 檢閱並實作中繼標籤建議，以提升SEO效能。
+* 在發佈之前，對所有中繼/預覽頁面執行預檢稽核。
+* 首先解決影響較大的問題 (損壞的連結、缺少 H1 標記、不安全的連結)。
+* 啟用受保護中繼環境的驗證功能。
+* 審閱並實施中繼標記建議，以獲得更好的 SEO 效能。
