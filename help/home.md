@@ -1,19 +1,19 @@
 ---
 title: AEM Sites Optimizer
 description: 使用 Sites Optimizer 來提升網站效能，包括提高速度、降低成本以及增強可靠性，以促進參與度。
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '140'
-ht-degree: 100%
+source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+workflow-type: tm+mt
+source-wordcount: '232'
+ht-degree: 56%
 
 ---
 
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455096/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
-Adobe Experience Manager (AEM) Sites Optimizer 是一項雲端型服務，可分析和改進以 AEM 為基礎建置的網站之效能。此服務可以針對頁面載入、元件使用情況及內容傳遞找出需改進的部分。此功能有助於提高網站的效能，同時降低維護和更新成本。透過使用 Sites Optimizer，您可以確保流暢可靠的線上體驗，這對於維持參與度和轉換率來說非常重要。
+Adobe Experience Manager (AEM) Sites Optimizer 是一項雲端型服務，可分析和改進以 AEM 為基礎建置的網站之效能。Sites Optimizer會識別頁面載入、元件使用及內容傳送方面需改善的領域。 此功能有助於提高網站的效能，同時降低維護和更新成本。透過使用 Sites Optimizer，您可以確保流暢可靠的線上體驗，這對於維持參與度和轉換率來說非常重要。
 
 ## 開始使用 Sites Optimizer
 
@@ -70,6 +70,71 @@ Adobe Experience Manager (AEM) Sites Optimizer 是一項雲端型服務，可分
                     <p class="is-size-6">探索 Sites Optimizer 文件以了解其所有功能。</p>
                 </div>
                 <a href="./documentation/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## 進一步瞭解Sites Optimizer
+
+<!-- CARDS 
+    * https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+        {title=Packages and licensing}
+        {description=Learn about AEM Sites Optimizer packages and licensing.}
+        {image=https://business.adobe.com/products/experience-manager/sites/media_17296346c44dba1976d5fbac060205b5ec7df0164.png?width=2000&format=webply&optimize=medium}
+        {cta=Learn more}
+    * https://business.adobe.com/products/experience-manager/sites/optimizer.html
+        {title=Explore the capabilities of AEM Sites Optimizer}
+        {description=Learn what AEM Site Optimizer can do for your company.}
+        {target=_blank}
+        {cta=Learn more}
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Explore the capabilities of AEM Sites Optimizer">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" title="探索AEM Sites Optimizer的功能" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://business.adobe.com/products/experience-manager/sites/media_17296346c44dba1976d5fbac060205b5ec7df0164.png?width=400&format=webply&optimize=medium" alt="探索AEM Sites Optimizer的功能"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" title="探索AEM Sites Optimizer的功能">探索AEM Sites Optimizer的功能</a>
+                    </p>
+                    <p class="is-size-6">瞭解AEM Site Optimizer可為貴公司做什麼。</p>
+                </div>
+                <a href="https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Explore the capabilities of AEM Sites Optimizer">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" title="探索AEM Sites Optimizer的功能" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://business.adobe.com/products/experience-manager/sites/media_134c5e6db48bfd903d3b7e7c8432b7d0f0c238dd9.png?width=400&format=pjpg&optimize=medium" alt="探索AEM Sites Optimizer的功能"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" title="探索AEM Sites Optimizer的功能">探索AEM Sites Optimizer的功能</a>
+                    </p>
+                    <p class="is-size-6">瞭解AEM Site Optimizer可為貴公司做什麼。</p>
+                </div>
+                <a href="https://business.adobe.com/products/experience-manager/sites/optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
