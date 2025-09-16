@@ -180,7 +180,7 @@ AEM Sites Optimizer預檢機會識別需要在Universal Editor、Document-Based 
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. 找到&#x200B;**AEM Sites Optimizer預檢擴充功能**，並提交要求以啟用它。
 1. **Adobe AEM團隊**&#x200B;將會檢閱並啟用您組織的擴充功能。
-1. 啟用擴充功能後，請在&#x200B;**通用編輯器**中開啟頁面，例如：
+1. 啟用擴充功能後，請在&#x200B;**通用編輯器**&#x200B;中開啟頁面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **預檢擴充功能**&#x200B;將出現在&#x200B;**側邊欄**&#x200B;中。
 1. 從側邊欄選取&#x200B;**預檢擴充功能**，以啟動目前頁面的&#x200B;**預檢稽核**。
