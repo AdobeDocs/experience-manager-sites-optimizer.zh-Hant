@@ -1,7 +1,7 @@
 ---
 title: 使用AEM Sites Optimizer進行預檢最佳化
 description: 瞭解使用AEM Sites Optimizer預檢的機會。
-source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+source-git-commit: cae186f8a953fd9d4e9d68653dd5eb2a4bd14152
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 23%
@@ -161,14 +161,14 @@ AEM Sites Optimizer預檢機會可協助確保您的網頁在開始使用前已�
 
 AEM Sites Optimizer預檢機會識別需要在Universal Editor、Document-Based Preview或AEM Cloud Service中設定Preflight擴充功能，以便在發佈頁面之前先在您的頁面上執行Preflight稽核。
 
-## 啟用使用者存取
+### 啟用使用者存取
 
 若要使用Preflight擴充功能，請確定已在[Adobe Admin Console](https://adminconsole.adobe.com)中將您的使用者指派給下列至少一個AEM Sites Optimizer產品設定檔：
 
 * AEM Sites Optimizer — 自動建議使用者
 * AEM Sites Optimizer — 自動最佳化使用者
 
-## 啟用預檢擴充功能
+### 啟用預檢擴充功能
 
 >[!BEGINTABS]
 
@@ -180,7 +180,7 @@ AEM Sites Optimizer預檢機會識別需要在Universal Editor、Document-Based 
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. 找到&#x200B;**AEM Sites Optimizer預檢擴充功能**，並提交要求以啟用它。
 1. **Adobe AEM團隊**&#x200B;將會檢閱並啟用您組織的擴充功能。
-1. 啟用擴充功能後，請在&#x200B;**通用編輯器**&#x200B;中開啟頁面，例如：
+1. 啟用擴充功能後，請在&#x200B;**通用編輯器**中開啟頁面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **預檢擴充功能**&#x200B;將出現在&#x200B;**側邊欄**&#x200B;中。
 1. 從側邊欄選取&#x200B;**預檢擴充功能**，以啟動目前頁面的&#x200B;**預檢稽核**。
