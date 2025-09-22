@@ -1,10 +1,10 @@
 ---
-title: 使用AEM Sites Optimizer進行預檢最佳化
-description: 瞭解使用AEM Sites Optimizer預檢的機會。
+title: 使用 AEM Sites Optimizer 進行預檢最佳化
+description: 了解使用 AEM Sites Optimizer 進行預檢的機會。
 source-git-commit: cae186f8a953fd9d4e9d68653dd5eb2a4bd14152
 workflow-type: tm+mt
 source-wordcount: '659'
-ht-degree: 23%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 23%
 
 ![預檢機會](./assets/preflight/hero.png){align="center"}
 
-AEM Sites Optimizer預檢機會可協助確保您的網頁在開始使用前已針對效能、SEO和使用者體驗最佳化。 透過識別潛在問題，例如連結損壞、缺少中繼標籤和協助工具問題，預檢檢查可讓內容作者和行銷人員在發佈過程的早期解決這些問題。 這種主動式方法可將發佈次優內容的風險降至最低，提升網站品質，並改善整體數位表現。 利用預檢機會可支援更順暢的工作流程、減少發佈後的修正，並有助於提高搜尋引擎排名和使用者滿意度。
+AEM Sites Optimizer 預檢機會可協助確保您的網頁在上線前針對效能、SEO 和使用者體驗進行最佳化。進行預檢能夠發現潛在的問題，例如連結失效、缺少後設資料標記和無障礙問題，讓內容作者和行銷人員能在發布過程早期就解決這些問題。這個主動檢查的方法，會盡可能降低發佈不理想內容的風險、提升網站品質，並改善整體的數位形象。使用預檢機會能讓工作流程更順暢，減少發布後再修正的狀況，也有助於提高搜尋引擎排名和使用者滿意度。
 
 ## 機會
 
@@ -159,14 +159,14 @@ AEM Sites Optimizer預檢機會可協助確保您的網頁在開始使用前已�
 
 ## 設定
 
-AEM Sites Optimizer預檢機會識別需要在Universal Editor、Document-Based Preview或AEM Cloud Service中設定Preflight擴充功能，以便在發佈頁面之前先在您的頁面上執行Preflight稽核。
+要使用 AEM Sites Optimizer 預檢機會識別，需要先在通用編輯器、文件型預覽或 AEM Cloud Service 中設定預檢擴充功能，以便在頁面發佈前先對其進行預檢稽核。
 
 ### 啟用使用者存取
 
-若要使用Preflight擴充功能，請確定已在[Adobe Admin Console](https://adminconsole.adobe.com)中將您的使用者指派給下列至少一個AEM Sites Optimizer產品設定檔：
+要使用預檢擴充功能，請確認您的使用者在 [Adobe Admin Console](https://adminconsole.adobe.com) 中至少被指派至以下其中一個 AEM Sites Optimizer 產品設定檔：
 
-* AEM Sites Optimizer — 自動建議使用者
-* AEM Sites Optimizer — 自動最佳化使用者
+* AEM Sites Optimizer - 自動建議使用者
+* AEM Sites Optimizer - 自動最佳化使用者
 
 ### 啟用預檢擴充功能
 
@@ -174,22 +174,22 @@ AEM Sites Optimizer預檢機會識別需要在Universal Editor、Document-Based 
 
 >[!TAB 通用編輯器]
 
-若要在Universal Editor中設定Preflight，請執行下列步驟：
+若要在通用編輯器中設定預檢，請依照以下步驟進行：
 
-1. 在下列位置開啟&#x200B;**Extension Manager**：
-   [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
-1. 找到&#x200B;**AEM Sites Optimizer預檢擴充功能**，並提交要求以啟用它。
-1. **Adobe AEM團隊**&#x200B;將會檢閱並啟用您組織的擴充功能。
-1. 啟用擴充功能後，請在&#x200B;**通用編輯器**&#x200B;中開啟頁面，例如：
+1. 在此開啟 **Extension Manager**：
+   [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor?lang=zh-Hant](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
+1. 找到 **AEM Sites Optimizer 預檢擴充功能**&#x200B;並提出啟用的請求。
+1. **Adobe AEM 團隊**&#x200B;會在審閱後為您的組織啟用此擴充功能。
+1. 啟用擴充功能後，在 **通用編輯器**中開啟一個頁面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
-1. **預檢擴充功能**&#x200B;將出現在&#x200B;**側邊欄**&#x200B;中。
-1. 從側邊欄選取&#x200B;**預檢擴充功能**，以啟動目前頁面的&#x200B;**預檢稽核**。
+1. **預檢擴充功能**&#x200B;將出現在&#x200B;**側邊欄中**。
+1. 在側邊欄中選取&#x200B;**「預檢擴充功能」**，針對目前頁面開始進行&#x200B;**預檢稽核**。
 
 >[!TAB 文件型製作]
 
-若要為檔案式製作設定「預檢」，請遵循下列步驟：
+若要設定對文件型製作進行預檢，請依照下列步驟進行：
 
-1. 將下列設定新增至Edge Delivery Services專案的GitHub存放庫中的`/tools/sidekick/config.json`：
+1. 在 Edge Delivery Services 專案的 GitHub 存放庫中，將以下設定新增至 `/tools/sidekick/config.json`：
 
    ```json
    {
@@ -206,7 +206,7 @@ AEM Sites Optimizer預檢機會識別需要在Universal Editor、Document-Based 
    }
    ```
 
-1. 建立新檔案`/tools/sidekick/aem-sites-optimizer-preflight.js`並新增下列內容：
+1. 建立新檔案 `/tools/sidekick/aem-sites-optimizer-preflight.js` 並新增以下內容：
 
    ```javascript
    (function () {
@@ -253,7 +253,7 @@ AEM Sites Optimizer預檢機會識別需要在Universal Editor、Document-Based 
    }());
    ```
 
-1. 更新`loadLazy()`中的`/scripts/scripts.js`函式以匯入預覽URL的Preflight指令碼：
+1. 更新 `/scripts/scripts.js` 中的函數 `loadLazy()` 以便匯入預覽 URL 的預檢指令碼：
 
    ```javascript
    if (window.location.href.includes('.aem.page')) {
@@ -261,37 +261,37 @@ AEM Sites Optimizer預檢機會識別需要在Universal Editor、Document-Based 
    }
    ```
 
-1. 開啟您要稽核之頁面的預覽URL (`*.aem.page`)。
-1. 在&#x200B;**Sidekick**&#x200B;中，按一下&#x200B;**預檢**&#x200B;按鈕以開始稽核目前頁面。
+1. 開啟要稽核的頁面之預覽 URL (`*.aem.page`)。
+1. 在 **Sidekick** 中，按一下&#x200B;**「預檢」**&#x200B;按鈕，開始對目前頁面進行稽核。
 
->[!TAB AEM Sites頁面編輯器]
+>[!TAB AEM Sites 頁面編輯器]
 
-若要在AEM Sites頁面編輯器中使用「預檢」，您可以在網頁瀏覽器中建立書籤小程式。 請依照下列步驟執行：
+若要在 AEM Sites 頁面編輯器中使用預檢，您可以在網頁瀏覽器中建立書籤小程式。請依照下列步驟操作：
 
 1. 在網頁瀏覽器中顯示您的&#x200B;**書籤列**：
 
-   * 按&#x200B;**Ctrl+Shift+B** (Windows)或&#x200B;**Cmd+Shift+B** (Mac)。
+   * 按下 **Ctrl+Shift+B** (Windows) 或 **Cmd+Shift+B** (Mac)。
 
-！. 在瀏覽器中建立新書籤：
+!. 在瀏覽器中建立新書籤：
 
-* 在書籤列上按一下滑鼠右鍵，然後選取&#x200B;**新頁面**&#x200B;或&#x200B;**新增書籤**。
-* 在&#x200B;**位址(URL)**&#x200B;欄位中，貼上下列程式碼：
+* 在書籤列上按一下右鍵，然後選取「**新頁面**」或「**新增書籤**」。
+* 在「**位址 (URL)**」欄位中，貼上以下程式碼：
 
 ```javascript
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-1. 為書籤命名&#x200B;**預檢** （或您偏好的任何名稱）。
-1. 在`*.aem.page`AEM Sites頁面編輯器&#x200B;**中開啟您要稽核之頁面的預覽URL (**)。
-1. 按一下書籤列中的&#x200B;**預檢**&#x200B;書籤，即可開始稽核目前頁面。
+1. 將書籤命名為「**預檢**」(或任何您喜歡的名稱)。
+1. 在 **AEM Sites 頁面編輯器**&#x200B;中開啟您要稽核之頁面的預覽 URL (`*.aem.page`)。
+1. 在書籤列中按一下「**預檢**」書籤，以便開始稽核目前頁面。
 
 >[!ENDTABS]
 
 ## 最佳做法
 
-執行Preflight稽核時，請謹記下列准則：
+執行預檢稽核時，請牢記以下準則：
 
-* 發佈到生產環境之前，一律在&#x200B;**測試或預覽頁面**&#x200B;上執行稽核。
-* 優先解決&#x200B;**高影響問題**，例如連結中斷、缺少H1標籤或不安全的連結。
-* 在執行稽核之前，請確定已針對受保護的臨時環境啟用&#x200B;**驗證**。
-* 檢閱並套用&#x200B;**meta tag recommendations**&#x200B;以改善SEO效能。
+* 在發佈到生產環境前，請務必先在&#x200B;**中繼或預覽頁面**&#x200B;上執行稽核。
+* 優先解決&#x200B;**影響重大的問題**，例如連結失效、缺少 H1 標記或不安全的連結。
+* 在執行稽核之前，請確保受保護的中繼環境&#x200B;**已啟用驗證**。
+* 審閱並套用&#x200B;**後設標記推薦**&#x200B;以提升 SEO 效能。
