@@ -81,7 +81,7 @@ Adobe Experience Manager (AEM) Sites Optimizer 是一項雲端型服務，可分
 ## 了解更多關於 Sites Optimizer 的資訊
 
 <!-- CARDS 
-* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+* https://helpx.adobe.com/tw/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
