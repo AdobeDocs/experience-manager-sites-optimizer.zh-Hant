@@ -1,49 +1,41 @@
 ---
-title: 使用 AEM Sites Optimizer 進行預檢最佳化
-description: 了解使用 AEM Sites Optimizer 進行預檢的機會。
+title: 預檢機會
+description: Sites Optimizer中預檢機會的相關檔案。
 source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 61%
+source-wordcount: '203'
+ht-degree: 8%
 
 ---
 
 
 # 預檢機會
 
-![預檢機會](./assets/preflight/hero.png){align="center"}
+![預檢機會](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協助確保您的網頁在開始使用前已針對效能、SEO和使用者體驗最佳化。 進行預檢能夠發現潛在的問題，例如連結失效、缺少後設資料標記和無障礙問題，讓內容作者和行銷人員能在發布過程早期就解決這些問題。這個主動檢查的方法，會盡可能降低發佈不理想內容的風險、提升網站品質，並改善整體的數位形象。使用預檢機會能讓工作流程更順暢，減少發布後再修正的狀況，也有助於提高搜尋引擎排名和使用者滿意度。
+Sites Optimizer預檢機會由一組評估組成，這些評估會在發佈網頁之前分析網站內容和結構的不同方面。 這些評估有助於識別潛在問題，並提供可操作的建議以改善網站的整體品質和效能。
 
-## 機會
+## 預檢設定
+
+請依照[預檢設定](./setup.md)指南中的步驟，在您的網站中設定Preflight擴充功能。
+
+## 預檢機會
 
 <!-- CARDS
-
-* ../documentation/preflight/accessibility.md
-  {title=Accessibility}
-  {image=../assets/common/card-puzzle.png}
-* ../documentation/preflight/h1-count.md
-  {title=H1 count}
-  {image=../assets/common/card-link.png}
-* ../documentation/preflight/links.md
-  {title=Links}
-  {image=../assets/common/card-link.png}
-* ../documentation/preflight/meta-data.md
-  {title=Metadata}
-  {image=../assets/common/card-code.png}
-* ../documentation/preflight/readability.md
-  {title=Readability}
-  {image=../assets/common/card-people.png}
-
+* ./accessibility.md
+* ./h1-count.md
+* ./links.md
+* ./meta-data.md
+* ./readability.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accessibility">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Accessibility Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/accessibility.md" title="協助工具" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-puzzle.png" alt="協助工具"
+                    <a href="./accessibility.md" title="預檢協助工具機會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/accessibility/hero.png" alt="預檢協助工具機會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,22 +43,22 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/accessibility.md" target="_blank" rel="referrer" title="協助工具">協助工具</a>
+                        <a href="./accessibility.md" target="_blank" rel="referrer" title="預檢協助工具機會">預檢協助工具機會</a>
                     </p>
                     <p class="is-size-6">瞭解Sites Optimizer中的Preflight協助工具機會。</p>
                 </div>
-                <a href="../documentation/preflight/accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="H1 count">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight H1 Count Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/h1-count.md" title="H1 計數" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-link.png" alt="H1 計數"
+                    <a href="./h1-count.md" title="預檢H1計數機會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/h1-count/hero.png" alt="預檢H1計數機會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,22 +66,22 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/h1-count.md" target="_blank" rel="referrer" title="H1 計數">H1 計數</a>
+                        <a href="./h1-count.md" target="_blank" rel="referrer" title="預檢H1計數機會">預檢H1計數機會</a>
                     </p>
                     <p class="is-size-6">瞭解Sites Optimizer中的Preflight協助工具機會。</p>
                 </div>
-                <a href="../documentation/preflight/h1-count.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./h1-count.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Links">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Links Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/links.md" title="連結" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-link.png" alt="連結"
+                    <a href="./links.md" title="預檢連結機會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/links/hero.png" alt="預檢連結機會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,22 +89,22 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/links.md" target="_blank" rel="referrer" title="連結">連結</a>
+                        <a href="./links.md" target="_blank" rel="referrer" title="預檢連結機會">預檢連結機會</a>
                     </p>
                     <p class="is-size-6">瞭解Sites Optimizer中的預檢連結商機。</p>
                 </div>
-                <a href="../documentation/preflight/links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Metadata">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Metadata Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/meta-data.md" title="中繼資料" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="中繼資料"
+                    <a href="./meta-data.md" title="預檢中繼資料機會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/metadata/hero.png" alt="預檢中繼資料機會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,22 +112,22 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" title="中繼資料">中繼資料</a>
+                        <a href="./meta-data.md" target="_blank" rel="referrer" title="預檢中繼資料機會">預檢中繼資料機會</a>
                     </p>
                     <p class="is-size-6">瞭解Sites Optimizer中的預檢中繼資料機會。</p>
                 </div>
-                <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./meta-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Readability">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight Readability Opportunity">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/readability.md" title="可讀性" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-people.png" alt="可讀性"
+                    <a href="./readability.md" title="預檢可讀性機會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/readability/hero.png" alt="預檢可讀性機會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,11 +135,11 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/readability.md" target="_blank" rel="referrer" title="可讀性">可讀性</a>
+                        <a href="./readability.md" target="_blank" rel="referrer" title="預檢可讀性機會">預檢可讀性機會</a>
                     </p>
                     <p class="is-size-6">瞭解Sites Optimizer中的預檢可讀性機會。</p>
                 </div>
-                <a href="../documentation/preflight/readability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./readability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
