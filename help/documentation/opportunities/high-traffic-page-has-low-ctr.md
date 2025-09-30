@@ -3,16 +3,16 @@ title: 高流量頁面點按率偏低機會文件
 description: 了解高流量頁面點按率偏低的機會，以及如何加以利用以提升網站的參與度。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
 source-git-commit: 5c3b4eb9941c82273c017602202b74d7911f7cc5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '266'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 
-# 高流量頁面具有低CTR機會
+# 高流量頁面但點按率偏低的機會
 
-![高流量頁面有低CTR機會](./assets/high-traffic-page-has-low-ctr/hero.png){align="center"}
+![高流量頁面但點按率偏低的機會](./assets/high-traffic-page-has-low-ctr/hero.png){align="center"}
 
 高流量頁面點按率偏低的機會，可協助識別您網站上流量較大但點按率 (CTR) 較低的頁面。透過分析這些頁面，您能夠發現可能阻礙使用者參與的潛在問題，並採取措施提高其效能。這個機會對於最佳化網站內容與版面至關重要，最終可帶來更高的轉換率與更佳的使用者體驗。
 
@@ -20,7 +20,7 @@ ht-degree: 86%
 
 ![自動識別高流量頁面的點按率偏低問題](./assets/high-traffic-page-has-low-ctr/auto-identify.png){align="center"}
 
-**高流量頁面有低CTR機會**&#x200B;會識別網站上有低CTR的高流量頁面，並包括下列專案：
+**高流量頁面但點按率偏低的機會**&#x200B;會確認網站上高流量但點按率偏低的頁面，並包括以下內容：
 
 * **推薦** – 提供建議採取的措施，以提高頁面的點按率。
 * **洞察** – 說明該網頁點按率偏低的原因。
