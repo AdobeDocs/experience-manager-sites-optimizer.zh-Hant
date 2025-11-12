@@ -1,10 +1,10 @@
 ---
 title: 預檢設定
-description: 瞭解如何設定AEM Sites Optimizer的Preflight擴充功能。
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+description: 了解如何設定 AEM Sites Optimizer 的預檢擴充功能。
+source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
 workflow-type: tm+mt
 source-wordcount: '424'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,10 +29,10 @@ ht-degree: 96%
 若要在通用編輯器中設定預檢，請依照以下步驟進行：
 
 1. 在此開啟 **Extension Manager**：
-   [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor?lang=zh-Hant](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
+   [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor?lang=zh-hant](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. 找到 **AEM Sites Optimizer 預檢擴充功能**&#x200B;並提出啟用的請求。
 1. **Adobe AEM 團隊**&#x200B;會在審閱後為您的組織啟用此擴充功能。
-1. 啟用擴充功能後，在 **通用編輯器**&#x200B;中開啟一個頁面，例如：
+1. 啟用擴充功能後，在 **通用編輯器**中開啟一個頁面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **預檢擴充功能**&#x200B;將出現在&#x200B;**側邊欄中**。
 1. 在側邊欄中選取&#x200B;**「預檢擴充功能」**，針對目前頁面開始進行&#x200B;**預檢稽核**。
@@ -124,14 +124,14 @@ ht-degree: 96%
 
    * 按下 **Ctrl+Shift+B** (Windows) 或 **Cmd+Shift+B** (Mac)。
 
-!. 在瀏覽器中建立新書籤：
+1. 在瀏覽器中建立新書籤：
 
-* 在書籤列上按一下右鍵，然後選取「**新頁面**」或「**新增書籤**」。
-* 在「**位址 (URL)**」欄位中，貼上以下程式碼：
+   * 在書籤列上按一下右鍵，然後選取「**新頁面**」或「**新增書籤**」。
+   * 在「**位址 (URL)**」欄位中，貼上以下程式碼：
 
-```javascript
-javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
-```
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
+   ```
 
 1. 將書籤命名為「**預檢**」(或任何您喜歡的名稱)。
 1. 在 **AEM Sites 頁面編輯器**&#x200B;中開啟您要稽核之頁面的預覽 URL (`*.aem.page`)。
