@@ -1,10 +1,10 @@
 ---
 title: 使用 AEM Sites Optimizer 進行預檢最佳化
 description: 了解使用 AEM Sites Optimizer 進行預檢的機會。
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 61%
+source-wordcount: '190'
+ht-degree: 79%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 61%
 
 ![預檢機會](./assets/preflight/hero.png){align="center"}
 
-AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協助確保您的網頁在開始使用前已針對效能、SEO和使用者體驗最佳化。 進行預檢能夠發現潛在的問題，例如連結失效、缺少後設資料標記和無障礙問題，讓內容作者和行銷人員能在發布過程早期就解決這些問題。這個主動檢查的方法，會盡可能降低發佈不理想內容的風險、提升網站品質，並改善整體的數位形象。使用預檢機會能讓工作流程更順暢，減少發布後再修正的狀況，也有助於提高搜尋引擎排名和使用者滿意度。
+AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協助確保您的網頁在上線前針對效能、SEO 以及使用者體驗進行最佳化。進行預檢能夠發現潛在的問題，例如連結失效、缺少後設資料標記和無障礙問題，讓內容作者和行銷人員能在發布過程早期就解決這些問題。這種主動式方法可將發佈次優內容的風險降至最低，提升網站品質，並改善整體數位表現。 使用預檢機會可支援更順暢的工作流程、減少發佈後的修正，並有助於提高搜尋引擎排名和使用者滿意度。
 
 ## 機會
 
@@ -53,7 +53,7 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/preflight/accessibility.md" target="_blank" rel="referrer" title="協助工具">協助工具</a>
                     </p>
-                    <p class="is-size-6">瞭解Sites Optimizer中的Preflight協助工具機會。</p>
+                    <p class="is-size-6">了解 Sites Optimizer 中的預檢無障礙機會。</p>
                 </div>
                 <a href="../documentation/preflight/accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -76,7 +76,7 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/preflight/h1-count.md" target="_blank" rel="referrer" title="H1 計數">H1 計數</a>
                     </p>
-                    <p class="is-size-6">瞭解Sites Optimizer中的Preflight協助工具機會。</p>
+                    <p class="is-size-6">了解 Sites Optimizer 中的預檢無障礙機會。</p>
                 </div>
                 <a href="../documentation/preflight/h1-count.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -99,7 +99,7 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/preflight/links.md" target="_blank" rel="referrer" title="連結">連結</a>
                     </p>
-                    <p class="is-size-6">瞭解Sites Optimizer中的預檢連結商機。</p>
+                    <p class="is-size-6">了解 Sites Optimizer 中的預檢連結機會。</p>
                 </div>
                 <a href="../documentation/preflight/links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -111,8 +111,8 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/preflight/meta-data.md" title="中繼資料" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="中繼資料"
+                    <a href="../documentation/preflight/meta-data.md" title="後設資料" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="後設資料"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,9 +120,9 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" title="中繼資料">中繼資料</a>
+                        <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" title="後設資料">後設資料</a>
                     </p>
-                    <p class="is-size-6">瞭解Sites Optimizer中的預檢中繼資料機會。</p>
+                    <p class="is-size-6">了解 Sites Optimizer 中的預檢後設資料機會。</p>
                 </div>
                 <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -145,7 +145,7 @@ AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/preflight/readability.md" target="_blank" rel="referrer" title="可讀性">可讀性</a>
                     </p>
-                    <p class="is-size-6">瞭解Sites Optimizer中的預檢可讀性機會。</p>
+                    <p class="is-size-6">了解 Sites Optimizer 中的預檢可讀性機會。</p>
                 </div>
                 <a href="../documentation/preflight/readability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

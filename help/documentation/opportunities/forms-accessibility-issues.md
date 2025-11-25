@@ -4,21 +4,21 @@ description: 了解表單無障礙問題機會，以及如何使用此機會來�
 badgeFormOptimization: label="表單最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表單最佳化"
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
-workflow-type: ht
-source-wordcount: '284'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 表單無障礙問題機會
 
-<span class="preview">搶先體驗計劃現在提供表單最佳化功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
+<span class="preview"> Forms最佳化功能可在搶先存取程式下使用。 您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
 
 ![表單無障礙問題機會](./assets/forms-accessibility-issues/hero.png){align="center"}
 
-表單無障礙問題機會可確認您的表單符合身心障礙人士需求的程度，以及表單是否遵循[網頁內容無障礙指南 (WCAG)](https://www.w3.org/TR/WCAG21/)。透過評估表單符合 WCAG 的程度，您可以協助打造具有包容性的表單體驗，讓患有視覺、聽覺、認知和運動障礙的個人能夠瀏覽您的表單、與表單互動以及成功填寫表單。這項功能之所以極為重要，不但是因為道德原因，更因為能夠促進遵守法律需求、改善表單完成率，並可以擴大客群觸及範圍，從而增強使用者體驗和業務績效。
+表單無障礙問題機會可確認您的表單符合身心障礙人士需求的程度，以及表單是否遵循[網頁內容無障礙指南 (WCAG)](https://www.w3.org/TR/WCAG21/)。透過評估您的表單符合WCAG的程度，您有助於建立包容性的表單體驗。 如此一來，視覺、聽覺、認知和運動障礙人士就能導覽、互動並成功完成表單。 這不僅是因為道德上的原因，也促進了對法律要求的遵守。 它也能改善表單完成率，並增加您的對象觸及率，提升使用者體驗和業務績效。
 
 ## 自動識別
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 ![自動建議表單無障礙問題](./assets/forms-accessibility-issues/auto-suggest.png){align="center"}
 
-自動建議會在「**建議**」欄位中提供 AI 產生的建議，其提供如何解決表單無障礙問題的規範性指導。
+自動建議在&#x200B;**建議**&#x200B;欄位中提供AI產生的建議，該欄位提供如何修正表單協助工具問題的規範性指南。
 
 <!-- 
 

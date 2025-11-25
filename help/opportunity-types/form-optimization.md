@@ -3,23 +3,23 @@ title: 使用 Sites Optimizer 進行表單最佳化
 description: 了解如何使用 Sites Optimizer 進行表單最佳化。
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
-workflow-type: ht
-source-wordcount: '214'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 表單最佳化機會
 
-<span class="preview">搶先體驗計劃現在提供表單最佳化功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
+<span class="preview"> Forms最佳化功能可在搶先存取程式下使用。 您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
 ![表單最佳化機會](./assets/form-optimization/hero.png){align="center"}
 
-組織可以透過表單最佳化機會，以系統化方式改善使用者互動並增加表單轉換率。透過偵測低瀏覽量、低轉換率和低導覽行為等問題，團隊可以根據資料對表單設計、位置和內容進行調整。這些最佳化有助於簡化使用者體驗，使訪客填寫表格更輕鬆並實現預期成果。利用表單最佳化的洞察可以持續找出並解決效能差距，進而提高表單成效及改善業務成果。
+Forms最佳化機會可讓組織系統地改善使用者互動，並提高表單轉換率。 透過偵測低檢視、低轉換和低導覽率等問題，團隊可以對表單設計、版位和內容進行資料導向調整。 這些最佳化有助於簡化使用者體驗，使訪客填寫表格更輕鬆並實現預期成果。使用Forms Optimization的深入分析可支援持續識別及解決效能差距，進而產生更有效的表單並改善業務成果。
 
 ## 機會
 

@@ -1,16 +1,16 @@
 ---
-title: 預檢協助工具機會
-description: 瞭解Sites Optimizer中的Preflight協助工具機會。
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+title: 預檢無障礙機會
+description: 了解 Sites Optimizer 中的預檢無障礙機會。
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# 預檢協助工具機會
+# 預檢無障礙機會
 
-![預檢協助工具機會](./assets/accessibility/hero.png){align="center"}
+![預檢無障礙機會](./assets/accessibility/hero.png){align="center"}
 
-Sites Optimizer中的「預檢協助工具」機會可協助您識別並解決網站上的協助工具問題，確保可供所有個人使用，包括殘障人士。 此機會著重於評估網站與協助工具標準的相容性，並提供可行的改善建議。
+Sites Optimizer中的「預檢協助工具」機會可協助您識別並解決網站上的協助工具問題，以確保所有人士（包括殘疾人士）都能使用。 此機會聚焦於評估網站無障礙標準的合規性，並提供可操作的改善建議。

@@ -1,10 +1,10 @@
 ---
 title: 預檢可讀性機會
-description: 瞭解Sites Optimizer中的預檢可讀性機會。
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+description: 了解 Sites Optimizer 中的預檢可讀性機會。
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 7%
 
 ![預檢可讀性機會](./assets/readability/hero.png){align="center"}
 
-Sites Optimizer中的預檢可讀性機會可協助您識別及解決與網站內容可讀性相關的問題。 此機會著重於評估您網站的內容結構，並提供可行的改善建議。
+Sites Optimizer 中的預檢可讀性機會可協助您識別和解決網站內容可讀性的相關問題。此機會聚焦於評估您網站的內容結構，並提供可操作的改善建議。
 
 預檢可讀性機會提供多種語言版本，包括：
 
@@ -24,4 +24,4 @@ Sites Optimizer中的預檢可讀性機會可協助您識別及解決與網站�
 * 德文
 * 荷蘭文
 
-這可確保團隊可以評估和最佳化廣泛對象中的內容可讀性。
+這可確保團隊可以評估並最佳化廣泛對象中的內容可讀性。

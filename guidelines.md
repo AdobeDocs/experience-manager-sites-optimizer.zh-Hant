@@ -1,17 +1,17 @@
 ---
-source-git-commit: 505238dcbe7fa9c1ee22dd174d6641e7df10394f
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 59%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 # Adobe Experience Manager 說明文件協助撰寫指南
 
 ## 說明文件理念
 
-Adobe Experience Manager使用者在激烈競爭的環境中工作，致力於創造能從其他競爭者中脫穎而出的數位體驗。 因此，Adobe在AEM中推出進階的新工具時，必須搭配精確且清楚的說明檔案，讓客戶能立即使用其AEM投資，並將ROI最大化。
+Adobe Experience Manager 使用者在競爭激烈的環境中工作，努力創造從其他競爭者中脫穎而出的數位體驗。因此，Adobe 在 AEM 中交付進階的新工具時，必須搭配精確且清楚的說明文件。讓客戶能立即運用他們的 AEM 投資，並將其投資報酬率最大化。
 
-AEM 說明文件的目標是讓 AEM 使用者盡快取得說明文件。因此，AEM檔案團隊會優先處理準確、可使用的檔案，並努力持續更新和改善。
+AEM 說明文件的目標是讓 AEM 使用者盡快取得說明文件。因此，Adobe 會優先處理精確且可使用的說明文件，並努力持續更新和改進。
 
 ## 協助撰寫說明文件
 
@@ -19,33 +19,33 @@ AEM 說明文件的目標是讓 AEM 使用者盡快取得說明文件。因此�
 
 ## 說明文件標準
 
-雖然Experience Manager檔案團隊歡迎協助撰寫Adobe檔案，但對AEM檔案的任何協助撰寫（無論是以提取請求或問題的形式）都應符合團隊的協助撰寫和檔案標準。
+雖然 Adobe 歡迎協助撰寫其說明文件，但是以提取要求還是問題形式協助撰寫 AEM 說明文件，都應符合 Adobe 的協助貢獻和說明文件標準。
 
 不符合這些標準的貢獻可能會遭拒。
 
-### Experience Manager檔案團隊會記錄標準使用案例。
+### 標準使用案例記錄在Adobe
 
 AEM 說明文件涵蓋標準使用案例。AEM 說明文件不包含產品標準安裝與使用範圍以外的使用案例。
 
-### Experience Manager檔案團隊通常不會記錄錯誤或其因應措施。
+### Adobe通常不會記錄錯誤或其因應措施
 
 AEM 說明文件涵蓋標準使用案例。因此，不會記錄錯誤、錯誤造成的影響，以及錯誤的因應措施，
 
-此規則的例外情況適用於發行說明，已知問題可與 AEM 產品管理部門核准的可行解決方案一起列出。
+此規則的例外情況適用於版本注意事項，已知問題可能會和產品管理核准的可能解決方案列在一張清單中。
 
 ### 協助撰寫說明文件的目的不在於回答技術問題。
 
-歡迎您協助提出任何改善 AEM 說明文件的想法。但是，評論、問題和提取要求僅為&#x200B;*協助撰寫*。不是用來回答您有關如何使用 AEM、實作 AEM 專案或解決技術問題。
+歡迎您協助提出任何一定要改善 AEM 說明文件的想法。但是，任何評論、問題和提取要求僅以&#x200B;*協助撰寫*&#x200B;為目的。這些不是用來回答您有關如何使用 AEM、實作 AEM 專案或解決技術問題。
 
-有關使用 AEM 或技術錯誤的任何問題，應透過 [Experience Manager 支援入口網站](https://experienceleague.adobe.com/zh-hant?support-solution=Experience+Manager#home)的正常支援流程回報，或在 [Experience Manager 社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中討論。
+您可以報告有關 AEM 使用或技術錯誤的任何問題。透過 [Experience Cloud 企業支援入口網站](https://experienceleague.adobe.com/?support-solution=General#support)使用一般的支援流程來報告，或透過在 [Experience Manager 社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中討論來報告。
 
 ***AEM說明檔案協助撰寫並非Adobe客戶支援的替代品***，且這類協助撰寫若試圖解答支援相關問題，一律會遭到拒絕。
 
 ### 協助撰寫內容必須清楚參考受影響的說明文件頁面。
 
-如果您要建立問題以建議改善說明文件，則必須附上受影響頁面的連結。如果您使用檔案頁面上的「編輯 **此頁面** 」連結來建立期刊，則會自動建立包含該頁面連結的期刊。
+如果您要建立問題以建議改善說明文件，則必須附上受影響頁面的連結。如果您使用說明文件頁面上的「 **編輯此頁面** 」連結來建立問題，則系統會自動建立問題並包含該頁面的連結。
 
-這不適用於提取請求，因為提取請求本質上會參考受影響的頁面。
+此程序不適用於提取要求，因為提取要求本身就會參考受影響的頁面。
 
 ## 說明文件準則
 
@@ -83,10 +83,10 @@ AEM 說明文件涵蓋標準使用案例。因此，不會記錄錯誤、錯誤�
 
 ### 版本專屬參照
 
-盡量避免在整份說明文件內容中直接參照特定版本。這可讓說明文件對未來版本而言更具彈性且可擴充。
+盡量避免在整份說明文件內容中直接參照特定版本。此建議可讓說明文件對未來版本而言更具彈性且可擴充。
 
 ### 使用 Day、AEM、CQ、CRX
 
-產品在文章中第一次呼叫時應一律使用全名&#x200B;**Adobe Experience Manager**，之後可稱為&#x200B;**AEM**。
+在文章中，產品第一次出現時一律稱全名 **Adobe Experience Manager**。之後可稱為 **AEM**。
 
 請勿使用Day、Day Software、CQ和CRX，除非是無法避免的情況，例如班級名稱或是參照AEM紀錄時。

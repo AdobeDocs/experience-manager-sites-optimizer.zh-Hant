@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 機會類型
 description: 了解 Sites Optimizer 中的關鍵機會類型，以及其如何協助您提高網站的績效。
-source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
 
 每個類別均強調一個增強網站的不同方法。某個類別可能會增加訪客互動。另一個則可以提高可搜尋性。其他則將焦點放在增強安全性或維持網站穩定性。預檢能協助您在頁面發佈之前加以分析和最佳化。
 
-使用這些機會可以改善使用者體驗、吸引合適的客群，並確保您的網站安全可靠。提升參與度和流量贏取可促進互動和提高可見度，而強大的安全態勢和網站健康情況則有助於確保信任和穩定性。預檢分析可確保您的內容在上線之前已進行最佳化。請探索下面的連結，以查看按類別組織的機會，並找到改進網站的方法。
+使用這些機會可以改善使用者體驗、吸引合適的客群，並確保您的網站安全可靠。提升參與度和流量贏取可促進互動和提高可見度，而強大的安全態勢和網站健康情況則有助於確保信任和穩定性。預檢分析可確保您的內容在上線前已最佳化。 請探索下面的連結，以查看按類別組織的機會，並找到改進網站的方法。
 
 ## 機會類型
 
@@ -211,4 +211,4 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<span class="preview">搶先體驗計劃現在提供表單最佳化和表單無障礙功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
+<span class="preview"> Forms最佳化和Forms協助工具功能可在搶先存取計畫下取得。 您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>

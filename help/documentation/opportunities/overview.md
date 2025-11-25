@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 機會文件
 description: 了解所有可用的 Sites Optimizer 機會，以及如何使用這些機會來提高網站的績效。
-source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
-workflow-type: ht
-source-wordcount: '885'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -366,7 +366,7 @@ Sites Optimizer 是由 Adobe AI 提供支援的一組不斷增長的機會所構
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./low-navigation.md" target="_blank" rel="referrer" title="表單低導覽行為">表單低導覽行為</a>
                     </p>
-                    <p class="is-size-6">了解表單低導覽行為機會，以及如何使用此機會來提高網站上的表單參與度。</p>
+                    <p class="is-size-6">瞭解低導覽商機，以及如何使用它來改善網站上的表單參與度。</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -389,7 +389,7 @@ Sites Optimizer 是由 Adobe AI 提供支援的一組不斷增長的機會所構
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="表單無障礙問題">表單無障礙問題</a>
                     </p>
-                    <p class="is-size-6">了解表單無障礙問題機會，以及如何使用此機會來提高網站上的參與度。</p>
+                    <p class="is-size-6">瞭解Forms協助工具問題，以及如何使用它來提高您網站的參與度。</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
