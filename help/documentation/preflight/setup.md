@@ -1,10 +1,10 @@
 ---
 title: 預檢設定
 description: 了解如何設定 AEM Sites Optimizer 的預檢擴充功能。
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: e39930ebe2213dcca17209934173a7b521b34dbc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '573'
+ht-degree: 63%
 
 ---
 
@@ -32,7 +32,7 @@ AEM Sites Optimizer預檢商機識別需要設定預檢擴充功能。 您可以
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor?lang=zh-hant](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. 找到 **AEM Sites Optimizer 預檢擴充功能**&#x200B;並提出啟用的請求。
 1. **Adobe AEM團隊**&#x200B;會檢閱並啟用您組織的擴充功能。
-1. 啟用擴充功能後，在 **通用編輯器**&#x200B;中開啟一個頁面，例如：
+1. 啟用擴充功能後，在 **通用編輯器**中開啟一個頁面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **預檢擴充功能**&#x200B;出現在&#x200B;**側邊欄**&#x200B;中。
 1. 在側邊欄中選取&#x200B;**「預檢擴充功能」**，針對目前頁面開始進行&#x200B;**預檢稽核**。
@@ -135,6 +135,31 @@ AEM Sites Optimizer預檢商機識別需要設定預檢擴充功能。 您可以
 
 1. 將書籤命名為「**預檢**」(或任何您喜歡的名稱)。
 1. 在`*.aem.page`AEM Sites頁面編輯器&#x200B;**中開啟您要稽核之頁面的預覽URL (**)。
+1. 在書籤列中按一下「**預檢**」書籤，以便開始稽核目前頁面。
+
+>[!TAB Adobe Managed Services]
+
+>[!IMPORTANT]
+>
+>僅支援使用Adobe的身分提供者(IMS)對AEM Author進行驗證的Adobe Managed Services (AMS)環境。 如果您的組織使用任何其他身分提供者進行AMS驗證，Preflight就沒有作用。
+
+若要在AMS環境的AEM Sites頁面編輯器中使用Preflight，請在網頁瀏覽器中建立書籤小程式，步驟如下：
+
+1. 在網頁瀏覽器中顯示您的&#x200B;**書籤列**：
+
+   * 按下 **Ctrl+Shift+B** (Windows) 或 **Cmd+Shift+B** (Mac)。
+
+1. 在瀏覽器中建立新書籤：
+
+   * 在書籤列上按一下右鍵，然後選取「**新頁面**」或「**新增書籤**」。
+   * 在「**位址 (URL)**」欄位中，貼上以下程式碼：
+
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=ams';document.head.appendChild(script);})();
+   ```
+
+1. 將書籤命名為「**預檢**」(或任何您喜歡的名稱)。
+1. 在&#x200B;**AEM Sites頁面編輯器**&#x200B;中開啟您要稽核的頁面。
 1. 在書籤列中按一下「**預檢**」書籤，以便開始稽核目前頁面。
 
 >[!ENDTABS]
