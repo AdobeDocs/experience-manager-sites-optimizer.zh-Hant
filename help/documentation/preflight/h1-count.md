@@ -1,16 +1,16 @@
 ---
-title: 預檢H1計數機會
-description: 瞭解Sites Optimizer中的Preflight協助工具機會。
+title: 預檢 H1 計數機會
+description: 了解 Sites Optimizer 中的預檢無障礙機會。
 source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 預檢H1計數機會
+# 預檢 H1 計數機會
 
-![預檢H1計數機會](./assets/h1-count/hero.png){align="center"}
+![預檢 H1 計數機會](./assets/h1-count/hero.png){align="center"}
 
-Sites Optimizer中的預檢H1計數機會可協助您識別及解決與網站上使用H1標題相關的問題。 此機會著重於評估您的網站結構，並提供可行的改善建議。
+Sites Optimizer 中的預檢 H1 計數機會可協助您識別和解決網站上 H1 標題使用的相關問題。此機會聚焦於評估您網站的結構，並提供可操作的改善建議。
