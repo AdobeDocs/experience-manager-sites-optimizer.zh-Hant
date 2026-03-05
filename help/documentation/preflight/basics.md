@@ -1,9 +1,9 @@
 ---
 title: 預檢基本資訊
 description: 瞭解Preflight的基本知識及如何使用其介面。
-source-git-commit: b73458e4d575547ccb9220105a5f72090431221c
+source-git-commit: d669706909eeed61c6d0803e2b37df81ece987e1
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 0%
 ## 稽核結果
 
 稽核完成時，Preflight會顯示找到的機會。 每個機會都按型別組織，並包含如何解決問題的詳細資訊。
+
+在AEM Preflight對話方塊頂端是反映整體稽核結果的使用者進度列。 它會顯示通過但無問題的機會百分比，以及在所有機會中找到的問題總數。 使用者進度列可協助作者快速評估整體的頁面健康狀態。
 
 ## 關於預檢機會
 
