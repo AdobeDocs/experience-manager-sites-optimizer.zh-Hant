@@ -1,9 +1,9 @@
 ---
 title: AEM Sites Optimizer
 description: 使用 Sites Optimizer 來提升網站效能，包括提高速度、降低成本以及增強可靠性，以促進參與度。
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: ht
-source-wordcount: '214'
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+workflow-type: tm+mt
+source-wordcount: '260'
 ht-degree: 100%
 
 ---
@@ -11,13 +11,14 @@ ht-degree: 100%
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455096/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
-Adobe Experience Manager (AEM) Sites Optimizer 是一項雲端型服務，可分析和改進以 AEM 為基礎建置的網站之效能。Sites Optimizer 可以針對頁面載入、元件使用情況及內容傳遞找出需改進的地方。此功能有助於提高網站的效能，同時降低維護和更新成本。透過使用 Sites Optimizer，您可以確保流暢可靠的線上體驗，這對於維持參與度和轉換率來說非常重要。
+Adobe Experience Manager (AEM) Sites Optimizer 是一項雲端型服務，可分析和改進以 AEM 為基礎建置的網站之效能。 Sites Optimizer 可以針對頁面載入、元件使用情況及內容傳遞找出需改進的地方。 此功能有助於提高網站的效能，同時降低維護和更新成本。 透過使用 Sites Optimizer，您可以確保流暢可靠的線上體驗，這對於維持參與度和轉換率來說非常重要。
 
 ## 開始使用 Sites Optimizer
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * ./opportunity-types/overview.md
     * {title=Opportunity types}
@@ -83,14 +84,15 @@ Adobe Experience Manager (AEM) Sites Optimizer 是一項雲端型服務，可分
 
 ## 了解更多關於 Sites Optimizer 的資訊
 
-<!-- CARDS 
-* https://helpx.adobe.com/tw/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+<!--
+CARDS 
+* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
     {target=_blank}
     {cta=Learn more}
-* https://business.adobe.com/tw/products/experience-manager/sites/optimizer.html
+* https://business.adobe.com/products/experience-manager/sites/optimizer.html
     {title=Explore the capabilities of AEM Sites Optimizer}
     {description=Learn what AEM Site Optimizer can do for your company.}
     {image=./assets/home/business-adobe-com.png}

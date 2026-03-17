@@ -1,9 +1,9 @@
 ---
 title: 使用 AEM Sites Optimizer 進行預檢最佳化
 description: 了解使用 AEM Sites Optimizer 進行預檢的機會。
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 79%
 
 ---
@@ -13,11 +13,13 @@ ht-degree: 79%
 
 ![預檢機會](./assets/preflight/hero.png){align="center"}
 
-AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協助確保您的網頁在上線前針對效能、SEO 以及使用者體驗進行最佳化。進行預檢能夠發現潛在的問題，例如連結失效、缺少後設資料標記和無障礙問題，讓內容作者和行銷人員能在發布過程早期就解決這些問題。這種主動式方法可將發佈次優內容的風險降至最低，提升網站品質，並改善整體數位表現。 使用預檢機會可支援更順暢的工作流程、減少發佈後的修正，並有助於提高搜尋引擎排名和使用者滿意度。
+AEM Sites Optimizer [預檢機會](../documentation/preflight/overview.md)可協助確保您的網頁在上線前針對效能、SEO 以及使用者體驗進行最佳化。 進行預檢能夠發現潛在的問題，例如連結失效、缺少後設資料標記和無障礙問題，讓內容作者和行銷人員能在發布過程早期就解決這些問題。 這種主動式方法可將發佈次優內容的風險降至最低，提升網站品質，並改善整體數位表現。 使用預檢機會可支援更順暢的工作流程、減少發佈後的修正，並有助於提高搜尋引擎排名和使用者滿意度。
 
 ## 機會
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/preflight/accessibility.md
   {title=Accessibility}

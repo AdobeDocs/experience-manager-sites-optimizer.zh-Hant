@@ -1,9 +1,9 @@
 ---
 title: 使用 Sites Optimizer 將網站健康情況最佳化
 description: 了解如何使用 Sites Optimizer 來提高網站的健康情況。
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '126'
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+workflow-type: tm+mt
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
@@ -13,11 +13,13 @@ ht-degree: 100%
 
 ![網站健康情況機會](./assets/site-health/hero.png){align="center"}
 
-在 AEM Sites Optimizer 中維持網站健康情況對於提供快速、可靠且高效的數位體驗至關重要。團隊可以透過識別改進機會 (例如核心網頁指標)，將頁面速度、互動和視覺穩定性最佳化，以增強使用者體驗和搜尋引擎排名。維護良好的網站可確保更順暢的導覽體驗、更好的參與度和更高的整體績效。使用 AEM Sites Optimizer 的洞察可以進行持續監視和調整，確保網站長期保持有效率且有成效。
+在 AEM Sites Optimizer 中維持網站健康情況對於提供快速、可靠且高效的數位體驗至關重要。 團隊可以透過識別改進機會 (例如核心網頁指標)，將頁面速度、互動和視覺穩定性最佳化，以增強使用者體驗和搜尋引擎排名。 維護良好的網站可確保更順暢的導覽體驗、更好的參與度和更高的整體績效。 使用 AEM Sites Optimizer 的洞察可以進行持續監視和調整，確保網站長期保持有效率且有成效。
 
 ## 機會
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/opportunities/core-web-vitals.md
   {title=Core web vitals}

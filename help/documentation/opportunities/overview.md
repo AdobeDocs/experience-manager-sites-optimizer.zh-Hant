@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 機會文件
 description: 了解所有可用的 Sites Optimizer 機會，以及如何使用這些機會來提高網站的績效。
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '891'
+ht-degree: 96%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 ![Sites Optimizer 機會](./assets/overview/hero.png){align="center"}
 
 
-Sites Optimizer 是由 Adobe AI 提供支援的一組不斷增長的機會所構成，旨在識別並建議您的網站所能進行的改進。每個機會都會提供對於潛在商業價值的分析、點出需要關注的領域，並提供可操作的最佳化建議。按一下每個機會來探索已識別的問題、建議的改進，以及關於如何實施這些變更以增強網站績效和使用者體驗的逐步指導。
+Sites Optimizer 是由 Adobe AI 提供支援的一組不斷增長的機會所構成，旨在識別並建議您的網站所能進行的改進。 每個機會都會提供對於潛在商業價值的分析、點出需要關注的領域，並提供可操作的最佳化建議。 按一下每個機會來探索已識別的問題、建議的改進，以及關於如何實施這些變更以增強網站績效和使用者體驗的逐步指導。
 
 您可以透過 [Sites Optimizer 永久性導覽](/help/documentation/basics.md#navigation)中的「**機會**」選單選項來使用機會。
 
@@ -34,7 +34,7 @@ Sites Optimizer 是由 Adobe AI 提供支援的一組不斷增長的機會所構
 
 ![已忽略的機會](./assets/overview/ignored.png){align="center"}
 
-您已忽略的機會。您可以從這個檢視中還原已忽略的機會。
+您已忽略的機會。 您可以從這個檢視中還原已忽略的機會。
 
 >[!TAB 已最佳化]
 
@@ -44,7 +44,7 @@ Sites Optimizer 是由 Adobe AI 提供支援的一組不斷增長的機會所構
 
 ## 機會
 
-選取某個[機會狀態](#opportunity-status)後，便可以檢視機會清單。您可以透過下列方式來篩選機會清單：
+選取某個[機會狀態](#opportunity-status)後，便可以檢視機會清單。 您可以透過下列方式來篩選機會清單：
 
 * **搜尋** - 透過&#x200B;**關鍵字、標記或 URL** 搜尋機會。
 * **機會類型** - 使用「**類型**」下拉式清單來依[機會類型](/help/opportunity-types/overview.md)篩選機會。
@@ -53,7 +53,7 @@ Sites Optimizer 是由 Adobe AI 提供支援的一組不斷增長的機會所構
 
 ![機會詳細資料](/help/documentation/opportunities/assets/overview/opportunity-details.png){align="center"}
 
-每個機會都會提供問題的簡短說明、其對您網站的潛在影響，以及完整詳細資料的連結。您也可以查看其狀態，這會指出其已進行最佳化還是仍處於待處理狀態。
+每個機會都會提供問題的簡短說明、其對您網站的潛在影響，以及完整詳細資料的連結。 您也可以查看其狀態，這會指出其已進行最佳化還是仍處於待處理狀態。
 
 * **機會標題** – 問題的簡短說明，及其對您網站績效的潛在影響。
 * **上次更新時間** - Sites Optimizer 上次在這個日期使用新資料更新機會的內容。
@@ -64,14 +64,14 @@ Sites Optimizer 是由 Adobe AI 提供支援的一組不斷增長的機會所構
 
 若要檢視機會的詳細資料，請按一下「**詳細資料**」按鈕。
 
-若要從 Sites Optimizer 儀表板中排除某個機會，請按一下「**忽略**」按鈕。此操作會將機會移到「[**已忽略**」索引標籤](#opportunity-status)。
+若要從 Sites Optimizer 儀表板中排除某個機會，請按一下「**忽略**」按鈕。  此操作會將機會移到「[**已忽略**」索引標籤](#opportunity-status)。
 
 ## 所有機會
 
 探索 Sites Optimizer 中所有可用的可能機會：
 
-<!-- CARDS
-
+<!--
+CARDS
 * ./accessibility-issues.md
   {title=Accessibility issues}
   {image=../../assets/common/card-arrows.png} 
@@ -117,8 +117,8 @@ Sites Optimizer 是由 Adobe AI 提供支援的一組不斷增長的機會所構
 * ./website-vulnerabilities.md
   {title=Website vulnerabilities}
   {image=../../assets/common/card-puzzle.png}
-  
---->
+-->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accessibility issues">

@@ -3,10 +3,10 @@ title: 使用 Sites Optimizer 進行表單最佳化
 description: 了解如何使用 Sites Optimizer 進行表單最佳化。
 hide: true
 hidefromtoc: true
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 60%
 
 ---
 
@@ -18,11 +18,13 @@ ht-degree: 0%
 ![表單無障礙機會](./assets/form-accesibility/hero.png){align="center"}
 
 
-表單無障礙機會是改善使用者互動與提高轉換率的關鍵。評估表單符合網頁內容無障礙指南 (WCAG) 的程度，有助於確保患有視覺、聽覺、認知和運動障礙的使用者享有具包容性的體驗。此功能不僅符合道德和法律要求，也提高了表單完成率並拓寬了您的受眾，從而帶來更好的使用者體驗和更強大的業務成果。
+表單無障礙機會是改善使用者互動與提高轉換率的關鍵。 評估表單符合網頁內容無障礙指南 (WCAG) 的程度，有助於確保患有視覺、聽覺、認知和運動障礙的使用者享有具包容性的體驗。 此功能不僅符合道德和法律要求，也提高了表單完成率並拓寬了您的受眾，從而帶來更好的使用者體驗和更強大的業務成果。
 
 ## 機會
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/low-views.md
   {title=Low views}
@@ -31,7 +33,7 @@ ht-degree: 0%
   {title=Low conversions}
   {image=../assets/common/card-bag.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms Accessibility issues">

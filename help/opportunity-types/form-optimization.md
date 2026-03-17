@@ -3,10 +3,10 @@ title: 使用 Sites Optimizer 進行表單最佳化
 description: 了解如何使用 Sites Optimizer 進行表單最佳化。
 hide: true
 hidefromtoc: true
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '219'
+ht-degree: 67%
 
 ---
 
@@ -19,11 +19,13 @@ ht-degree: 0%
 
 ![表單最佳化機會](./assets/form-optimization/hero.png){align="center"}
 
-Forms最佳化機會可讓組織系統地改善使用者互動，並提高表單轉換率。 透過偵測低檢視、低轉換和低導覽率等問題，團隊可以對表單設計、版位和內容進行資料導向調整。 這些最佳化有助於簡化使用者體驗，使訪客填寫表格更輕鬆並實現預期成果。使用Forms Optimization的深入分析可支援持續識別及解決效能差距，進而產生更有效的表單並改善業務成果。
+Forms最佳化機會可讓組織系統地改善使用者互動，並提高表單轉換率。 透過偵測低檢視、低轉換和低導覽率等問題，團隊可以對表單設計、版位和內容進行資料導向調整。 這些最佳化有助於簡化使用者體驗，使訪客填寫表格更輕鬆並實現預期成果。 使用Forms Optimization的深入分析可支援持續識別及解決效能差距，進而產生更有效的表單並改善業務成果。
 
 ## 機會
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/low-views.md
   {title=Low views}
@@ -32,7 +34,7 @@ Forms最佳化機會可讓組織系統地改善使用者互動，並提高表單
   {title=Low conversions}
   {image=../assets/common/card-bag.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low views">
@@ -94,7 +96,7 @@ Forms最佳化機會可讓組織系統地改善使用者互動，並提高表單
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" title="無障礙問題">低導覽行為</a>
+                        <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" title="協助工具問題">低導覽行為</a>
                     </p>
                     <p class="is-size-6">了解低導覽行為機會，以及如何使用此機會來提高網站上的表單參與度。</p>
                 </div>
