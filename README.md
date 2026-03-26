@@ -1,10 +1,17 @@
 ---
-source-git-commit: 28b80c19ebfeb6bc5df06b137c9393a7760a178c
+source-git-commit: 26f63911540206e1704a9989267d9981fa10a22f
 workflow-type: tm+mt
-source-wordcount: '7'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 4%
 
 ---
-# 已封存
+# AEM Sites Optimizer檔案
 
-此存放庫已移轉至<https://github.com/Adobe-Enterprise-Docs/experience-manager-sites-optimizer.zh-Hant>
+此存放庫適用於AEM Sites Optimizer檔案。 本檔案涵蓋AEM Sites Optimizer的安裝、管理、編寫使用和自訂。
+
+歡迎您協助撰寫說明檔案。 請參閱下列資源：
+
+* [contributing.md](contributing.md)如何協助撰寫本檔案的概述。
+* [guidelines.md](guidelines.md)預期貢獻內容以及如何協助編寫說明檔案的概述。
+* [code-of-conduct.md](code-of-conduct.md)概述Adobd期望在您貢獻本說明檔案專案時的行為標準。
+
