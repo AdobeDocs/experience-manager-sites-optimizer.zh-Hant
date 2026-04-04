@@ -3,11 +3,10 @@ title: 表單無障礙問題機會文件
 description: 了解表單無障礙問題機會，以及如何使用此機會來改善網站的表單無障礙和使用者體驗。
 badgeFormOptimization: label="表單最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表單最佳化"
 hide: true
-hidefromtoc: true
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '311'
+ht-degree: 65%
 
 ---
 
@@ -18,7 +17,7 @@ ht-degree: 0%
 
 ![表單無障礙問題機會](./assets/forms-accessibility-issues/hero.png){align="center"}
 
-表單無障礙問題機會可確認您的表單符合身心障礙人士需求的程度，以及表單是否遵循[網頁內容無障礙指南 (WCAG)](https://www.w3.org/TR/WCAG21/)。透過評估您的表單符合WCAG的程度，您有助於建立包容性的表單體驗。 如此一來，視覺、聽覺、認知和運動障礙人士就能導覽、互動並成功完成表單。 這不僅是因為道德上的原因，也促進了對法律要求的遵守。 它也能改善表單完成率，並增加您的對象觸及率，提升使用者體驗和業務績效。
+表單無障礙問題機會可確認您的表單符合身心障礙人士需求的程度，以及表單是否遵循[網頁內容無障礙指南 (WCAG)](https://www.w3.org/TR/WCAG21/)。 透過評估您的表單符合WCAG的程度，您有助於建立包容性的表單體驗。 如此一來，視覺、聽覺、認知和運動障礙人士就能導覽、互動並成功完成表單。 這不僅是因為道德上的原因，也促進了對法律要求的遵守。 它也能改善表單完成率，並增加您的對象觸及率，提升使用者體驗和業務績效。
 
 ## 自動識別
 
