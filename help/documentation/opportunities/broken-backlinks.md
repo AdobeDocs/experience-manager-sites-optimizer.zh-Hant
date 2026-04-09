@@ -20,7 +20,7 @@ ht-degree: 33%
 
 ![自動識別損壞的反向連結](./assets/broken-backlinks/auto-identify.png){align="center"}
 
-AEM Sites Optimizer會持續掃描外部資料來源，偵測指向網站上不存404頁面的反向連結。 資料會從多個來源彙總，包括Google搜尋主控台、[作業遙測](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)以及協力廠商SEO平台。 自動識別機會會識別連結至失效URL的外部網域，並根據影響（包括網域授權和預期流量及連結權益損失）來排定其優先順序。
+AEM Sites Optimizer會持續掃描外部資料來源，偵測指向網站上不存404頁面的反向連結。 資料會從多個來源彙總，包括Google搜尋主控台、[作業遙測](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)以及協力廠商SEO平台。 自動識別機會會識別連結至失效URL的外部網域，並根據影響（包括網域授權和預期流量及連結權益損失）來排定其優先順序。
 
 此機會列出所有已識別的問題，包括下列詳細資訊：
 
