@@ -1,9 +1,9 @@
 ---
 title: 在預檢中執行稽核
 description: 瞭解如何在您的頁面上開始預檢稽核。
-source-git-commit: e7c34d27bd34b3c9db1e6a999007e9d36dc1fb21
+source-git-commit: f513d2bb8ff8af203333bd0c27bd00092f69d014
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ ht-degree: 0%
 1. 開啟[預檢面板](./access-preflight.md)。
 1. Preflight會自動在編輯器中開啟的頁面上執行所有稽核，並顯示它找到的任何機會。
 
-若要解譯結果、預覽中開啟的問題以及套用AI產生的建議，請參閱[預檢中的稽核結果](./audit-results.md)。
+若要解譯預覽中的結果和未完成的問題，請參閱[預檢中的稽核結果](./audit-results.md)。
