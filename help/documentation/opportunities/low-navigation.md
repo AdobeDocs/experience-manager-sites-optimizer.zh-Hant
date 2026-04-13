@@ -3,7 +3,7 @@ title: 低導覽行為機會文件
 description: 了解低導覽行為機會，以及如何使用此機會來提高網站上的表單參與度。
 badgeFormOptimization: label="表單最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表單最佳化"
 hide: true
-source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
+source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 90%
