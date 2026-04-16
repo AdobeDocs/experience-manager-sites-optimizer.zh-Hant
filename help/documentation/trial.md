@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer試用版
 description: 開始使用適用於現有AEM Sites客戶的AEM Sites Optimizer試用版。
-source-git-commit: 0c9acea024f436166c467d55a3d3697f3eaf08b6
+source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 15%
@@ -23,7 +23,7 @@ ht-degree: 15%
 
 請依照下列步驟開始使用您的試用版：
 
-1. 使用您的AEM Sites IMS組織ID登入[www.sitesoptimizer.now](https://www.sitesoptimizer.now)。
+1. 使用您的AEM Sites IMS組織ID登入[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)。
 2. 檢視關鍵量度，例如頁面檢視、載入時間和參與率，以及您根據影響排定優先順序的熱門最佳化機會。
 3. 探索三種可用的機會型別： [中斷的背景連結](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)和[遺失替代文字](./opportunities/missing-alt-text.md)。
 4. 針對每個商機，最多可檢閱三個已確認的問題。 使用AI產生的建議，並在就緒後直接將最佳化部署至您的AEM環境。
@@ -56,7 +56,7 @@ AEM Sites現有客戶（Edge Delivery Services、Cloud Services和Managed Servic
 +++
 +++如何存取試用版？
 
-前往[www.sitesoptimizer.now](https://www.sitesoptimizer.now)並使用您的AEM Sites IMS組織ID登入。
+前往[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)並使用您的AEM Sites IMS組織ID登入。
 
 +++
 +++此試用版是否需支付任何費用？
