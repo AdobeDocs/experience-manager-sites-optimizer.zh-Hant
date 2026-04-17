@@ -14,7 +14,7 @@ ht-degree: 6%
 
 <!--![core web vitals opportunity](./assets/core-web-vitals/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483382/?captions=chi_hant&learn=on&enablevpops)
 
 Core Web Vitals機會可識別您網站上表現缺佳且影響使用者體驗和自然搜尋效能的頁面。 這些問題可能因自訂字型、未最佳化的JavaScript相依性和第三方指令碼等因素而產生。 Core Web Vitals會測量內容載入的速度、頁面配置的穩定性以及頁面對使用者互動的回應程度。
 

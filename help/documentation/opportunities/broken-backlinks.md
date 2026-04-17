@@ -14,7 +14,7 @@ ht-degree: 30%
 
 <!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483264/?captions=chi_hant&learn=on&enablevpops)
 
 中斷的背景連結機會會識別指向網站上不存(404)頁面的外部連結。 這些連結會導致引薦流量損失和SEO價值減少，因為搜尋引擎會仰賴反向連結來評估相關性和授權。 若沒有適當的重新導向，URL變更、內容移除或頁面就無法再使用時，就會發生這些問題。 AEM Sites Optimizer會識別所有中斷的背景連結、提供特定的AI建議，並啟用一鍵式部署來修正這些建議，所有這些都在單一集中檢視中。
 

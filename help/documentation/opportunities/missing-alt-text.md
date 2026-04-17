@@ -14,7 +14,7 @@ ht-degree: 34%
 
 <!--![Missing alt text opportunity](./assets/missing-alt-text/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483251/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483275/?captions=chi_hant&learn=on&enablevpops)
 
 遺失的替代文字機會可識別網站上沒有描述性替代文字的影像。 如果沒有替代文字，依賴熒幕助讀程式的使用者將無法解譯視覺內容，造成協助工具障礙。 這也會限制搜尋引擎理解和索引影像的方式，降低內容發現和搜尋效能。 AEM Sites Optimizer會識別遺失的替代文字問題、提供特定的AI建議，並啟用一鍵式部署來修正這些問題，所有這些都在單一集中檢視中。
 
