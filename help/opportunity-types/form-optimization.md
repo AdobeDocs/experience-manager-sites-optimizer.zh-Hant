@@ -3,22 +3,22 @@ title: 使用 Sites Optimizer 進行表單最佳化
 description: 了解如何使用 Sites Optimizer 進行表單最佳化。
 hide: true
 source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '219'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
 
 # 表單最佳化機會
 
-<span class="preview"> Forms最佳化功能可在搶先存取程式下使用。 您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
+<span class="preview">搶先體驗計劃現在提供 Forms 最佳化功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
 ![表單最佳化機會](./assets/form-optimization/hero.png){align="center"}
 
-Forms最佳化機會可讓組織系統地改善使用者互動，並提高表單轉換率。 透過偵測低檢視、低轉換和低導覽率等問題，團隊可以對表單設計、版位和內容進行資料導向調整。 這些最佳化有助於簡化使用者體驗，使訪客填寫表格更輕鬆並實現預期成果。 使用Forms Optimization的深入分析可支援持續識別及解決效能差距，進而產生更有效的表單並改善業務成果。
+組織可以透過 Forms 最佳化機會，以系統化方式改善使用者互動並增加表單轉換率。透過偵測低瀏覽量、低轉換率和低導覽行為等問題，團隊可以對表單設計、位置和內容進行資料導向調整。這些最佳化有助於簡化使用者體驗，使訪客填寫表格更輕鬆並實現預期成果。 利用 Forms 最佳化的洞察可以持續找出並解決效能差距，進而提高表單成效及改善業務成果。
 
 ## 機會
 
@@ -54,7 +54,7 @@ CARDS
                     <p class="is-size-6">了解低瀏覽量機會，以及如何使用此機會來提高網站上的表單參與度。</p>
                 </div>
                 <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -77,7 +77,7 @@ CARDS
                     <p class="is-size-6">了解低轉換率機會，以及如何使用此機會來提高網站上的表單參與度。</p>
                 </div>
                 <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -95,12 +95,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" title="協助工具問題">低導覽行為</a>
+                        <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" title="無障礙問題">低導覽行為</a>
                     </p>
                     <p class="is-size-6">了解低導覽行為機會，以及如何使用此機會來提高網站上的表單參與度。</p>
                 </div>
                 <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>

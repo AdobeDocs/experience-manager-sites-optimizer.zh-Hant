@@ -2,9 +2,9 @@
 title: Sites Optimizer 機會文件
 description: 了解所有可用的 Sites Optimizer 機會，以及如何使用這些機會來提高網站的績效。
 source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '891'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -134,9 +134,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./accessibility-issues.md" target="_blank" rel="referrer" title="協助工具問題">協助工具問題</a>
+                        <a href="./accessibility-issues.md" target="_blank" rel="referrer" title="無障礙問題">協助工具問題</a>
                     </p>
-                    <p class="is-size-6">了解協助工具問題機會，以及如何使用它來提高網站的安全性。</p>
+                    <p class="is-size-6">了解無障礙問題機會，以及如何使用此機會來提高網站的安全性。</p>
                 </div>
                 <a href="./accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -159,7 +159,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./broken-backlinks.md" target="_blank" rel="referrer" title="損壞的反向連結">損壞的反向連結</a>
                     </p>
-                    <p class="is-size-6">了解損壞的反向連結機會，以及如何使用它來改進流量贏取。</p>
+                    <p class="is-size-6">了解損壞的反向連結機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="./broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -182,7 +182,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./broken-internal-links.md" target="_blank" rel="referrer" title="損壞的內部連結">損壞的內部連結</a>
                     </p>
-                    <p class="is-size-6">了解損壞的連結機會，以及如何使用它來提高您網站上的參與度。</p>
+                    <p class="is-size-6">了解損壞的連結機會，以及如何使用此機會來提高您網站上的參與度。</p>
                 </div>
                 <a href="./broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -205,7 +205,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./cors-configuration.md" target="_blank" rel="referrer" title="CORS 設定">CORS 設定</a>
                     </p>
-                    <p class="is-size-6">了解 CORS 設定機會並識別和解決網站安全性漏洞。</p>
+                    <p class="is-size-6">了解 CORS 設定機會並識別、解決網站安全性漏洞。</p>
                 </div>
                 <a href="./cors-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -228,7 +228,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="核心網頁指標">核心網頁指標</a>
                     </p>
-                    <p class="is-size-6">了解核心網頁指標機會，以及如何使用它來改進流量贏取。</p>
+                    <p class="is-size-6">了解核心網頁指標機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="./core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -251,7 +251,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./cross-site-scripting.md" target="_blank" rel="referrer" title="跨網站指令碼">跨網站指令碼</a>
                     </p>
-                    <p class="is-size-6">了解跨網站指令碼機會並識別和解決網站安全性漏洞。</p>
+                    <p class="is-size-6">了解跨網站指令碼機會並識別、解決網站安全性漏洞。</p>
                 </div>
                 <a href="./cross-site-scripting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -295,9 +295,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="中繼資料無效或缺失">中繼資料無效或缺失</a>
+                        <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="後設資料無效或缺失">中繼資料無效或缺失</a>
                     </p>
-                    <p class="is-size-6">了解無效或缺少中繼資料機會，以及如何使用它來改進流量贏取。</p>
+                    <p class="is-size-6">了解無效或缺少後設資料機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -318,7 +318,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="表單低轉換率">表單低轉換率</a>
+                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="Forms 低轉換率">表單低轉換率</a>
                     </p>
                     <p class="is-size-6">了解低轉換率機會，以及如何使用此機會來提高網站上的表單參與度。</p>
                 </div>
@@ -364,9 +364,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-navigation.md" target="_blank" rel="referrer" title="表單低導覽行為">表單低導覽行為</a>
+                        <a href="./low-navigation.md" target="_blank" rel="referrer" title="Forms 低導覽行為">表單低導覽行為</a>
                     </p>
-                    <p class="is-size-6">瞭解低導覽商機，以及如何使用它來改善網站上的表單參與度。</p>
+                    <p class="is-size-6">了解低導覽行為機會，以及如何使用此機會來提高網站上的表單參與度。</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -387,9 +387,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="表單無障礙問題">表單無障礙問題</a>
+                        <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="Forms 無障礙問題">表單無障礙問題</a>
                     </p>
-                    <p class="is-size-6">瞭解Forms協助工具問題，以及如何使用它來提高您網站的參與度。</p>
+                    <p class="is-size-6">了解 Forms 無障礙問題機會，以及如何使用此機會來提高網站上的參與度。</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -412,7 +412,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./missing-alt-text.md" target="_blank" rel="referrer" title="缺少替代文字">缺少替代文字</a>
                     </p>
-                    <p class="is-size-6">了解缺少替代文字機會，以及如何使用它來提高您網站上的參與度。</p>
+                    <p class="is-size-6">了解缺少替代文字機會，以及如何使用此機會來提高您網站上的參與度。</p>
                 </div>
                 <a href="./missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -435,7 +435,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" title="結構化資料缺失或無效">結構化資料缺失或無效</a>
                     </p>
-                    <p class="is-size-6">了解缺少或無效的結構化資料機會，以及如何使用它來改進流量贏取。</p>
+                    <p class="is-size-6">了解缺失或無效的結構化資料機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -458,7 +458,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./sitemap-issues.md" target="_blank" rel="referrer" title="Sitemap 問題">Sitemap 問題</a>
                     </p>
-                    <p class="is-size-6">了解 Sitemap 問題機會，以及如何使用它來改進流量贏取。</p>
+                    <p class="is-size-6">了解 Sitemap 問題機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="./sitemap-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -481,7 +481,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./website-permissions.md" target="_blank" rel="referrer" title="網站權限">網站權限</a>
                     </p>
-                    <p class="is-size-6">了解網站權限機會，以及如何使用它來提高網站的安全性。</p>
+                    <p class="is-size-6">了解網站權限機會，以及如何使用此機會來提高網站的安全性。</p>
                 </div>
                 <a href="./website-permissions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -504,7 +504,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" title="網站漏洞">網站漏洞</a>
                     </p>
-                    <p class="is-size-6">了解網站漏洞機會，以及如何使用它來提高網站的安全性。</p>
+                    <p class="is-size-6">了解網站漏洞機會，以及如何使用此機會來提高網站的安全性。</p>
                 </div>
                 <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

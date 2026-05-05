@@ -2,7 +2,7 @@
 title: 使用 Sites Optimizer 來獲得最佳參與度
 description: 了解如何使用 Sites Optimizer 提高參與度。
 source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
 ht-degree: 100%
 
@@ -53,9 +53,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="協助工具問題">協助工具問題</a>
+                        <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="無障礙問題">協助工具問題</a>
                     </p>
-                    <p class="is-size-6">了解協助工具問題機會，以及如何使用它來提高網站的安全性。</p>
+                    <p class="is-size-6">了解無障礙問題機會，以及如何使用此機會來提高網站的安全性。</p>
                 </div>
                 <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -78,7 +78,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" title="損壞的內部連結">損壞的內部連結</a>
                     </p>
-                    <p class="is-size-6">了解損壞的連結機會，以及如何使用它來提高您網站上的參與度。</p>
+                    <p class="is-size-6">了解損壞的連結機會，以及如何使用此機會來提高您網站上的參與度。</p>
                 </div>
                 <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -124,7 +124,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="高流量頁面的點按率偏低">高流量頁面的點按率偏低</a>
                     </p>
-                    <p class="is-size-6">了解高流量頁面點按率偏低的機會，以及如何加以利用以提升網站的參與度。</p>
+                    <p class="is-size-6">了解高流量頁面點按率偏低的機會，以及如何使用此機會以提升網站的參與度。</p>
                 </div>
                 <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -147,7 +147,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" title="缺少替代文字">缺少替代文字</a>
                     </p>
-                    <p class="is-size-6">了解缺少替代文字機會，以及如何使用它來提高您網站上的參與度。</p>
+                    <p class="is-size-6">了解缺少替代文字機會，以及如何使用此機會來提高您網站上的參與度。</p>
                 </div>
                 <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

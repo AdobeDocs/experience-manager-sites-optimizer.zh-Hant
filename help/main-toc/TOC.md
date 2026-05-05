@@ -3,9 +3,9 @@ user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 這是會顯示在登陸頁面上之使用手冊的說明。
 source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 91%
       + {hide-from-toc}[表單低轉換率](/help/documentation/opportunities/low-conversions.md)
       + {hide-from-toc}[表單低瀏覽量](/help/documentation/opportunities/low-views.md)
       + {hide-from-toc}[表單低導覽行為](/help/documentation/opportunities/low-navigation.md)
-      + {hide-from-toc}[Forms協助工具問題](/help/documentation/opportunities/forms-accessibility-issues.md)
+      + {hide-from-toc}[Forms 無障礙問題](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [Sitemap 問題](/help/documentation/opportunities/sitemap-issues.md)
       + [網站權限](/help/documentation/opportunities/website-permissions.md)
       + [網站漏洞](/help/documentation/opportunities/website-vulnerabilities.md)
