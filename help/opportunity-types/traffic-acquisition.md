@@ -2,7 +2,7 @@
 title: 使用 Sites Optimizer 將流量贏取最佳化
 description: 了解如何使用 Sites Optimizer 來增加流量贏取。
 source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -52,7 +52,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" title="損壞的反向連結">損壞的反向連結</a>
                     </p>
-                    <p class="is-size-6">了解損壞的反向連結機會，以及如何使用它來改進流量贏取。</p>
+                    <p class="is-size-6">了解損壞的反向連結機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -73,9 +73,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="中繼資料無效或缺失">中繼資料無效或缺失</a>
+                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="後設資料無效或缺失">中繼資料無效或缺失</a>
                     </p>
-                    <p class="is-size-6">了解無效或缺少中繼資料機會，以及如何使用它來改進流量贏取。</p>
+                    <p class="is-size-6">了解無效或缺少後設資料機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -98,7 +98,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/missing-invalid-structured-data.md" target="_blank" rel="referrer" title="結構化資料缺失或無效">結構化資料缺失或無效</a>
                     </p>
-                    <p class="is-size-6">了解缺少或無效的結構化資料機會，以及如何使用它來改進流量贏取。</p>
+                    <p class="is-size-6">了解缺少或無效的結構化資料機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="../documentation/opportunities/missing-invalid-structured-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -121,7 +121,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/sitemap-issues.md" target="_blank" rel="referrer" title="Sitemap 問題">Sitemap 問題</a>
                     </p>
-                    <p class="is-size-6">了解 Sitemap 問題機會，以及如何使用它來改進流量贏取。</p>
+                    <p class="is-size-6">了解 Sitemap 問題機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="../documentation/opportunities/sitemap-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

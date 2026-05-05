@@ -3,21 +3,21 @@ title: 使用 Sites Optimizer 進行表單最佳化
 description: 了解如何使用 Sites Optimizer 進行表單最佳化。
 hide: true
 source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
 
-# Forms協助工具銷售機會
+# Forms 無障礙機會
 
-<span class="preview"> Forms最佳化功能可在搶先存取程式下使用。 您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
+<span class="preview">搶先體驗計劃現在提供 Forms 最佳化功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
 
 ![表單無障礙機會](./assets/form-accesibility/hero.png){align="center"}
 
 
-表單無障礙機會是改善使用者互動與提高轉換率的關鍵。 評估表單符合網頁內容無障礙指南 (WCAG) 的程度，有助於確保患有視覺、聽覺、認知和運動障礙的使用者享有具包容性的體驗。 此功能不僅符合道德和法律要求，也提高了表單完成率並拓寬了您的受眾，從而帶來更好的使用者體驗和更強大的業務成果。
+表單無障礙機會是改善使用者互動與提高轉換率的關鍵。 評估表單符合網頁內容無障礙指南 (WCAG) 的程度，有助於確保患有視覺、聽覺、認知和運動障礙的使用者享有具包容性的體驗。 此功能不但符合道德與法律條件，也能改善表單完成率並擴大客群，進而帶來更好的使用者體驗以及更出色的業務成果。
 
 ## 機會
 
@@ -48,12 +48,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" title="表單無障礙問題">表單無障礙問題</a>
+                        <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" title="Forms 無障礙問題">表單無障礙問題</a>
                     </p>
-                    <p class="is-size-6">瞭解表單協助工具問題，以及如何使用它們來提高您網站上的表單參與度。</p>
+                    <p class="is-size-6">了解表單無障礙問題，以及如何利用這些問題來改善網站上的表單參與度。</p>
                 </div>
                 <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>

@@ -2,7 +2,7 @@
 title: 使用 Sites Optimizer 來獲得最佳的安全態勢
 description: 了解如何使用 Sites Optimizer 來提高網站的安全性。
 source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '220'
 ht-degree: 100%
 
@@ -53,7 +53,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/cors-configuration.md" target="_blank" rel="referrer" title="CORS 設定">CORS 設定</a>
                     </p>
-                    <p class="is-size-6">了解 CORS 設定機會並識別和解決網站安全性漏洞。</p>
+                    <p class="is-size-6">了解 CORS 設定機會並識別、解決網站安全性漏洞。</p>
                 </div>
                 <a href="../documentation/opportunities/cors-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -76,7 +76,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/cross-site-scripting.md" target="_blank" rel="referrer" title="跨網站指令碼">跨網站指令碼</a>
                     </p>
-                    <p class="is-size-6">了解跨網站指令碼機會並識別和解決網站安全性漏洞。</p>
+                    <p class="is-size-6">了解跨網站指令碼機會並識別、解決網站安全性漏洞。</p>
                 </div>
                 <a href="../documentation/opportunities/cross-site-scripting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -99,7 +99,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/website-permissions.md" target="_blank" rel="referrer" title="網站權限">網站權限</a>
                     </p>
-                    <p class="is-size-6">了解網站權限機會，以及如何使用它來提高網站的安全性。</p>
+                    <p class="is-size-6">了解網站權限機會，以及如何使用此機會來提高網站的安全性。</p>
                 </div>
                 <a href="../documentation/opportunities/website-permissions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
@@ -122,7 +122,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//website-vulnerabilities.md" target="_blank" rel="referrer" title="網站漏洞">網站漏洞</a>
                     </p>
-                    <p class="is-size-6">了解網站漏洞機會，以及如何使用它來提高網站的安全性。</p>
+                    <p class="is-size-6">了解網站漏洞機會，以及如何使用此機會來提高網站的安全性。</p>
                 </div>
                 <a href="../documentation/opportunities//website-vulnerabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

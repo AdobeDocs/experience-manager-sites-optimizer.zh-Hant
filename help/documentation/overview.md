@@ -2,9 +2,9 @@
 title: Sites Optimizer 文件
 description: Experience Manager Sites Optimizer 文件。
 source-git-commit: 7784534e1d3628ca18da45c1e95fcce613adc7c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ CARDS
                     <p class="is-size-6">了解 Sites Optimizer 的基本資訊及其導覽方式。</p>
                 </div>
                 <a href="./basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -77,7 +77,7 @@ CARDS
                     <p class="is-size-6">了解所有可用的 Sites Optimizer 機會，以及如何使用這些機會來提高網站的績效。</p>
                 </div>
                 <a href="./opportunities/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -100,7 +100,7 @@ CARDS
                     <p class="is-size-6">了解如何設定 Sites Optimizer 設定並與其他工具整合。</p>
                 </div>
                 <a href="./settings.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -118,12 +118,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./trial.md" target="_blank" rel="referrer" title="試用">試用版</a>
+                        <a href="./trial.md" target="_blank" rel="referrer" title="試用">試用</a>
                     </p>
-                    <p class="is-size-6">開始使用Sites Optimizer試用版，包括步驟、限制和現有AEM Sites客戶的常見問題集。</p>
+                    <p class="is-size-6">開始使用 Sites Optimizer 試用版，包括 AEM Sites 現有客戶的執行步驟、限制及常見問題解答。</p>
                 </div>
                 <a href="./trial.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>

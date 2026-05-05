@@ -2,7 +2,7 @@
 title: 使用 Sites Optimizer 將網站健康情況最佳化
 description: 了解如何使用 Sites Optimizer 來提高網站的健康情況。
 source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -43,7 +43,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="核心網頁指標">核心網頁指標</a>
                     </p>
-                    <p class="is-size-6">了解 Core Web Vitals 帶來的機會，以及如何加以使用來改進流量贏取的成效。</p>
+                    <p class="is-size-6">了解 Core Web Vitals 帶來的機會，以及如何使用此機會來改進流量贏取的成效。</p>
                 </div>
                 <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

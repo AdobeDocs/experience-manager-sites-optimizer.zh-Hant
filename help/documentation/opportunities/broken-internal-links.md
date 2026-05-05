@@ -3,9 +3,9 @@ title: 損壞的內部連結機會文件
 description: 了解損壞的連結機會，以及如何使用它來提高您網站上的參與度。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
 source-git-commit: 71c33f306db7c3aadb4e3884a840f45cf495ff48
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '478'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 98%
 
 ## 自動最佳化
 
-[!BADGE Ultimate]{type=Positive tooltip="Ultimate"} [!BADGE Ultimate]{type=Positive tooltip="Sites Optimizer試用版"}
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"} [!BADGE Ultimate]{type=Positive tooltip="Sites Optimizer 試用版"}
 
 <!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-links/auto-optimize.png){align="center"}-->
 

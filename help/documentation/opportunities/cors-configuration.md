@@ -4,7 +4,7 @@ description: 了解 CORS 設定機會並識別和解決網站安全性漏洞。
 badgeSecurityPosture: label="安全態勢" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="安全態勢"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
 workflow-type: ht
-source-wordcount: '193'
+source-wordcount: '199'
 ht-degree: 100%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 100%
 
 ![CORS 設定機會](./assets/cors-configuration/hero.png){align="center"}
 
-正確設定跨原始資源共用 (CORS) 對於保護 Web 應用程式免受未經授權的資料存取至關重要。當 `Access-Control-Allow-Origin` 標頭設定為 `*` 時，任何網域都可以請求並接收回應，從而有可能向攻擊者公開敏感資訊。此功能會對受信任網域實施控管式允許清單，或在不需要時停用 CORS，讓您藉此機會加強安全性。確保安全的 CORS 設定有助於保護私人內容，同時讓獲得授權的使用者可以保持無縫存取。
+正確設定跨原始資源共用 (CORS) 對於保護 Web 應用程式免受未經授權的資料存取至關重要。 當 `Access-Control-Allow-Origin` 標頭設定為 `*` 時，任何網域都可以請求並接收回應，從而有可能向攻擊者公開敏感資訊。 此功能會對受信任網域實施控管式允許清單，或在不需要時停用 CORS，讓您藉此機會加強安全性。 確保安全的 CORS 設定有助於保護私人內容，同時讓獲得授權的使用者可以保持無縫存取。
 
 ## 自動識別
 
 ![自動識別 CORS 設定機會](./assets/cors-configuration/auto-identify.png){align="center"}
 
-自動識別會掃描您的網站是否有 CORS 設定錯誤，並偵測容易受到未經授權存取的 URL。這些 URL 會列在上表中，並附有以下詳細資料：
+自動識別會掃描您的網站是否有 CORS 設定錯誤，並偵測容易受到未經授權存取的 URL。 這些 URL 會列在上表中，並附有以下詳細資料：
 
 * **頁面前置詞** - 容易發生 CORS 設定錯誤的 URL 路徑前置詞。
 * **頁面範例** - 容易受到未經授權存取的範例 URL。
