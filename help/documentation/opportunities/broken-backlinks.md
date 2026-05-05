@@ -14,7 +14,7 @@ ht-degree: 100%
 
 <!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483264/?captions=chi_hant&learn=on&enablevpops)
 
 損壞的反向連結機會會識別指向網站上不存 (404) 頁面的外部連結。這些連結會導致轉介流量流失並降低搜尋引擎最佳化價值，因為搜尋引擎會仰賴反向連結來評估相關性與權重。若沒有適當的重新導向，或在 URL 變更、內容移除及頁面已無法使用的情況下，這些問題就會發生。AEM Sites Optimizer 會識別所有損壞的反向連結、提供特定的 AI 建議，顯示在單一、集中的視圖中，並啟用一鍵式部署來修正所顯示的問題。
 
