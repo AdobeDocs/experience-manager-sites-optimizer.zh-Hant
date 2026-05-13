@@ -1,13 +1,17 @@
 ---
 title: 使用 Sites Optimizer 將網站健康情況最佳化
 description: 了解如何使用 Sites Optimizer 來提高網站的健康情況。
-source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+TQID: https://experienceleague.adobe.com/-zDE6-ycqW-IkPEQA9J024GAHb8SOdfdwR4DCEd0Oyc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
-source-wordcount: '130'
+source-wordcount: 130
 ht-degree: 100%
 
 ---
-
 
 # 網站健康情況機會
 
@@ -41,7 +45,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="核心網頁指標">核心網頁指標</a>
+                        <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Core web vitals">核心網頁指標</a>
                     </p>
                     <p class="is-size-6">了解 Core Web Vitals 帶來的機會，以及如何使用此機會來改進流量贏取的成效。</p>
                 </div>

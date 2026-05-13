@@ -1,13 +1,20 @@
 ---
 title: Sites Optimizer 機會類型
 description: 了解 Sites Optimizer 中的關鍵機會類型，以及其如何協助您提高網站的績效。
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+TQID: https://experienceleague.adobe.com/mtma4uEArQQJu4C3kpdWZy0GR9ySS1TIgx0L9GUrlY4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
-source-wordcount: '348'
+source-wordcount: 348
 ht-degree: 100%
 
 ---
-
 
 # 機會類型
 
@@ -24,7 +31,7 @@ AEM Sites Optimizer 會提供寶貴的分析和建議，以協助您提高網站
 
 每個類別均強調一個增強網站的不同方法。 某個類別可能會增加訪客互動。 另一個則可以提高可搜尋性。 其他則將焦點放在增強安全性或維持網站穩定性。 預檢能協助您在頁面發佈之前加以分析和最佳化。
 
-使用這些機會可以改善使用者體驗、吸引合適的客群，並確保您的網站安全可靠。 提升參與度和流量贏取可促進互動和提高可見度，而強大的安全態勢和網站健康情況則有助於確保信任和穩定性。 預檢分析可確保您的內容在上線之前已進行最佳化。請探索下面的連結，以查看按類別組織的機會，並找到改進網站的方法。
+使用這些機會可以改善使用者體驗、吸引合適的客群，並確保您的網站安全可靠。 提升參與度和流量贏取可促進互動和提高可見度，而強大的安全態勢和網站健康情況則有助於確保信任和穩定性。 預檢分析可確保您的內容在上線之前已進行最佳化。 請探索下面的連結，以查看按類別組織的機會，並找到改進網站的方法。
 
 ## 機會類型
 
@@ -212,4 +219,4 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<span class="preview">搶先體驗計劃現在提供 Forms 最佳化和 Forms 無障礙功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
+<span class="preview">搶先體驗計劃現在提供 Forms 最佳化和 Forms 無障礙功能。 您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
