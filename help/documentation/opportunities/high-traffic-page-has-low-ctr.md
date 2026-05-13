@@ -3,8 +3,11 @@ title: 高流量頁面點按率偏低機會文件
 description: 了解高流量頁面點按率偏低的機會，以及如何加以利用以提升網站的參與度。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
 TQID: https://experienceleague.adobe.com/pnOZaaoYn5nIWwc2Qt3Xs-wyCygoRgMEHsD8P0Rq-6U
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e9001ce2-5245-4a8e-8601-dd958009072f
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
 source-wordcount: 274

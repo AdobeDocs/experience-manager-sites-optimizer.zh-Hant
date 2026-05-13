@@ -3,8 +3,10 @@ title: Sitemap 問題機會文件
 description: 了解 Sitemap 問題機會，以及如何使用它來改進流量贏取。
 badgeTrafficAcquisition: label="流量贏取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量贏取"
 TQID: https://experienceleague.adobe.com/fWfIWxwZ0SQpY4l0rjYrNZaNNhXqmh2t-etEwotYUfQ
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
 source-wordcount: 497

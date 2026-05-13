@@ -3,8 +3,10 @@ title: 核心網頁指標機會文件
 description: 了解核心網頁指標機會，以及如何使用它來改進流量贏取。
 badgeSiteHealth: label="網站健康情況" type="Caution" url="../../opportunity-types/site-health.md" tooltip="網站健康情況"
 TQID: https://experienceleague.adobe.com/3h-Xas767zUk-Sod7JEr9Lh767r5S3LKpbwJZFZU2kg
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: ht
 source-wordcount: 533

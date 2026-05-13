@@ -3,8 +3,10 @@ title: 高跳出率機會文件
 description: 了解低瀏覽量機會，以及如何使用此機會來提高網站上的表單參與度。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
 TQID: https://experienceleague.adobe.com/0P8QzHWJHZ21We0T8o3s3Bj60syHXSl2dmfUS85uXoE
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
 source-wordcount: 359

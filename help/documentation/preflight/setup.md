@@ -2,7 +2,8 @@
 title: 預檢設定
 description: 了解如何設定 AEM Sites Optimizer 的預檢擴充功能。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
 source-wordcount: 596
