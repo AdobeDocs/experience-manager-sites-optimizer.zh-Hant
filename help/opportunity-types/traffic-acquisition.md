@@ -1,13 +1,15 @@
 ---
 title: 使用 Sites Optimizer 將流量贏取最佳化
 description: 了解如何使用 Sites Optimizer 來增加流量贏取。
-source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
+TQID: https://experienceleague.adobe.com/0x1uX31tIxsuEZ5M7gHmz3-8xVfxLareAC8QPRXfNKo
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
-source-wordcount: '233'
+source-wordcount: 233
 ht-degree: 100%
 
 ---
-
 
 # 流量贏取機會
 
@@ -98,7 +100,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/missing-invalid-structured-data.md" target="_blank" rel="referrer" title="結構化資料缺失或無效">結構化資料缺失或無效</a>
                     </p>
-                    <p class="is-size-6">了解缺少或無效的結構化資料機會，以及如何使用此機會來改進流量贏取。</p>
+                    <p class="is-size-6">了解缺失或無效的結構化資料機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="../documentation/opportunities/missing-invalid-structured-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

@@ -2,13 +2,15 @@
 title: 損壞的內部連結機會文件
 description: 了解損壞的連結機會，以及如何使用它來提高您網站上的參與度。
 badgeEngagement: label="參與度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="參與度"
-source-git-commit: 71c33f306db7c3aadb4e3884a840f45cf495ff48
+TQID: https://experienceleague.adobe.com/L80vvMTfEuIP5rgE7Sub8ibFGk7dzeSr6MpN3KgZyHw
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: ht
-source-wordcount: '478'
+source-wordcount: 478
 ht-degree: 100%
 
 ---
-
 
 # 損壞的內部連結機會
 

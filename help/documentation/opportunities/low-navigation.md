@@ -2,18 +2,20 @@
 title: 低導覽行為機會文件
 description: 了解低導覽行為機會，以及如何使用此機會來提高網站上的表單參與度。
 badgeFormOptimization: label="表單最佳化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表單最佳化"
+TQID: https://experienceleague.adobe.com/l7dAFUhhqSI8O8YyboY49-4ahofWelfozBU5hejsVlA
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 hide: true
-source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
+source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: ht
-source-wordcount: '333'
+source-wordcount: 333
 ht-degree: 100%
 
 ---
 
-
 # 表單低導覽行為機會
 
-<span class="preview">搶先體驗計劃現在提供 Forms 最佳化功能。您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
+<span class="preview">搶先體驗計劃現在提供 Forms 最佳化功能。 您可以使用官方電子郵件 ID 寫信至 aem-forms-ea@adobe.com，以加入搶先體驗計劃並要求存取該功能。</span>
 
 ![低導覽行為機會](./assets/low-navigation/hero.png){align="center"}
 

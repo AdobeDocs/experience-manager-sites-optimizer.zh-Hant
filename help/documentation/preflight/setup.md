@@ -1,17 +1,18 @@
 ---
 title: 預檢設定
 description: 了解如何設定 AEM Sites Optimizer 的預檢擴充功能。
-source-git-commit: e39930ebe2213dcca17209934173a7b521b34dbc
+TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
-source-wordcount: '596'
+source-wordcount: 596
 ht-degree: 100%
 
 ---
 
-
 # 預檢設定
 
-AEM Sites Optimizer 預檢的機會識別功能需要預先設定預檢擴充功能。您可以在通用編輯器、文件型預覽或 AEM Cloud Service 中進行設定，以便在發佈頁面之前，先執行頁面的預檢稽核。
+AEM Sites Optimizer 預檢的機會識別功能需要預先設定預檢擴充功能。 您可以在通用編輯器、文件型預覽或 AEM Cloud Service 中進行設定，以便在發佈頁面之前，先執行頁面的預檢稽核。
 
 ## 啟用使用者存取
 
@@ -141,7 +142,7 @@ AEM Sites Optimizer 預檢的機會識別功能需要預先設定預檢擴充功
 
 >[!IMPORTANT]
 >
->此功能僅支援使用 Adobe Identity Provider (IMS) 進行 AEM Author 驗證的 Adobe Managed Services (AMS) 環境。如果您的組織使用任何其他身分識別提供者進行 AMS 驗證，預檢就無法運作。
+>此功能僅支援使用 Adobe Identity Provider (IMS) 進行 AEM Author 驗證的 Adobe Managed Services (AMS) 環境。 如果您的組織使用任何其他身分識別提供者進行 AMS 驗證，預檢就無法運作。
 
 若要在 AMS 環境的 AEM Sites 頁面編輯器中使用預檢，請在網頁瀏覽器中建立小書籤，步驟如下：
 

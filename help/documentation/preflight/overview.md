@@ -1,25 +1,27 @@
 ---
 title: AEM Sites Optimizer 預檢
 description: 了解預檢及其發佈前所評估的機會類型。
-source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
+TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
-source-wordcount: '307'
+source-wordcount: 307
 ht-degree: 100%
 
 ---
-
 
 # AEM Sites Optimizer 預檢
 
 ![預檢機會](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizer 中的預檢功能可分析內容和結構，並透過可操作的建議來標示問題，協助您在頁面上線前驗證並最佳化頁面。此功能專為作者、行銷人員和開發人員設計，協助確保頁面高品質、高效且可隨時發佈，同時減少重複工作。
+AEM Sites Optimizer 中的預檢功能可分析內容和結構，並透過可操作的建議來標示問題，協助您在頁面上線前驗證並最佳化頁面。 此功能專為作者、行銷人員和開發人員設計，協助確保頁面高品質、高效且可隨時發佈，同時減少重複工作。
 
-預檢的核心是「機會」，預檢會透過一組稽核來識別機會，並且在發佈之前評估頁面的關鍵元素。這些稽核會發現潛在問題，並提供清晰、可行的建議以改善整體品質和效能。
+預檢的核心是「機會」，預檢會透過一組稽核來識別機會，並且在發佈之前評估頁面的關鍵元素。 這些稽核會發現潛在問題，並提供清晰、可行的建議以改善整體品質和效能。
 
 ## 開始使用預檢
 
-預檢快速入門非常簡單。只要設定預檢，在您的製作環境中開啟此功能，並在頁面上執行稽核，預檢就會完成剩下的工作。
+預檢快速入門非常簡單。 只要設定預檢，在您的製作環境中開啟此功能，並在頁面上執行稽核，預檢就會完成剩下的工作。
 
 1. [設定預檢](./setup.md)：了解如何為您的 AEM 實例設定預檢
 1. [存取預檢](./access-preflight.md)：了解預檢在您製作環境中的位置
