@@ -5,9 +5,9 @@ TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 source-git-commit: 511e784d7d484b18942ac4b711df1c802debfec9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 587
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -32,9 +32,9 @@ AEM Sites Optimizer 預檢的機會識別功能需要預先設定預檢擴充功
 
 1. 在此開啟 **Extension Manager**：
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor?lang=zh-hant](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
-1. 找到&#x200B;**AEM Sites Optimizer Preflight**&#x200B;擴充功能。
-1. 組織的系統管理員需要啟用此擴充功能。
-1. 啟用擴充功能後，在 **通用編輯器**&#x200B;中開啟一個頁面，例如：
+1. 找到 **AEM Sites Optimizer Preflight** 擴充功能。
+1. 此擴充功能需要組織的系統管理員啟用。
+1. 啟用擴充功能後，在 **通用編輯器**中開啟一個頁面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **預檢擴充功能**&#x200B;會顯示在&#x200B;**側邊欄**。
 1. 在側邊欄中選取&#x200B;**「預檢擴充功能」**，針對目前頁面開始進行&#x200B;**預檢稽核**。
