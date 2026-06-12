@@ -2,14 +2,11 @@
 title: AEM Sites Optimizer 預檢
 description: 了解預檢及其發佈前所評估的機會類型。
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: 307
+source-wordcount: 297
 ht-degree: 100%
 
 ---
@@ -149,7 +146,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/readability.md" target="_blank" rel="referrer" title="預檢易讀性機會">預檢可讀性機會</a>
+                        <a href="./opportunities/readability.md" target="_blank" rel="referrer" title="預檢可讀性機會">預檢可讀性機會</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的預檢易讀性機會。</p>
                 </div>

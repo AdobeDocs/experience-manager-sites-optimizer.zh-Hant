@@ -3,10 +3,8 @@ title: 缺少或無效的結構化資料文件
 description: 了解缺少或無效的結構化資料機會，以及如何使用它來改進流量贏取。
 badgeTrafficAcquisition: label="流量贏取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量贏取"
 TQID: https://experienceleague.adobe.com/RFJPZlnB2QLXjO7aKfIBFrT1CrtdBD0vAe2MUMjRspU
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
 source-wordcount: 371

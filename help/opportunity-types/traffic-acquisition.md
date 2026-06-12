@@ -2,15 +2,11 @@
 title: 使用 Sites Optimizer 將流量贏取最佳化
 description: 了解如何使用 Sites Optimizer 來增加流量贏取。
 TQID: https://experienceleague.adobe.com/0x1uX31tIxsuEZ5M7gHmz3-8xVfxLareAC8QPRXfNKo
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: 233
+source-wordcount: 225
 ht-degree: 100%
 
 ---
@@ -79,7 +75,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="後設資料無效或缺失">中繼資料無效或缺失</a>
+                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="中繼資料無效或缺失">中繼資料無效或缺失</a>
                     </p>
                     <p class="is-size-6">了解無效或缺少後設資料機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
