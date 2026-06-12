@@ -8,7 +8,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: 128
 ht-degree: 100%
 
 ---
@@ -45,7 +45,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Core web vitals">核心網頁指標</a>
+                        <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="核心網頁指標">核心網頁指標</a>
                     </p>
                     <p class="is-size-6">了解 Core Web Vitals 帶來的機會，以及如何使用此機會來改進流量贏取的成效。</p>
                 </div>

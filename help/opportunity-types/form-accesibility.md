@@ -10,7 +10,7 @@ topic_v2:
 hide: true
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
-source-wordcount: 154
+source-wordcount: 152
 ht-degree: 100%
 
 ---
@@ -53,7 +53,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" title="Forms 無障礙問題">表單無障礙問題</a>
+                        <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" title="表單無障礙問題">表單無障礙問題</a>
                     </p>
                     <p class="is-size-6">了解表單無障礙問題，以及如何利用這些問題來改善網站上的表單參與度。</p>
                 </div>

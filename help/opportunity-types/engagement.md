@@ -10,7 +10,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: 286
+source-wordcount: 276
 ht-degree: 100%
 
 ---
@@ -59,7 +59,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="無障礙問題">協助工具問題</a>
+                        <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="協助工具問題">協助工具問題</a>
                     </p>
                     <p class="is-size-6">了解無障礙問題機會，以及如何使用此機會來提高網站的安全性。</p>
                 </div>
@@ -130,7 +130,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="高流量頁面的點按率偏低">高流量頁面的點按率偏低</a>
                     </p>
-                    <p class="is-size-6">了解高流量頁面點按率偏低的機會，以及如何使用此機會以提升網站的參與度。</p>
+                    <p class="is-size-6">了解高流量頁面點按率偏低的機會，以及如何加以利用以提升網站的參與度。</p>
                 </div>
                 <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

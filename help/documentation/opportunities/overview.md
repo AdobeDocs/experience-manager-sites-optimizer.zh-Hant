@@ -12,7 +12,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: 891
+source-wordcount: 857
 ht-degree: 100%
 
 ---
@@ -142,7 +142,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./accessibility-issues.md" target="_blank" rel="referrer" title="無障礙問題">協助工具問題</a>
+                        <a href="./accessibility-issues.md" target="_blank" rel="referrer" title="協助工具問題">協助工具問題</a>
                     </p>
                     <p class="is-size-6">了解無障礙問題機會，以及如何使用此機會來提高網站的安全性。</p>
                 </div>
@@ -234,7 +234,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="Core web vitals">核心網頁指標</a>
+                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="核心網頁指標">核心網頁指標</a>
                     </p>
                     <p class="is-size-6">了解核心網頁指標機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
@@ -303,7 +303,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="後設資料無效或缺失">中繼資料無效或缺失</a>
+                        <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="中繼資料無效或缺失">中繼資料無效或缺失</a>
                     </p>
                     <p class="is-size-6">了解無效或缺少後設資料機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
@@ -326,7 +326,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="Forms 低轉換率">表單低轉換率</a>
+                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="表單低轉換率">表單低轉換率</a>
                     </p>
                     <p class="is-size-6">了解低轉換率機會，以及如何使用此機會來提高網站上的表單參與度。</p>
                 </div>
@@ -372,7 +372,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-navigation.md" target="_blank" rel="referrer" title="Forms 低導覽行為">表單低導覽行為</a>
+                        <a href="./low-navigation.md" target="_blank" rel="referrer" title="表單低導覽行為">表單低導覽行為</a>
                     </p>
                     <p class="is-size-6">了解低導覽行為機會，以及如何使用此機會來提高網站上的表單參與度。</p>
                 </div>
@@ -395,7 +395,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="Forms 無障礙問題">表單無障礙問題</a>
+                        <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="表單無障礙問題">表單無障礙問題</a>
                     </p>
                     <p class="is-size-6">了解 Forms 無障礙問題機會，以及如何使用此機會來提高網站上的參與度。</p>
                 </div>

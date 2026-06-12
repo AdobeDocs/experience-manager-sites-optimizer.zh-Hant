@@ -11,7 +11,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: 348
+source-wordcount: 334
 ht-degree: 100%
 
 ---
@@ -159,7 +159,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms 最佳化">表單最佳化</a>
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="表單最佳化">表單最佳化</a>
                     </p>
                     <p class="is-size-6">了解如何使用 Forms 最佳化提高表單轉換率。</p>
                 </div>
@@ -182,7 +182,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms 無障礙">表單無障礙</a>
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="表單無障礙">表單無障礙</a>
                     </p>
                     <p class="is-size-6">了解如何使用 Forms 最佳化改善表單無障礙。</p>
                 </div>

@@ -9,7 +9,7 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: 307
+source-wordcount: 297
 ht-degree: 100%
 
 ---
@@ -149,7 +149,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/readability.md" target="_blank" rel="referrer" title="預檢易讀性機會">預檢可讀性機會</a>
+                        <a href="./opportunities/readability.md" target="_blank" rel="referrer" title="預檢可讀性機會">預檢可讀性機會</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的預檢易讀性機會。</p>
                 </div>

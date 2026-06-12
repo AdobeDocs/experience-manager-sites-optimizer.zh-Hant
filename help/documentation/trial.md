@@ -2,8 +2,8 @@
 title: Sites Optimizer 試用版
 description: 現有 AEM Sites 客戶可開始使用 AEM Sites Optimizer 試用版。
 source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
-workflow-type: ht
-source-wordcount: '541'
+workflow-type: tm+mt
+source-wordcount: '535'
 ht-degree: 100%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 100%
 
 # Sites Optimizer 試用版
 
-現有 AEM Sites 客戶 (Edge Delivery Services、Cloud Services 及 Managed Services 客戶) 可透過此試用版，開始使用 Sites Optimizer。您的網域資料已預先上線，可立即開始最佳化。以下影片逐步說明試用版體驗，並示範如何開始使用。
+現有 AEM Sites 客戶 (Edge Delivery Services、Cloud Services 及 Managed Services 客戶) 可透過此試用版，開始使用 Sites Optimizer。 您的網域資料已預先上線，可立即開始最佳化。 以下影片逐步說明試用版體驗，並示範如何開始使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483298/?captions=chi_hant&learn=on&enablevpops)
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 1. 使用您的 AEM Sites IMS 組織識別碼登入 [www.sitesoptimizer.live](http://www.sitesoptimizer.live/)。
 2. 檢視關鍵量度，例如頁面瀏覽量、網頁載入時間與參與度，以及根據影響程度優先順序排序的熱門最佳化機會。
 3. 探索三種現有的機會類型：[損壞的反向連結](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md) 以及[缺少替代文字](./opportunities/missing-alt-text.md)。
-4. 每個機會可審閱最多三個已識別的問題。您可使用 AI 生成的建議，準備好後直接將最佳化的內容部署至您的 AEM 環境。
+4. 每個機會可審閱最多三個已識別的問題。 您可使用 AI 生成的建議，準備好後直接將最佳化的內容部署至您的 AEM 環境。
 5. 隨時可升級至完整授權版，解鎖更多機會。
 
 ## 試用版所提供的功能
@@ -38,7 +38,7 @@ ht-degree: 100%
 * 每個問題的完整工作流程：自動識別、自動建議以及自動最佳化。
    * **自動識別**：使用多個資料來源偵測您網站上的問題。
    * **自動建議**：針對每個問題，提供規範性、AI 生成的建議。
-   * **自動最佳化**：核准後，將修正內容直接部署至您的製作環境。更新會遵循您現有的工作流程，讓您的團隊可透過 AEM 順利審閱並發佈。
+   * **自動最佳化**：核准後，將修正內容直接部署至您的製作環境。 更新會遵循您現有的工作流程，讓您的團隊可透過 AEM 順利審閱並發佈。
 
 ## 常見問題
 
@@ -66,11 +66,11 @@ AEM Sites 現有客戶 (Edge Delivery Services、Cloud Services 及 Managed Serv
 +++
 +++試用版是否有授權使用期限?
 
-否。 此試用版不以時間為限制。此試用版的使用期限則基於可用的機會類型以及問題的數量。
+否。 此試用版不以時間為限制。 此試用版的使用期限則基於可用的機會類型以及問題的數量。
 +++
 +++修正所有問題後會發生什麼事?
 
-Sites Optimizer 會持續識別影響績效的問題。免費試用版每月僅新增問題一次。升級版本以持續稽核並最佳化。
+Sites Optimizer 會持續識別影響績效的問題。 免費試用版每月僅新增問題一次。 升級版本以持續稽核並最佳化。
 
 +++
 +++要如何存取更多機會?
@@ -107,9 +107,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Core web vitals">核心網頁指標</a>
+                        <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="核心網頁指標">核心網頁指標</a>
                     </p>
-                    <p class="is-size-6">了解 Core web vitals 機會，以及如何使用此機會來改進流量贏取。</p>
+                    <p class="is-size-6">了解核心網頁指標機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
                 <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

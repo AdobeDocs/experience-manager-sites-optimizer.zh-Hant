@@ -46,7 +46,7 @@ ht-degree: 100%
 
 >[!BEGINTABS]
 
->[!TAB AI 原理]
+>[!TAB AI 理由]
 
 <!--[AI rationale of broken internal links](./assets/broken-internal-links/auto-suggest-ai-rationale.png) -->
 

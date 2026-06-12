@@ -10,7 +10,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: 233
+source-wordcount: 225
 ht-degree: 100%
 
 ---
@@ -79,7 +79,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="後設資料無效或缺失">中繼資料無效或缺失</a>
+                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="中繼資料無效或缺失">中繼資料無效或缺失</a>
                     </p>
                     <p class="is-size-6">了解無效或缺少後設資料機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
