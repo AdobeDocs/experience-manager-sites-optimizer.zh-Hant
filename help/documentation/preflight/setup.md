@@ -1,28 +1,27 @@
 ---
 title: 預檢設定
-description: 了解如何設定 AEM Sites Optimizer 的預檢擴充功能。
+description: 瞭解如何設定AEM Sites Optimizer的Preflight。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: 511e784d7d484b18942ac4b711df1c802debfec9
-workflow-type: ht
-source-wordcount: 587
-ht-degree: 100%
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+workflow-type: tm+mt
+source-wordcount: 577
+ht-degree: 72%
 
 ---
 
 # 預檢設定
 
-AEM Sites Optimizer 預檢的機會識別功能需要預先設定預檢擴充功能。 您可以在通用編輯器、文件型預覽或 AEM Cloud Service 中進行設定，以便在發佈頁面之前，先執行頁面的預檢稽核。
+執行「預檢」需要在您的製作環境中進行設定。 您可以為通用編輯器、檔案式撰寫、AEM Sites頁面編輯器或Adobe Managed Services設定Preflight，以便在發佈頁面前對其執行Preflight稽核。
 
 ## 啟用使用者存取
 
-若要使用預檢擴充功能，請先在 [Adobe Admin Console](https://adminconsole.adobe.com) 中將使用者指派至以下其中一個以上的 AEM Sites Optimizer 產品設定檔：
+若要使用Preflight，請確定您的使用者已在[Adobe Admin Console](https://adminconsole.adobe.com)中指派至下列至少一個AEM Sites Optimizer產品設定檔：
 
 * AEM Sites Optimizer - 自動建議使用者
 * AEM Sites Optimizer - 自動最佳化使用者
 
-## 啟用預檢擴充功能
+## 啟用預檢
 
 >[!BEGINTABS]
 
@@ -37,7 +36,7 @@ AEM Sites Optimizer 預檢的機會識別功能需要預先設定預檢擴充功
 1. 啟用擴充功能後，在 **通用編輯器**中開啟一個頁面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **預檢擴充功能**&#x200B;會顯示在&#x200B;**側邊欄**。
-1. 在側邊欄中選取&#x200B;**「預檢擴充功能」**，針對目前頁面開始進行&#x200B;**預檢稽核**。
+1. 從側邊欄選取&#x200B;**預檢擴充功能**，以開啟目前頁面的「預檢」。
 
 >[!TAB 文件型製作]
 
@@ -116,7 +115,7 @@ AEM Sites Optimizer 預檢的機會識別功能需要預先設定預檢擴充功
    ```
 
 1. 開啟您要稽核的頁面之預覽 URL (`*.aem.page`)。
-1. 在 **Sidekick** 中，按一下&#x200B;**「預檢」**&#x200B;按鈕，開始對目前頁面進行稽核。
+1. 在&#x200B;**Sidekick**&#x200B;中，按一下&#x200B;**預檢**&#x200B;按鈕以開啟目前頁面的預檢。
 
 >[!TAB AEM Sites 頁面編輯器]
 
@@ -137,7 +136,7 @@ AEM Sites Optimizer 預檢的機會識別功能需要預先設定預檢擴充功
 
 1. 將書籤命名為「**預檢**」(或任何您喜歡的名稱)。
 1. 在 **AEM Sites 頁面編輯器**&#x200B;中開啟您要稽核的頁面之預覽 URL (`*.aem.page`)。
-1. 在書籤列中按一下「**預檢**」書籤，以便開始稽核目前頁面。
+1. 按一下書籤列中的&#x200B;**預檢**&#x200B;書籤以開啟目前頁面的預檢。
 
 >[!TAB Adobe Managed Services]
 
@@ -145,7 +144,7 @@ AEM Sites Optimizer 預檢的機會識別功能需要預先設定預檢擴充功
 >
 >此功能僅支援使用 Adobe Identity Provider (IMS) 進行 AEM Author 驗證的 Adobe Managed Services (AMS) 環境。 如果您的組織使用任何其他身分識別提供者進行 AMS 驗證，預檢就無法運作。
 
-若要在 AMS 環境的 AEM Sites 頁面編輯器中使用預檢，請在網頁瀏覽器中建立小書籤，步驟如下：
+若要在AMS環境的AEM Sites頁面編輯器中使用Preflight，請在網頁瀏覽器中建立書籤小程式，步驟如下：
 
 1. 在網頁瀏覽器中顯示您的&#x200B;**書籤列**：
 
@@ -162,7 +161,7 @@ AEM Sites Optimizer 預檢的機會識別功能需要預先設定預檢擴充功
 
 1. 將書籤命名為「**預檢**」(或任何您喜歡的名稱)。
 1. 在 **AEM Sites 頁面編輯器**&#x200B;中開啟您要稽核的頁面。
-1. 在書籤列中按一下「**預檢**」書籤，以便開始稽核目前頁面。
+1. 按一下書籤列中的&#x200B;**預檢**&#x200B;書籤以開啟目前頁面的預檢。
 
 >[!ENDTABS]
 
