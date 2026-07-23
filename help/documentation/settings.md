@@ -2,11 +2,9 @@
 title: Sites Optimizer 設定
 description: 了解如何設定 Sites Optimizer 設定並與其他工具整合。
 TQID: https://experienceleague.adobe.com/eznjSHZgAmCh-ek-XE-lLtuoGJxC0yY4UVrmPjc0KYo
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 89291cb72c3cb56fcf43564cb04461750d748219
 workflow-type: tm+mt
 source-wordcount: 749
 ht-degree: 100%
@@ -148,7 +146,7 @@ POST https://graph.microsoft.com/v1.0/sites/{siteId}/permissions
 
 1. 在 Google 雲端硬碟中，用滑鼠右鍵按下支援您 EDS 網站的資料夾，並選取「**共用**」。
 2. 在「**新增人員和群組**」欄位中，輸入「**連線至 AEM Sites**」對話框中顯示的服務帳戶電子郵件：
-   `experience-success-studio@helix-225321.iam.gserviceaccount.com`
+   `aem-sites-optimizer@adbe-gcp0843.iam.gserviceaccount.com`
 3. 將權限等級設定為「**編輯者**」。
 4. 取消勾選「**通知共用對象**」，接著按下「**共用**」。
 
