@@ -1,19 +1,23 @@
 ---
 title: Sites Optimizer 試用版
 description: 現有 AEM Sites 客戶可開始使用 AEM Sites Optimizer 試用版。
-source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
+source-git-commit: 225f039d88627a88b8c3989f963d5602cbaaab57
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 100%
+source-wordcount: '558'
+ht-degree: 92%
 
 ---
 
 
 # Sites Optimizer 試用版
 
-現有 AEM Sites 客戶 (Edge Delivery Services、Cloud Services 及 Managed Services 客戶) 可透過此試用版，開始使用 Sites Optimizer。 您的網域資料已預先上線，可立即開始最佳化。 以下影片逐步說明試用版體驗，並示範如何開始使用。
+使用針對現有&#x200B;**Sites Optimizer客戶（Edge Delivery Services、Cloud Services和Managed Services）**&#x200B;的此試用版，開始使用AEM Sites。 您的網域資料已預先上線，可立即開始最佳化。 以下影片逐步說明試用版體驗，並示範如何開始使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483298/?captions=chi_hant&learn=on&enablevpops)
+>[!NOTE]
+>
+>AEM Sites Optimizer試用版目前不支援Headless網站。 若要使用試用版，請載入使用AEM Sites前端傳送的網站。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -36,9 +40,9 @@ ht-degree: 100%
 * 三種機會類型：[損壞的反向連結](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md) 以及[缺少替代文字](./opportunities/missing-alt-text.md)。
 * 每個機會每月最多三個問題。
 * 每個問題的完整工作流程：自動識別、自動建議以及自動最佳化。
-   * **自動識別**：使用多個資料來源偵測您網站上的問題。
-   * **自動建議**：針對每個問題，提供規範性、AI 生成的建議。
-   * **自動最佳化**：核准後，將修正內容直接部署至您的製作環境。 更新會遵循您現有的工作流程，讓您的團隊可透過 AEM 順利審閱並發佈。
+  * **自動識別**：使用多個資料來源偵測您網站上的問題。
+  * **自動建議**：針對每個問題，提供規範性、AI 生成的建議。
+  * **自動最佳化**：核准後，將修正內容直接部署至您的製作環境。 更新會遵循您現有的工作流程，讓您的團隊可透過 AEM 順利審閱並發佈。
 
 ## 常見問題
 
