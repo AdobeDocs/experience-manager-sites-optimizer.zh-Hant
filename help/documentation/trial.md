@@ -17,7 +17,7 @@ ht-degree: 92%
 >
 >AEM Sites Optimizer試用版目前不支援Headless網站。 若要使用試用版，請載入使用AEM Sites前端傳送的網站。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483298/?captions=chi_hant&learn=on&enablevpops)
 
 >[!TIP]
 >
