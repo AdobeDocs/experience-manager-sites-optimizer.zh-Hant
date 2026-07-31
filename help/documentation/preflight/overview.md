@@ -2,21 +2,22 @@
 title: AEM Sites Optimizer 預檢
 description: 瞭解Preflight及其執行的稽核，以在發佈前評估您的頁面。
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: 351
-ht-degree: 49%
+source-wordcount: 300
+ht-degree: 28%
 
 ---
 
 # AEM Sites Optimizer 預檢
 
 ![預檢整備儀表板](./assets/overview/hero.png){align="center"}
+
+>[!NOTE]
+>
+>從[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)開始，Preflight內建在AEM Sites頁面編輯器工具列中。 如需詳細資訊，請參閱[預檢設定](./setup.md)。
 
 AEM Sites Optimizer中的「預檢」可協助您分析內容和結構，並透過可行的建議來呈現商機，以在頁面正式上線之前驗證和最佳化頁面。 此功能專為作者、行銷人員和開發人員設計，協助確保頁面高品質、高效且可隨時發佈，同時減少重複工作。
 

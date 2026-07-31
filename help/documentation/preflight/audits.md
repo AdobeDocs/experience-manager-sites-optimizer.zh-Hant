@@ -1,10 +1,10 @@
 ---
 title: 在預檢中執行稽核
 description: 了解如何針對您的頁面執行預檢稽核。
-source-git-commit: 9989144c429da97e3ea303c0c8caf5a9b38e2634
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 21%
+source-wordcount: '366'
+ht-degree: 17%
 
 ---
 
@@ -23,6 +23,12 @@ ht-degree: 21%
 
 若要瞭解預覽結果並識別最佳化機會，請參閱預檢中的[稽核結果](./audit-results.md)。
 
+## 使用整合式預檢按鈕
+
+如果您的作者環境正在執行[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更新版本，Preflight內建在AEM Sites頁面編輯器工具列中。 選取&#x200B;**預檢**&#x200B;圖示（播放按鈕）以開啟目前頁面的面板，然後選取&#x200B;**分析頁面**&#x200B;以執行稽核。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
+
 ## 繼續上一個工作階段
 
 預檢會記住您最近的執行，因此如果您離開並返回，就不必重新執行稽核。
@@ -32,5 +38,5 @@ ht-degree: 21%
 
 預檢會個別追蹤每個頁面的最新執行，因此&#x200B;**繼續上一個工作階段**&#x200B;一律會為您所在的頁面重新載入上一個執行。
 
-稽核完成並顯示結果後，從&#x200B;**其他動作** (**...**)中選取&#x200B;**重新分析** 工具列中的功能表捨棄結果，然後再次執行每次稽核。 檢視預檢[&#128279;](./audit-results.md#toolbar)中的稽核結果。
+稽核完成並顯示結果後，從&#x200B;**其他動作** (**...**)中選取&#x200B;**重新分析** 工具列中的功能表捨棄結果，然後再次執行每次稽核。 檢視預檢](./audit-results.md#toolbar)中的[稽核結果。
 

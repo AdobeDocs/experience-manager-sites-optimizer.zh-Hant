@@ -2,12 +2,11 @@
 title: 預檢設定
 description: 瞭解如何設定AEM Sites Optimizer的Preflight。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: 577
-ht-degree: 72%
+source-wordcount: 785
+ht-degree: 52%
 
 ---
 
@@ -34,7 +33,7 @@ ht-degree: 72%
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor?lang=zh-hant](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. 找到 **AEM Sites Optimizer Preflight** 擴充功能。
 1. 此擴充功能需要組織的系統管理員啟用。
-1. 啟用擴充功能後，在 **通用編輯器**&#x200B;中開啟一個頁面，例如：
+1. 啟用擴充功能後，在 **通用編輯器**中開啟一個頁面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **預檢擴充功能**&#x200B;會顯示在&#x200B;**側邊欄**。
 1. 從側邊欄選取&#x200B;**預檢擴充功能**，以開啟目前頁面的「預檢」。
@@ -120,7 +119,23 @@ ht-degree: 72%
 
 >[!TAB AEM Sites 頁面編輯器]
 
-若要在 AEM Sites 頁面編輯器中使用預檢，您可以在網頁瀏覽器中建立書籤小程式。 請依照下列步驟操作：
+如果您的作者環境正在執行[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更新版本，Preflight內建在AEM Sites頁面編輯器中，不需要書籤小程式。 請依照下列步驟操作：
+
+1. 在 **AEM Sites 頁面編輯器**&#x200B;中開啟您要稽核的頁面。
+1. 在編輯器工具列中，選取&#x200B;**預檢**&#x200B;圖示（下面反白顯示的播放按鈕）以開啟目前頁面的「預檢」面板。
+
+   ![AEM Sites頁面編輯器工具列中的「預檢」圖示](./assets/setup/toolbar-preflight-button.png){align="center"}
+
+>[!NOTE]
+>
+>在工具列中看不到&#x200B;**預檢**&#x200B;圖示？ 檢查下列專案：
+>
+>* **支援的版本** — 整合式按鈕需要AEM 2026.7.0 （版本27083）或更新版本。 在舊版上，請使用下方的書籤小程式方法。
+>* **轉出** — 正在分階段為組織啟用整合按鈕，因此可能尚未觸及您的組織，即使在支援的版本上亦然。 在此之前，請使用下方的書籤小程式方法，或聯絡Adobe或您的管理員。
+>* **頁面存取** — 只有當您具有頁面的編輯存取權時，才會顯示按鈕。
+>* **使用者存取權** — 確認您的使用者已指派給&#x200B;**AEM Sites Optimizer — 自動建議使用者**&#x200B;或&#x200B;**AEM Sites Optimizer — 自動最佳化使用者**&#x200B;設定檔。 請參閱[啟用使用者存取權](#enable-user-access)。
+
+若要在舊版AEM的AEM Sites頁面編輯器中使用Preflight，您可以在網頁瀏覽器中建立書籤小程式。 請依照下列步驟操作：
 
 1. 在網頁瀏覽器中顯示您的「**書籤列**」：
 
