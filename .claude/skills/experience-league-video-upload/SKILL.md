@@ -41,6 +41,7 @@ Experience League影片不是在此存放庫內託管 — 本機`.mp4`會透過�
      }
    }
    ```
+
 2. 新增`.mcp.json`至`.gitignore` （個人工具，未共用）。
 3. 在`.claude/settings.local.json`中，新增`"enableAllProjectMcpServers": true`和`"enabledMcpjsonServers": ["chrome-devtools"]`。
 4. 告訴使用者重新啟動Claude程式碼（或執行`/mcp`） — MCP伺服器只在啟動時載入，這無法在工作階段期間完成。

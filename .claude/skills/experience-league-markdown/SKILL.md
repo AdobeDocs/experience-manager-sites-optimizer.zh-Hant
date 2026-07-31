@@ -37,7 +37,7 @@ Source真相： https://experienceleague.adobe.com/en/docs/authoring-guide/using
 | 項目符號清單 | `* item` （從`*`/`-`/`+`中選擇一個，保持一致性） | 清單前/後空白行；混合標籤=驗證錯誤 |
 | 編號清單 | `1. item` （每行重複`1.`） | GitHub會呈現實際數字 |
 | 程式碼（內嵌） | `` `code` `` | 針對檔案名稱、命令、值、未驗證的範例URL |
-| 代碼（受防護） | ` ```language ` ... ` ``` ` | 一律指定語言；前/後空白行；`{line-numbers="true" start-line="n" highlight="n-m"}`選填 |
+| 代碼（受防護） | ` `&#x200B;``language ` ... ` ``&#x200B;` ` | 一律指定語言；前/後空白行；`{line-numbers="true" start-line="n" highlight="n-m"}`選填 |
 | 徽章（內嵌） | `[!BADGE Beta]{type=Informative url="..." tooltip="..."}` | `type`：資訊/正面/負面/中性/警告 |
 | 可收合 | `+++Summary` ... `+++` | 沒有巢狀摺疊專案；內部清單/程式碼周圍有空白行 |
 | 空白行入侵 | `<br>&nbsp;`在它自己的行 | 一般額外空白行會摺疊/被轉譯器忽略 |

@@ -156,17 +156,19 @@ badgePremium: label="Premium" type="Positive" url="https://www.premium-product.c
 
 包圍型：
 
-````markdown
+&grave;&grave;&grave;&grave;markdown
+
 ```javascript
 var x = 1;
 ```
-````
+
+&grave;&grave;&grave;&grave;
 
 - 一律指定語法醒目提示的語言+複製按鈕。
 - 包圍區塊的上方和下方需要空白行。
-- 行號： `` ```html {line-numbers="true"} ``
-- 從其他位置開始編號： `` ```html {line-numbers="true" start-line="7"} ``
-- 反白顯示行： `` ```html {line-numbers="true" start-line="7" highlight="11-13, 16"} ``
+- 行號： `` ``&#x200B;`html {line-numbers="true"} `&#x200B;&grave;
+- 從其他位置開始編號： `` ``&#x200B;`html {line-numbers="true" start-line="7"} `&#x200B;&grave;
+- 反白顯示行： `` ``&#x200B;`html {line-numbers="true" start-line="7" highlight="11-13, 16"} `&#x200B;&grave;
 - 程式碼區塊內容絕不會本地化（除了`!UICONTROL`/`!DNL`標籤，這些標籤會在發佈時移除）。
 - 程式碼區塊內部沒有Markdown/HTML格式（例如`<i>`）可供使用 — 請使用角括弧或純文字作為預留位置。
 
