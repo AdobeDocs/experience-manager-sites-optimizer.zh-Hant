@@ -20,7 +20,7 @@ ht-degree: 28%
 
 >[!NOTE]
 >
->從[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)開始，Preflight內建在AEM Sites頁面編輯器工具列中。 如需詳細資訊，請參閱[預檢設定](./setup.md)。
+>從[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)開始，Preflight內建在AEM Sites頁面編輯器工具列中。 如需詳細資訊，請參閱[預檢設定](./setup.md)。
 
 AEM Sites Optimizer中的「預檢」可協助您分析內容和結構，並透過可行的建議來呈現商機，以在頁面正式上線之前驗證和最佳化頁面。 此功能專為作者、行銷人員和開發人員設計，協助確保頁面高品質、高效且可隨時發佈，同時減少重複工作。
 

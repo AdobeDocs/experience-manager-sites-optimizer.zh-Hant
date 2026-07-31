@@ -25,7 +25,7 @@ ht-degree: 17%
 
 ## 使用整合式預檢按鈕
 
-如果您的作者環境正在執行[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更新版本，Preflight內建在AEM Sites頁面編輯器工具列中。 選取&#x200B;**預檢**&#x200B;圖示（播放按鈕）以開啟目前頁面的面板，然後選取&#x200B;**分析頁面**&#x200B;以執行稽核。
+如果您的作者環境正在執行[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更新版本，Preflight內建在AEM Sites頁面編輯器工具列中。 選取&#x200B;**預檢**&#x200B;圖示（播放按鈕）以開啟目前頁面的面板，然後選取&#x200B;**分析頁面**&#x200B;以執行稽核。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
 
