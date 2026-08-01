@@ -1,10 +1,10 @@
 ---
 title: 在預檢中執行稽核
 description: 了解如何針對您的頁面執行預檢稽核。
-source-git-commit: 9989144c429da97e3ea303c0c8caf5a9b38e2634
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 21%
+source-wordcount: '366'
+ht-degree: 17%
 
 ---
 
@@ -22,6 +22,12 @@ ht-degree: 21%
 1. 選取&#x200B;**分析頁面**。 預檢會在目前頁面上執行其所有稽核，並開啟整備儀表板，其中顯示整備分數及其找到的機會（依類別分組）。
 
 若要瞭解預覽結果並識別最佳化機會，請參閱預檢中的[稽核結果](./audit-results.md)。
+
+## 使用整合式預檢按鈕
+
+如果您的作者環境正在執行[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更新版本，Preflight內建在AEM Sites頁面編輯器工具列中。 選取&#x200B;**預檢**&#x200B;圖示（播放按鈕）以開啟目前頁面的面板，然後選取&#x200B;**分析頁面**&#x200B;以執行稽核。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
 
 ## 繼續上一個工作階段
 
