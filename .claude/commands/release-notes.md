@@ -1,8 +1,8 @@
 ---
 description: 將內部ASO Sprint發行說明轉換為客戶面對的Experience League格式，並附加至發行說明頁面。
-source-git-commit: d17008c39f231c45a9ba41ca7f0aa96b9878f674
+source-git-commit: 5f400c37283d1a3d8285b4d2ac5246761a7275e6
 workflow-type: tm+mt
-source-wordcount: '960'
+source-wordcount: '1029'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,8 @@ ht-degree: 0%
 
 5. **範圍準確。** 僅包含客戶將在產品UI中看到的變更或在其工作流程中的體驗。 不包括基礎結構、工具和開發人員經驗變更。
 
+6. **標幟早期存取功能。** 如果某個功能在功能標幟後面附送，而功能標幟預設為關閉（每個組織/網站選擇加入，例如透過LaunchDarkly `FeatureGate`/`isEnabledByDefault={false}`），請將`(Early Access)`附加至粗體功能名稱 — 映象已分級功能所使用的現有`(General Availability)`慣例。 如有疑問，請檢查此功能是否對所有客戶預設為開啟；如果不確定，則為搶先使用。 驗證代碼中的功能標幟預設值 — 請勿猜測。
+
 ### 頁面結構範本
 
 每個發行專案都遵循此結構：
@@ -54,7 +56,7 @@ ht-degree: 0%
 
 ### New Features
 
-- **[Feature Name]** — [One-sentence benefit statement. One sentence of business context if needed.]
+- **[Feature Name]** — [One-sentence benefit statement. One sentence of business context if needed.] (append `(Early Access)` or `(General Availability)` to the feature name when the feature's availability status is notable)
 
 ### Enhancements
 
