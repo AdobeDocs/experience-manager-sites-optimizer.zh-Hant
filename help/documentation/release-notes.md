@@ -1,14 +1,12 @@
 ---
 title: 發行說明
 description: 瞭解Adobe Experience Manager Sites Optimizer中的最新新功能、改進功能和錯誤修正。
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: d5cc34fd40395fc13ce3554a0b80c0216d859157
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 8e4fe6595fc7e872a00387d92892710c61e8632b
 workflow-type: tm+mt
-source-wordcount: 1471
-ht-degree: 2%
+source-wordcount: 1775
+ht-degree: 1%
 
 ---
 
@@ -16,6 +14,26 @@ ht-degree: 2%
 # 發行說明
 
 本頁會記錄Adobe Experience Manager Sites Optimizer的最新更新、新功能和改善專案。
+
+## 2026年7月1至19日
+
+### 新功能
+
+- **許可權管理** — 具有「管理使用者」權能的使用者現在可以從新的「許可權」標籤控制網站存取權 — 依名稱或電子郵件搜尋人員，以及授予或撤銷特定權能。 不允許使用者執行的動作似乎已停用，並附上說明如何請求存取許可權的工具提示。
+- **部署狀態徽章** — 標示為手動部署的修正現在會在「已部署」檢視中顯示不同的「標示為已部署」徽章，除了自動部署之外，還能讓您輕鬆分辨手動更新。
+
+### 增強功能
+
+- **GitHub (Cloud Manager)的自動修正** —Core Web Vitals、安全性及表單協助工具等機會的程式碼修補自動修正現在可以在GitHub上託管的Cloud Manager自攜Git存放庫中提出提取請求，比對GitLab、Bitbucket和Azure DevOps的現有支援。 新的「設定」切換功能可讓您控制網站的一次性設定確認。
+- **透過分支自動修正(Cloud Manager Standard)** — 現在為您的網站啟用時，Cloud Manager Standard存放庫即可使用透過分支自動修正。
+- **已部署檢視：執行者** — 已部署檢視現在會透過新的「執行者」和「上次更新狀態」欄，顯示將每個修正標示為已部署以及其狀態上次更新的人員。
+- **Google Ads中斷連線意見回應** — 現在在[設定]中中斷連線Google Ads帳戶會顯示[中斷連線……]狀態，如果中斷連線失敗，就會顯示可拒絕的錯誤訊息，讓您能夠重試。
+
+### 錯誤修正
+
+- 當修正跨越多個頁面時，Fix ARIA標籤機會現在在詳細資訊對話方塊中顯示正確的頁面URL。
+- 「略過」對話方塊的資訊訊息現在會正確顯示，且韓文、簡體中文和繁體中文文字會正確對齊。
+- 替代文字和無效或遺失中繼資料的相關頁面對話方塊現在會以可靠的方式載入，而且無效或遺失中繼資料部署的檢視和中繼標籤修正現在會以最新的建議格式正確運作。
 
 ## 2026年5月11至22日
 
