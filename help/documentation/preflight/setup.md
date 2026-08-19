@@ -120,7 +120,7 @@ ht-degree: 47%
 
 >[!TAB AEM Sites 頁面編輯器]
 
-如果您的作者環境正在執行[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更新版本，Preflight內建在AEM Sites頁面編輯器中，不需要書籤小程式。 請依照下列步驟操作：
+如果您的作者環境正在執行[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更新版本，Preflight內建在AEM Sites頁面編輯器中，不需要書籤小程式。 請依照下列步驟操作：
 
 1. 在 **AEM Sites 頁面編輯器**&#x200B;中開啟您要稽核的頁面。
 1. 在編輯器工具列中，選取&#x200B;**預檢**&#x200B;圖示（下面反白顯示的播放按鈕）以開啟目前頁面的「預檢」面板。
