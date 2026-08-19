@@ -1,8 +1,10 @@
 ---
 title: 準備程式碼修補程式檔案
 description: 瞭解AEM Sites Optimizer如何為Core Web Vitals修正準備程式碼修補程式，以及如何後續追蹤。
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: a86d83ee226055e6401b13fd421b40d449b96fa8
 workflow-type: tm+mt
 source-wordcount: 248

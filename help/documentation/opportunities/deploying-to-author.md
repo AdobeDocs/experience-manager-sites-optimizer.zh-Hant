@@ -1,8 +1,10 @@
 ---
 title: 部署至作者檔案
 description: 瞭解AEM Sites Optimizer如何將選取的最佳化部署至編寫環境，以及如何後續追蹤這些最佳化。
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 1d55c607aab6c820d014b9a57bfae20b8170c672
 workflow-type: tm+mt
 source-wordcount: 245
