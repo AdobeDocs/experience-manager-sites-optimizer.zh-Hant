@@ -4,10 +4,10 @@ description: 瞭解如何設定AEM Sites Optimizer的Preflight。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
 workflow-type: tm+mt
-source-wordcount: 785
-ht-degree: 52%
+source-wordcount: 896
+ht-degree: 47%
 
 ---
 
@@ -138,7 +138,7 @@ ht-degree: 52%
 
 若要在舊版AEM的AEM Sites頁面編輯器中使用Preflight，您可以在網頁瀏覽器中建立書籤小程式。 請依照下列步驟操作：
 
-1. 在網頁瀏覽器中顯示您的「**書籤列**」：
+1. 在網頁瀏覽器中顯示您的&#x200B;**書籤列**：
 
    * 按下 **Ctrl+Shift+B** (Windows) 或 **Cmd+Shift+B** (Mac)。
 
@@ -161,7 +161,18 @@ ht-degree: 52%
 >
 >此功能僅支援使用 Adobe Identity Provider (IMS) 進行 AEM Author 驗證的 Adobe Managed Services (AMS) 環境。 如果您的組織使用任何其他身分識別提供者進行 AMS 驗證，預檢就無法運作。
 
-若要在AMS環境的AEM Sites頁面編輯器中使用Preflight，請在網頁瀏覽器中建立書籤小程式，步驟如下：
+將預檢內建至AEM Sites頁面編輯器工具列時，不需要書籤小程式。 請聯絡Adobe為您的組織安裝。 安裝後，請遵循下列步驟：
+
+1. 在 **AEM Sites 頁面編輯器**&#x200B;中開啟您要稽核的頁面。
+1. 在編輯器工具列中，選取&#x200B;**預檢**&#x200B;圖示（下面反白顯示的播放按鈕）以開啟目前頁面的「預檢」面板。
+
+   ![AEM Sites頁面編輯器工具列中的「預檢」圖示](./assets/setup/toolbar-preflight-button.png){align="center"}
+
+>[!NOTE]
+>
+>在工具列中看不到&#x200B;**預檢**&#x200B;圖示？ 您的組織可能尚未安裝整合式按鈕。 請聯絡Adobe以安裝它，或使用下方的書籤小程式方法。
+
+若要在AMS環境的AEM Sites頁面編輯器中不使用工具列圖示使用Preflight，請在網頁瀏覽器中建立書籤小程式，請遵循下列步驟：
 
 1. 在網頁瀏覽器中顯示您的&#x200B;**書籤列**：
 
