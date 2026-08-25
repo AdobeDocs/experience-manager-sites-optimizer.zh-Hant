@@ -22,7 +22,7 @@ ht-degree: 89%
 >* 可供公開存取，且不會位於登入後面。
 >* 它使用AEM Sites前端傳送。 目前不支援Headless傳送。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483298/?captions=chi_hant&learn=on&enablevpops)
 
 >[!TIP]
 >
