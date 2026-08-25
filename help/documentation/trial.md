@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 試用版
 description: 現有 AEM Sites 客戶可開始使用 AEM Sites Optimizer 試用版。
-source-git-commit: 225f039d88627a88b8c3989f963d5602cbaaab57
+source-git-commit: da39fb8ccf51e24f5f5eb1bac33e51ecd959874a
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 92%
+source-wordcount: '728'
+ht-degree: 89%
 
 ---
 
@@ -13,11 +13,16 @@ ht-degree: 92%
 
 使用針對現有&#x200B;**Sites Optimizer客戶（Edge Delivery Services、Cloud Services和Managed Services）**&#x200B;的此試用版，開始使用AEM Sites。 您的網域資料已預先上線，可立即開始最佳化。 以下影片逐步說明試用版體驗，並示範如何開始使用。
 
->[!NOTE]
+>[!IMPORTANT]
 >
->AEM Sites Optimizer試用版目前不支援Headless網站。 若要使用試用版，請載入使用AEM Sites前端傳送的網站。
+>開始之前，請確認您的網站符合下列需求：
+>
+>* 這是以AEM Sites （Edge Delivery Services、Cloud Service或Managed Services）為基礎所建置。
+>* 這是一個生產網站，而不是開發、QA、測試、作者或預覽環境。
+>* 可供公開存取，且不會位於登入後面。
+>* 它使用AEM Sites前端傳送。 目前不支援Headless傳送。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483298/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -111,7 +116,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="核心網頁指標">核心網頁指標</a>
+                        <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Core web vitals">核心網頁指標</a>
                     </p>
                     <p class="is-size-6">了解核心網頁指標機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
