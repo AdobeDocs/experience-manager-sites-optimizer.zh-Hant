@@ -64,7 +64,7 @@ USAGE.md中所述的啟動工作。 不觸控Jira/GitHub/Slack。
 ## 單一功能範圍（強制）
 
 Epic的39個子劇本已限定於每個功能的範圍（例如「[ASO檔案」）]
-標準機會How-to」、「[ASO檔案] Slack通知」)。 **從不**展開範圍
+標準機會How-to」、「[ASO檔案] Slack通知」)。 **從不**&#x200B;展開範圍
 至整個頁面、整個機會型別的類別，或一次執行多個票證 — 選擇
 一個票證，僅觸碰票證所描述的區段，停止。
 
@@ -74,7 +74,7 @@ Epic的39個子劇本已限定於每個功能的範圍（例如「[ASO檔案」�
 在撰寫任何內容之前，先檢查所有這些內容，若他們不同意，則採用此信任順序
 （原始程式碼會戰勝檔案/PR，進而勝過Slack聊天，進而勝過猜測）：
 
-1. **Source程式碼** （{config.yml中的`research.code_repos`） — 功能的`*OpportunityAdapter.tsx`/`*SuggestionAdapter.tsx`、它的`use*Data.ts`鉤點、它的`.l10n.ts`字串。 資料形狀、類別和實際產品副本的基礎事實。
+1. **Source程式碼** （&lbrace;config.yml中的`research.code_repos`） — 功能的`*OpportunityAdapter.tsx`/`*SuggestionAdapter.tsx`、它的`use*Data.ts`鉤點、它的`.l10n.ts`字串。 資料形狀、類別和實際產品副本的基礎事實。
 2. **Wiki** (`mcp__Adobe-Wiki__search_wiki_content` / `get_wiki_content`) — 設計意圖、規格、術語、現有的熒幕擷取畫面。
 3. **Slack** (`mcp__Slack__slack_search_messages`) — 公告、設計討論、最近變更的任何內容。
 4. **合併GitHub PR** （`gh search prs` / `gh pr list --search`，橫跨`research.code_repos`） — 實作原理、檢閱討論、PR說明中的熒幕擷取畫面。
