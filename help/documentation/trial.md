@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 試用版
 description: 現有 AEM Sites 客戶可開始使用 AEM Sites Optimizer 試用版。
-source-git-commit: da39fb8ccf51e24f5f5eb1bac33e51ecd959874a
+source-git-commit: 5bd55dcc380f0721fb9818413207c22e21e8299b
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 89%
+source-wordcount: '1102'
+ht-degree: 59%
 
 ---
 
@@ -49,6 +49,40 @@ ht-degree: 89%
   * **自動建議**：針對每個問題，提供規範性、AI 生成的建議。
   * **自動最佳化**：核准後，將修正內容直接部署至您的製作環境。 更新會遵循您現有的工作流程，讓您的團隊可透過 AEM 順利審閱並發佈。
 
+## 為Edge Delivery試用網站啟用自動修正
+
+了解試用版客戶如何啟用在Google Drive或SharePoint中撰寫的Edge Delivery Services (EDS)網站上，針對自動修正建議的&#x200B;**部署至作者**&#x200B;動作。
+
+>[!NOTE]
+>
+>這項要求僅適用於網站是使用Google Drive或SharePoint編寫的試用組織。 付費客戶以及在「行人穿越道」或「黑暗巷」中編寫的網站不受影響。
+
+試用客戶必須屬於&#x200B;**ASO-EDS-Autofix-Users** IMS群組。 如果群組不存在，則組織的管理員可以建立群組並新增您。
+
+1. 登入[Adobe Admin Console](https://adminconsole.adobe.com/)。
+1. 選取&#x200B;**使用者** > **使用者群組**。
+1. 選取&#x200B;**新增使用者群組**。
+1. 針對&#x200B;**使用者群組名稱**，請完全輸入：
+
+   ```
+   ASO-EDS-Autofix-Users
+   ```
+
+   >[!IMPORTANT]
+   >
+   > 群組名稱必須完全相符，包括大小寫。 它區分大小寫相符，因此不同的拼字或大小寫（例如，`ASO-EDS-Autofix-users`）無法運作。 建立群組後，請勿重新命名群組。
+
+1. 選取「**儲存**」。
+
+   ![在Adobe Admin Console中建立新的使用者群組對話方塊，使用者群組名稱欄位設為ASO-EDS-Autofix-Users](./assets/trial/create-user-group.png){align="center"}
+
+1. 開啟新群組並選取&#x200B;**新增使用者**。
+1. 輸入每個應該能夠部署自動修正的人員的電子郵件地址或使用者名稱，然後選取&#x200B;**儲存**。
+
+   ![在Adobe Admin Console中將使用者新增至此使用者群組對話方塊](./assets/trial/add-users-to-group.png){align="center"}
+
+如果您是群組的成員，則會啟用&#x200B;**部署到作者**&#x200B;按鈕。 如果您尚未成為成員，**部署至作者**&#x200B;已停用，工具提示會要求您連絡系統管理員，以將您新增至群組。 管理員將您新增至群組後，請先登出再重新登入Sites Optimizer，這樣您的工作階段就會選取新的群組成員資格。
+
 ## 常見問題
 
 請閱讀下列內容，了解有關 AEM Sites Optimizer 試用版的常見問題解答。
@@ -87,6 +121,16 @@ Sites Optimizer 會持續識別影響績效的問題。 免費試用版每月僅
 您可透過產品體驗提供的升級功能或連絡銷售 CTA，或寄送電子郵件至 [siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com)。
 
 +++
++++我在ASO-EDS-Autofix-Users群組中，但是仍然停用部署到作者。 我應檢查哪些專案？
+
+登出並重新登入 — 當您登入時，會讀取群組成員資格。 同時確認群組名稱的拼字與大寫剛好是`ASO-EDS-Autofix-Users`，而且是在網站所屬的相同組織中建立的。
+
++++
++++ASO-EDS-Autofix-Users群組要求是否適用於所有Edge Delivery Services網站？
+
+否。 它僅適用於在&#x200B;**Google Drive**&#x200B;或&#x200B;**SharePoint**&#x200B;中編寫的試用網站。 在&#x200B;**Crossswalk**&#x200B;或&#x200B;**暗巷**&#x200B;中編寫的網站以及所有&#x200B;**付費**&#x200B;網站不受影響。
+
++++
 
 <!--
 CARDS
@@ -116,7 +160,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Core web vitals">核心網頁指標</a>
+                        <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="核心網站指標">核心網頁指標</a>
                     </p>
                     <p class="is-size-6">了解核心網頁指標機會，以及如何使用此機會來改進流量贏取。</p>
                 </div>
