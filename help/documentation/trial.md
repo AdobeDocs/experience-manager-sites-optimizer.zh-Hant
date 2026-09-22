@@ -53,7 +53,7 @@ Sites Optimizer會掃描您的網站以找出最佳化機會。 如果您的網�
 
 ![上線對話方塊指出Sites Optimizer無法存取網站，列出允許清單的使用者代理程式和掃描器IP位址，每個位址都有「複製」按鈕，以及「重新整理」按鈕以重新檢查存取權](./assets/trial/ip-allowlist-action-required.png){align="center"}
 
-若要讓掃描器通過，請在您的防火牆、託管提供者或安全性設定中允許列出下列兩項。 針對AEM Cloud Service網站，請將掃描器的允許規則新增至Cloud Manager中的[CDN流量篩選器規則](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)，此規則可同時比對使用者代理程式和IP位址。 如果您使用[Cloud Manager IP允許清單](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)限制存取，請將掃描器的IP位址也新增至套用的允許清單。
+若要讓掃描器通過，請在您的防火牆、託管提供者或安全性設定中允許列出下列兩項。 針對AEM Cloud Service網站，請將掃描器的允許規則新增至Cloud Manager中的[CDN流量篩選器規則](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)，此規則可同時比對使用者代理程式和IP位址。 如果您使用[Cloud Manager IP允許清單](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)限制存取，請將掃描器的IP位址也新增至套用的允許清單。
 
 * **使用者代理程式** — 掃描器會使用包含權杖`Spacecat/1.0`的使用者代理程式來識別自己。 允許列出此權杖，最好是當作「包含」相符專案，因此即使完整的使用者代理字串有所變更，權杖也會持續運作。
 * **掃描器IP位址** — 允許列出掃描器的輸出IP位址。
