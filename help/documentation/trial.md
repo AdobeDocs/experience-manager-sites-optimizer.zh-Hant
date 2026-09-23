@@ -1,13 +1,11 @@
 ---
 title: Sites Optimizer 試用版
 description: 現有 AEM Sites 客戶可開始使用 AEM Sites Optimizer 試用版。
-source-git-commit: 5bd55dcc380f0721fb9818413207c22e21e8299b
+source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
 workflow-type: tm+mt
-source-wordcount: '1102'
-ht-degree: 59%
-
+source-wordcount: '1481'
+ht-degree: 45%
 ---
-
 
 # Sites Optimizer 試用版
 
@@ -48,6 +46,25 @@ ht-degree: 59%
   * **自動識別**：使用多個資料來源偵測您網站上的問題。
   * **自動建議**：針對每個問題，提供規範性、AI 生成的建議。
   * **自動最佳化**：核准後，將修正內容直接部署至您的製作環境。 更新會遵循您現有的工作流程，讓您的團隊可透過 AEM 順利審閱並發佈。
+
+## 允許Sites Optimizer存取您的網站
+
+Sites Optimizer會掃描您的網站以找出最佳化機會。 如果您的網站位於防火牆、內容傳遞網路(CDN)或其他封鎖無法辨識使用者端的安全性設定後面，掃描器就無法存取您的頁面。 發生此情況時，上線顯示Sites Optimizer無法存取您的網站的&#x200B;**必要動作**&#x200B;訊息，而且掃描會暫停直到您允許存取為止。
+
+![上線對話方塊指出Sites Optimizer無法存取網站，列出允許清單的使用者代理程式和掃描器IP位址，每個位址都有「複製」按鈕，以及「重新整理」按鈕以重新檢查存取權](./assets/trial/ip-allowlist-action-required.png){align="center"}
+
+若要讓掃描器通過，請在您的防火牆、託管提供者或安全性設定中允許列出下列兩項。 針對AEM Cloud Service網站，請將掃描器的允許規則新增至Cloud Manager中的[CDN流量篩選器規則](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)，此規則可同時比對使用者代理程式和IP位址。 如果您使用[Cloud Manager IP允許清單](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)限制存取，請將掃描器的IP位址也新增至套用的允許清單。
+
+* **使用者代理程式** — 掃描器會使用包含權杖`Spacecat/1.0`的使用者代理程式來識別自己。 允許列出此權杖，最好是當作「包含」相符專案，因此即使完整的使用者代理字串有所變更，權杖也會持續運作。
+* **掃描器IP位址** — 允許列出掃描器的輸出IP位址。
+
+上線畫面會顯示允許清單的確切使用者代理程式和IP位址，每個位址都有&#x200B;**複製**&#x200B;按鈕，因此您可以將目前的值直接複製到設定中。
+
+將掃描器加入允許清單之後，請在上線熒幕上選取&#x200B;**重新整理**。 授與存取權後，掃描會自動恢復，並顯示您的最佳化機會。
+
+>[!NOTE]
+>
+>這些IP位址僅用於分析您的網站。 將其列入允許清單不會授予任何其他存取權。
 
 ## 為Edge Delivery試用網站啟用自動修正
 
@@ -129,6 +146,11 @@ Sites Optimizer 會持續識別影響績效的問題。 免費試用版每月僅
 +++ASO-EDS-Autofix-Users群組要求是否適用於所有Edge Delivery Services網站？
 
 否。 它僅適用於在&#x200B;**Google Drive**&#x200B;或&#x200B;**SharePoint**&#x200B;中編寫的試用網站。 在&#x200B;**Crossswalk**&#x200B;或&#x200B;**暗巷**&#x200B;中編寫的網站以及所有&#x200B;**付費**&#x200B;網站不受影響。
+
++++
++++Sites Optimizer說無法存取我的網站。 我應該怎麼做？
+
+您的網站可能位於封鎖掃描器的防火牆、CDN或安全性設定之後。 將掃描器的使用者代理程式（`Spacecat/1.0`權杖）和IP位址加入您的安全性設定允許清單，或針對AEM Cloud Service網站，將清單加入Cloud Manager CDN允許清單。 然後選取&#x200B;**重新整理**。 請參閱[允許Sites Optimizer存取您的網站](#allow-sites-optimizer-to-access-your-site)。
 
 +++
 
