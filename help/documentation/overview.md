@@ -4,25 +4,26 @@ description: Experience Manager Sites Optimizer 文件。
 TQID: https://experienceleague.adobe.com/Thzxo0-DNTCjk9C0MX7OR2yObUKxbUQDQFV3BtD7kmg
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+    internal-label: Insights
+source-git-commit: 192371b0c731dc7b27b6296d9ef0fcc753b059fe
 workflow-type: tm+mt
-source-wordcount: 137
-ht-degree: 100%
-
+source-wordcount: '307'
+ht-degree: 94%
 ---
-
 # Sites Optimizer 文件
 
 ![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
-歡迎閱讀 Sites Optimizer 文件。 這裡提供如何使用 Sites Optimizer 將 AEM 網站最佳化的資訊。
+歡迎閱讀 Sites Optimizer 文件。 您將在這裡找到有關如何使用Sites Optimizer來最佳化AEM網站的資訊。
 
 ## Sites Optimizer 基本資訊
 
-探索 AEM Sites Optimizer 文件以了解關鍵 UI 元件，包括首頁儀表板、設定配置和可獲得最佳化分析的機會清單。
+探索 AEM Sites Optimizer 文件以了解關鍵 UI 元件，包括首頁儀表板、設定配置和用於最佳化深入分析的機會清單。
 
 <!--
 CARDS 
