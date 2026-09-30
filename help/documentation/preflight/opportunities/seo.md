@@ -1,13 +1,11 @@
 ---
 title: 預檢SEO稽核
 description: 瞭解Preflight會在AEM Sites Optimizer的頁面上執行的SEO稽核。
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+source-git-commit: d87b607248efdeecf1ba29ede03bf1628d1dff30
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '208'
 ht-degree: 0%
-
 ---
-
 # SEO稽核
 
 預檢整備儀表板中的![SEO稽核](./assets/seo/hero.png){align="center"}
@@ -21,7 +19,7 @@ SEO類別包含下列稽核：
 * [中繼標籤](./seo/metatags.md) — 檢閱頁面標題和中繼描述標籤。
 * [標題](./seo/headings.md) — 檢閱頁面的標題結構和順序。
 * [H1計數](./seo/h1-count.md) — 檢閱頁面上的H1標題數目。
-* [連結](./seo/links.md) — 檢閱頁面上的連結。
+* [內部連結](./seo/internal-links.md) — 檢閱頁面上指向您自己網站的連結。
 * [可讀性](./seo/readability.md) — 檢閱頁面內容的閱讀容易程度。
 * [規範](./seo/canonical.md) — 檢閱頁面的規範連結。
 * [內文大小](./seo/body-size.md) — 檢閱頁面上的內文內容量。
