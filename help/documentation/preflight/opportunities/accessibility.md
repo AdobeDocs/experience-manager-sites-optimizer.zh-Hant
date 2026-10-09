@@ -1,13 +1,14 @@
 ---
 title: 印前檢查協助工具稽核
 description: 瞭解Preflight會在AEM Sites Optimizer的頁面上執行的協助工具稽核。
-source-git-commit: 7224badecd83652a0971f669e23ff325b26892f3
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
-
 ---
-
 # 協助工具稽核
 
 ![預檢整備儀表板中的協助工具稽核](./assets/accessibility/hero.png){align="center"}

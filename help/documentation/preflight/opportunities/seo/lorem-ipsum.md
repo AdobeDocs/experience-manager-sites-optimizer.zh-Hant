@@ -1,13 +1,14 @@
 ---
 title: 預檢Lorem Ipsum稽核
 description: 瞭解AEM Sites Optimizer的Preflight中的Lorem ipsum稽核。
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
-
 ---
-
 # Lorem ipsum稽核
 
 **Lorem ipsum**&#x200B;稽核會偵測頁面內容中留下的預留位置文字。 對讀者來說，發佈含有預留位置文字的頁面似乎尚未完成，而且可由搜尋引擎編制索引。 稽核會標籤所有預留位置文字，讓您在發佈前可以取代為真實內容。

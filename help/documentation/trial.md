@@ -1,7 +1,10 @@
 ---
 title: Sites Optimizer 試用版
 description: 現有 AEM Sites 客戶可開始使用 AEM Sites Optimizer 試用版。
-source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '1481'
 ht-degree: 45%
@@ -20,7 +23,7 @@ ht-degree: 45%
 >* 可供公開存取，且不會位於登入後面。
 >* 它使用AEM Sites前端傳送。 目前不支援Headless傳送。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483298/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -53,7 +56,7 @@ Sites Optimizer會掃描您的網站以找出最佳化機會。 如果您的網�
 
 ![上線對話方塊指出Sites Optimizer無法存取網站，列出允許清單的使用者代理程式和掃描器IP位址，每個位址都有「複製」按鈕，以及「重新整理」按鈕以重新檢查存取權](./assets/trial/ip-allowlist-action-required.png){align="center"}
 
-若要讓掃描器通過，請在您的防火牆、託管提供者或安全性設定中允許列出下列兩項。 針對AEM Cloud Service網站，請將掃描器的允許規則新增至Cloud Manager中的[CDN流量篩選器規則](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)，此規則可同時比對使用者代理程式和IP位址。 如果您使用[Cloud Manager IP允許清單](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)限制存取，請將掃描器的IP位址也新增至套用的允許清單。
+若要讓掃描器通過，請在您的防火牆、託管提供者或安全性設定中允許列出下列兩項。 針對AEM Cloud Service網站，請將掃描器的允許規則新增至Cloud Manager中的[CDN流量篩選器規則](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)，此規則可同時比對使用者代理程式和IP位址。 如果您使用[Cloud Manager IP允許清單](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)限制存取，請將掃描器的IP位址也新增至套用的允許清單。
 
 * **使用者代理程式** — 掃描器會使用包含權杖`Spacecat/1.0`的使用者代理程式來識別自己。 允許列出此權杖，最好是當作「包含」相符專案，因此即使完整的使用者代理字串有所變更，權杖也會持續運作。
 * **掃描器IP位址** — 允許列出掃描器的輸出IP位址。

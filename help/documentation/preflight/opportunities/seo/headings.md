@@ -1,7 +1,10 @@
 ---
 title: 預檢標題稽核
 description: 瞭解AEM Sites Optimizer的Preflight中的標題稽核。
-source-git-commit: af80dbb47a25b10cdbe55965fb7c4ce496448871
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%
@@ -62,6 +65,6 @@ H1標題會由[中繼資料](./metatags.md)稽核檢閱，稽核會檢查頁面�
 * **AEM Sites頁面編輯器和Adobe Managed Services (AMS)：**&#x200B;預檢捲動至標題並概述它。 醒目提示需要&#x200B;**編輯模式**。
 * **通用編輯器：**&#x200B;預檢會選取標題本身，或包含標題的最近可編輯區塊。 對於編輯器未管理內容中的標題（例如導覽或頁尾），Preflight可將其帶入檢視，但無法選取標題本身。
 
-如需詳細資訊，請參閱頁面[&#128279;](../../audit-results.md#highlight-on-page)上的醒目提示。
+如需詳細資訊，請參閱頁面](../../audit-results.md#highlight-on-page)上的[醒目提示。
 
 若要瞭解如何檢閱和解決商機，請參閱[預檢中的稽核結果](../../audit-results.md)。
