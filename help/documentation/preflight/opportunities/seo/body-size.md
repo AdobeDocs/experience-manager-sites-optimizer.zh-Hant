@@ -1,7 +1,10 @@
 ---
 title: 預檢主體大小稽核
 description: 瞭解AEM Sites Optimizer Preflight中的主體大小稽核。
-source-git-commit: c85cfb84b315b64ab5fcddfaa192ce78dd8d1a67
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%

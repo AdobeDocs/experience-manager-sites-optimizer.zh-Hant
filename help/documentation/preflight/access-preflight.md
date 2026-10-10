@@ -1,13 +1,14 @@
 ---
 title: 存取預檢
 description: 了解預檢在您的製作環境中會顯示在哪裡。
-source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 18%
-
 ---
-
 
 # 存取預檢
 
