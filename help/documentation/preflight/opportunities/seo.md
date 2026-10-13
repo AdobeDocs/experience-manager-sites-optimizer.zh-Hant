@@ -4,9 +4,9 @@ description: 瞭解Preflight會在AEM Sites Optimizer的頁面上執行的SEO稽
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 0%
 ---
 # SEO稽核
@@ -19,7 +19,7 @@ Preflight中的&#x200B;**SEO**&#x200B;類別會將稽核分組，以評估針對
 
 SEO類別包含下列稽核：
 
-* [中繼標籤](./seo/metatags.md) — 檢閱頁面標題和中繼描述標籤。
+* [中繼資料](./seo/metatags.md) — 檢閱頁面標題、中繼說明和H1標題。
 * [標題](./seo/headings.md) — 檢閱頁面的標題結構和順序。
 * [內部連結](./seo/internal-links.md) — 檢閱頁面上指向您自己網站的連結。
 * [外部連結](./seo/external-links.md) — 檢閱頁面上指向其他網站的連結。
