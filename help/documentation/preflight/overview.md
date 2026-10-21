@@ -4,16 +4,17 @@ description: 瞭解Preflight及其執行的稽核，以在發佈前評估您的�
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+    internal-label: Accessibility
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: 300
-ht-degree: 28%
-
+source-wordcount: '389'
+ht-degree: 48%
 ---
-
 # AEM Sites Optimizer 預檢
 
 ![預檢整備儀表板](./assets/overview/hero.png){align="center"}
@@ -22,9 +23,9 @@ ht-degree: 28%
 >
 >從[AEM 2026.7.0 （發行版本27083）](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)開始，Preflight內建在AEM Sites頁面編輯器工具列中。 如需詳細資訊，請參閱[預檢設定](./setup.md)。
 
-AEM Sites Optimizer中的「預檢」可協助您分析內容和結構，並透過可行的建議來呈現商機，以在頁面正式上線之前驗證和最佳化頁面。 此功能專為作者、行銷人員和開發人員設計，協助確保頁面高品質、高效且可隨時發佈，同時減少重複工作。
+AEM Sites Optimizer中的「預檢」可協助您分析內容和結構，並透過可行的建議來呈現商機，以在頁面正式上線之前驗證和最佳化頁面。 此功能專為作者、行銷人員和開發人員設計，協助確保頁面具備高品質、良好效能且可隨時發佈，同時減少重複工作。
 
-您從編寫環境開始Preflight，並選取&#x200B;**分析頁面**&#x200B;以執行其稽核。 稽核會評估頁面的一個方面，例如其中繼資料或標題結構，以及預檢群組相關稽核分為多個類別，例如&#x200B;**SEO**&#x200B;和&#x200B;**協助工具**。 接著，預檢會報告頁面的整備分數，以及它找到的機會，也就是您可以改善的特定專案，每個專案都會提供可操作的建議。
+您從編寫環境開始Preflight，並選取&#x200B;**分析頁面**&#x200B;以執行其稽核。 稽核會評估頁面的一個方面，例如其中繼資料或標題結構，以及預檢群組相關稽核分為多個類別，例如&#x200B;**SEO**&#x200B;和&#x200B;**協助工具**。 接著，預檢會報告針對頁面通過的稽核百分比，以及它找到的機會，也就是您可以改善的特定專案，每個專案都會提供可操作的建議。
 
 ## 開始使用預檢
 
