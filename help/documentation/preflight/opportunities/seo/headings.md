@@ -4,9 +4,9 @@ description: 瞭解AEM Sites Optimizer的Preflight中的標題稽核。
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '649'
 ht-degree: 0%
 ---
 # 標題稽核
@@ -23,8 +23,6 @@ ht-degree: 0%
 
 * **空白標題：**&#x200B;沒有文字的H2、H3、H4、H5或H6。 僅包含空格或僅包含影像的標題會計為空白。
 * **略過的標題層級：**&#x200B;比前面的標題更深一個以上的標題，例如H2後面接著H4，或H1後面接著H3。 在更深入的標題中報告機會。
-
-兩者皆報告為中度影響。
 
 H1標題會由[中繼資料](./metatags.md)稽核檢閱，稽核會檢查頁面上是否有遺漏、空白或過長的H1以及超過一個H1。
 
@@ -65,6 +63,6 @@ H1標題會由[中繼資料](./metatags.md)稽核檢閱，稽核會檢查頁面�
 * **AEM Sites頁面編輯器和Adobe Managed Services (AMS)：**&#x200B;預檢捲動至標題並概述它。 醒目提示需要&#x200B;**編輯模式**。
 * **通用編輯器：**&#x200B;預檢會選取標題本身，或包含標題的最近可編輯區塊。 對於編輯器未管理內容中的標題（例如導覽或頁尾），Preflight可將其帶入檢視，但無法選取標題本身。
 
-如需詳細資訊，請參閱頁面[&#128279;](../../audit-results.md#highlight-on-page)上的醒目提示。
+如需詳細資訊，請參閱頁面](../../audit-results.md#highlight-on-page)上的[醒目提示。
 
 若要瞭解如何檢閱和解決商機，請參閱[預檢中的稽核結果](../../audit-results.md)。

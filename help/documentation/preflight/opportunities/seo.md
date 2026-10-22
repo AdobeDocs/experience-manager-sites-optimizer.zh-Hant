@@ -4,18 +4,18 @@ description: 瞭解Preflight會在AEM Sites Optimizer的頁面上執行的SEO稽
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 ---
 # SEO稽核
 
-預檢整備儀表板中的![SEO稽核](./assets/seo/hero.png){align="center"}
+預檢結果儀表板中的![SEO稽核](./assets/seo/hero.png){align="center"}
 
 Preflight中的&#x200B;**SEO**&#x200B;類別會將稽核分組，以評估針對搜尋引擎最佳化頁面的效果。 當您執行「印前檢查」稽核時，這些稽核會評估頁面的中繼資料、標題結構、連結和內容，以及您可以在發佈之前檢閱和解決的表面商機。
 
-在整備儀表板中，展開&#x200B;**SEO**&#x200B;類別以檢視每個稽核、是否通過以及找到的機會數量。 選取稽核以開啟其詳細資訊頁面並處理商機。 若要瞭解如何解譯結果並解決機會，請參閱[預檢中的稽核結果](../audit-results.md)。
+在結果儀表板中，展開&#x200B;**SEO**&#x200B;類別以檢視每個稽核、是否通過以及找到的機會數。 選取稽核以開啟其詳細資訊頁面並處理商機。 若要瞭解如何解譯結果並解決機會，請參閱[預檢中的稽核結果](../audit-results.md)。
 
 SEO類別包含下列稽核：
 
