@@ -4,10 +4,10 @@ description: 了解如何針對您的頁面執行預檢稽核。
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 19%
+source-wordcount: '469'
+ht-degree: 17%
 ---
 
 # 預檢中的稽核
@@ -20,7 +20,8 @@ ht-degree: 19%
 
 1. 在您的[製作環境](./access-preflight.md) 中 (通用編輯器、文件型製作或 AEM Sites 頁面編輯器) 開啟您要稽核的頁面。
 1. 開啟[預檢面板](./access-preflight.md)。 預檢會開啟至&#x200B;**執行效能整備稽核**&#x200B;登陸畫面。
-1. 選取&#x200B;**分析頁面**。 預檢會在目前頁面上執行其所有稽核，並開啟整備儀表板，其中顯示整備分數及其找到的機會（依類別分組）。
+1. 如有需要，請開啟&#x200B;**設定** （齒輪圖示）以將網站導覽連結包含在內部連結稽核中。 此設定預設為關閉，在Universal Editor中無法使用。 視您的環境而定，**設定**&#x200B;會出現在標頭或&#x200B;**更多動作** (**...**)中。 請參閱[包含網站導覽連結](./opportunities/seo/internal-links.md#include-site-navigation-links)。
+1. 選取&#x200B;**分析頁面**。 預檢會在目前頁面上執行其所有稽核，並開啟整備控制面板，其中顯示已通過的稽核百分比及其找到的機會（依類別分組）。
 
 若要瞭解預覽結果並識別最佳化機會，請參閱預檢中的[稽核結果](./audit-results.md)。
 
@@ -41,5 +42,4 @@ ht-degree: 19%
 
 當您重新載入前一個回合時，標題會顯示該回合執行的時間長度，例如&#x200B;*2分鐘前*&#x200B;或&#x200B;*昨天*，因此您可以一眼就知道結果目前的狀況。 標籤會隨著時間推移而更新，而且會在您於整備控制面板與稽核詳細資料頁面之間移動時保持可見。
 
-稽核完成並顯示結果後，從&#x200B;**其他動作** (**...**)中選取&#x200B;**重新分析** 工具列中的功能表捨棄結果，然後再次執行每次稽核。 檢視預檢[&#128279;](./audit-results.md#toolbar)中的稽核結果。
-
+稽核完成並顯示結果後，在工具列中選取&#x200B;**重新分析**&#x200B;以捨棄結果，並再次執行每次稽核。 檢視預檢[&#128279;](./audit-results.md#toolbar)中的稽核結果。
