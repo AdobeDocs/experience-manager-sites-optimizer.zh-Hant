@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '2920'
+source-wordcount: '3026'
 ht-degree: 2%
 ---
 
@@ -18,6 +18,22 @@ ht-degree: 2%
 本頁會記錄Adobe Experience Manager Sites Optimizer的最新更新、新功能和改善專案。
 
 標示為&#x200B;**（搶先存取）**&#x200B;的功能可依請求取得 — 請聯絡您的帳戶團隊或客戶成功工程師，為您的組織啟用這些功能。
+
+## 2026年10月21至22日 {#october-21-22-2026}
+
+### 新功能
+
+- **預檢執行個體篩選器** — 在內部連結和外部連結詳細資訊頁面上，依&#x200B;**中斷**&#x200B;或&#x200B;**需要驗證**&#x200B;來篩選執行個體。
+
+### 增強功能
+
+- **預檢內部連結重試** — 內部連結稽核現在會重試暫時失敗的連結，因此將短時間中斷回報為中斷連結的可能性較低。
+- **預檢進度指示器** — 處理指示器現在只會出現在仍在執行的稽核上，不會出現在它們的類別上。
+- **預檢機會詳細資料** — 機會不再顯示嚴重性徽章，CSV和PDF匯出不再包含嚴重性。
+
+### 錯誤修正
+
+- 「預檢」機會詳細資訊中的長URL現在會換行，而非加寬資訊卡。
 
 ## 2026年10月5至20日 {#october-5-20-2026}
 

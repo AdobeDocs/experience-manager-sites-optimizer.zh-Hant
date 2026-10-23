@@ -4,9 +4,9 @@ description: 瞭解AEM Sites Optimizer Preflight中的中繼資料稽核。
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '801'
 ht-degree: 1%
 ---
 # 中繼資料稽核
@@ -34,12 +34,6 @@ ht-degree: 1%
 | H1標題 | 最多70個字元 | 71到75個字元 | 超過75個字元 |
 
 這些範圍是建議的指引，而不是搜尋引擎要求。 Preflight會使用它們來決定何時報告商機。
-
-每個機會都會報告在三個影響層級中的一個：
-
-* **高：**&#x200B;標籤遺失或空白。
-* **稽核：**&#x200B;頁面標題或中繼說明太短、中繼說明或H1太長，或頁面包含多個H1。
-* **低：**&#x200B;值超過理想長度但不太長，包括任何長度超過60個字元的頁面標題。
 
 ## 值的讀取方式
 
