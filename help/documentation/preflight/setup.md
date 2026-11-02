@@ -5,23 +5,18 @@ TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
+source-git-commit: 00dbc1a9033cf327da68df99c9604b50f45b43ee
 workflow-type: tm+mt
-source-wordcount: 896
-ht-degree: 47%
-
+source-wordcount: '877'
+ht-degree: 49%
 ---
-
 # 預檢設定
 
 執行「預檢」需要在您的製作環境中進行設定。 您可以為通用編輯器、檔案式撰寫、AEM Sites頁面編輯器或Adobe Managed Services設定Preflight，以便在發佈頁面前對其執行Preflight稽核。
 
 ## 啟用使用者存取
 
-若要使用Preflight，請確定您的使用者已在[Adobe Admin Console](https://adminconsole.adobe.com)中指派至下列至少一個AEM Sites Optimizer產品設定檔：
-
-* AEM Sites Optimizer - 自動建議使用者
-* AEM Sites Optimizer - 自動最佳化使用者
+若要使用Preflight，必須在[Adobe Experience Manager Sites Optimizer](https://adminconsole.adobe.com)中為使用者指派&#x200B;**Adobe Admin Console**&#x200B;產品。
 
 ## 啟用預檢
 
@@ -35,14 +30,14 @@ ht-degree: 47%
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor?lang=zh-hant](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. 找到 **AEM Sites Optimizer Preflight** 擴充功能。
 1. 此擴充功能需要組織的系統管理員啟用。
-1. 啟用擴充功能後，在 **通用編輯器**&#x200B;中開啟一個頁面，例如：
+1. 啟用擴充功能後，在 **通用編輯器**中開啟一個頁面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **預檢擴充功能**&#x200B;會顯示在&#x200B;**側邊欄**。
 1. 從側邊欄選取&#x200B;**預檢擴充功能**，以開啟目前頁面的「預檢」。
 
 >[!TAB 文件型製作]
 
-若要設定對文件型製作進行預檢，請依照下列步驟進行：
+若要為文件型製作設定預檢，請依照下列步驟進行：
 
 1. 在 Edge Delivery Services 專案的 GitHub 存放庫中，將以下設定新增至 `/tools/sidekick/config.json`：
 
