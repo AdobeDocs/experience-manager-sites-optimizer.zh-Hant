@@ -7,10 +7,10 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 733056458d3e34a9ef2e285adfc810a98159002b
+source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
 workflow-type: tm+mt
-source-wordcount: '3666'
-ht-degree: 2%
+source-wordcount: '3815'
+ht-degree: 1%
 ---
 
 # 發行說明
@@ -29,6 +29,10 @@ ht-degree: 2%
 ### 增強功能
 
 - **替代文字的Jira Tickets （搶先存取）** — 建立一或多個Alt Text問題的Jira Tickets，每個票證中包含頁面URL、影像URL和建議的替代文字。
+- **無法完成的預檢稽核** — 無法完成的稽核現在會顯示其原因，而不是顯示為通過。 在&#x200B;**%通過**&#x200B;圖中，它計為未通過，CSV和PDF匯出一律會列出它。
+- **預檢替代文字進度** — 當影像的AI檢查仍在執行時，其替代文字機會會出現一個&#x200B;**正在產生建議**&#x200B;指示器。 商機詳細資料檢視也會保留在結果變更時所檢視的商機上。
+- **預檢外部連結原因** — 外部連結稽核現在會說明更多失敗型別，包括伺服器錯誤、重新導向回圈、需要登入的連結，以及因法律原因而無法使用的連結。 逾時或封鎖自動檢查的連結現在會要求您手動確認。
+- **預檢頁面擷取** — Preflight現在會等待最多30秒，讓慢速頁面載入，然後才在Universal Editor外部分析頁面。
 
 ## 2026年10月19至25日 {#october-19-25-2026}
 
