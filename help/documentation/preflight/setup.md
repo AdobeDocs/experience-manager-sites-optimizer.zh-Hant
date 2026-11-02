@@ -30,7 +30,7 @@ ht-degree: 49%
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor?lang=zh-hant](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. 找到 **AEM Sites Optimizer Preflight** 擴充功能。
 1. 此擴充功能需要組織的系統管理員啟用。
-1. 啟用擴充功能後，在 **通用編輯器**中開啟一個頁面，例如：
+1. 啟用擴充功能後，在 **通用編輯器**&#x200B;中開啟一個頁面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **預檢擴充功能**&#x200B;會顯示在&#x200B;**側邊欄**。
 1. 從側邊欄選取&#x200B;**預檢擴充功能**，以開啟目前頁面的「預檢」。
