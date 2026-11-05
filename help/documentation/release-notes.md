@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 7a1c63e47cd778635fd18113bc2b08c83447fe35
+source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
 workflow-type: tm+mt
-source-wordcount: '3973'
+source-wordcount: '3999'
 ht-degree: 1%
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 1%
 - **無法完成的預檢稽核** — 無法完成的稽核現在會顯示其原因，而不是顯示為通過。 在&#x200B;**%通過**&#x200B;圖中，它計為未通過，CSV和PDF匯出一律會列出它。
 - **預檢替代文字進度** — 當影像的AI檢查仍在執行時，其替代文字機會會出現一個&#x200B;**正在產生建議**&#x200B;指示器。 商機詳細資料檢視也會保留在結果變更時所檢視的商機上。
 - **預檢外部連結原因** — 外部連結稽核現在會說明更多失敗型別，包括伺服器錯誤、重新導向回圈、需要登入的連結，以及因法律原因而無法使用的連結。 逾時或封鎖自動檢查的連結現在會要求您手動確認。
+- **預檢Lorem Ipsum詳細資料** — Lorem Ipsum發現現在會識別預留位置文字出現的位置、說明如何修正該文字，並顯示其HTML標籤內的文字。
 - **預檢頁面擷取** — Preflight現在會等待最多30秒，讓慢速頁面載入，然後才在Universal Editor外部分析頁面。
 
 ### 錯誤修正
