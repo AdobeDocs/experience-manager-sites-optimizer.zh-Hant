@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
+source-git-commit: b17260f7dbb82fd26120fd90c1d21a22d33949b1
 workflow-type: tm+mt
-source-wordcount: '3999'
+source-wordcount: '4035'
 ht-degree: 1%
 ---
 
@@ -18,6 +18,12 @@ ht-degree: 1%
 本頁會記錄Adobe Experience Manager Sites Optimizer的最新更新、新功能和改善專案。
 
 標示為&#x200B;**（搶先存取）**&#x200B;的功能可依請求取得 — 請聯絡您的帳戶團隊或客戶成功工程師，為您的組織啟用這些功能。
+
+## 2026年11月11日 {#november-11-2026}
+
+### 增強功能
+
+- **預檢元素面板** — **元素**&#x200B;區段現在會顯示影像縮圖或可讀取的文字，而不會顯示CSS選取器（如果可以），且可讓您複製元素的文字或CSS選取器。
 
 ## 2026年10月26日至11月1日 {#october-26-november-1-2026}
 
