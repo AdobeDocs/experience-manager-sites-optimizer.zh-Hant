@@ -1,15 +1,16 @@
 ---
 title: 預檢SEO稽核
 description: 瞭解Preflight會在AEM Sites Optimizer的頁面上執行的SEO稽核。
+badgePreflightSEO: label="預檢 — SEO" type="Caution" url="./seo.md" tooltip="預檢 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 7c362d99632758d1aba0af2bdccaa75c48abd2ec
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '206'
 ht-degree: 0%
 ---
-# SEO稽核
+# 預檢 — SEO稽核
 
 預檢結果儀表板中的![SEO稽核](./assets/seo/hero.png){align="center"}
 

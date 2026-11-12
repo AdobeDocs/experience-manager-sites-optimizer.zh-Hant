@@ -1,15 +1,16 @@
 ---
 title: 預檢Lorem Ipsum稽核
 description: 瞭解AEM Sites Optimizer的Preflight中的Lorem ipsum稽核。
+badgePreflightSEO: label="預檢 — SEO" type="Caution" url="../seo.md" tooltip="預檢 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '375'
 ht-degree: 1%
 ---
-# Lorem ipsum稽核
+# Preflight - Lorem ipsum稽核
 
 **Lorem ipsum**&#x200B;稽核會偵測頁面內容中留下的預留位置文字。
 

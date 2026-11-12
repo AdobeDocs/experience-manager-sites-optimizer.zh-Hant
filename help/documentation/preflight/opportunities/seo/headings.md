@@ -1,15 +1,16 @@
 ---
 title: 預檢標題稽核
 description: 瞭解AEM Sites Optimizer的Preflight中的標題稽核。
+badgePreflightSEO: label="預檢 — SEO" type="Caution" url="../seo.md" tooltip="預檢 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '654'
 ht-degree: 0%
 ---
-# 標題稽核
+# 預檢 — 標題稽核
 
 **標題**&#x200B;稽核會檢閱您頁面上的子標題（H2到H6）。 它會標示沒有文字的標題和略過某個層級的標題，例如H2，後面直接是H4。
 

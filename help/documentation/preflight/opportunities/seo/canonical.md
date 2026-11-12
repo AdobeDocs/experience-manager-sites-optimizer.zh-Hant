@@ -1,15 +1,16 @@
 ---
 title: 預檢標準稽核
 description: 瞭解AEM Sites Optimizer的Preflight中的Canonical稽核。
+badgePreflightSEO: label="預檢 — SEO" type="Caution" url="../seo.md" tooltip="預檢 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 5c97431c2029e117339877219c2d6e4e30902a70
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 0%
 ---
-# 標準稽核
+# 預檢 — 標準稽核
 
 **Canonical**&#x200B;稽核會檢閱您頁面上的標準連結。 規範連結是頁面`<head>`中的`<link rel="canonical">`標籤，可命名頁面內容的慣用URL。 稽核會標籤遺失、設定錯誤或指向頁面本身以外位置的規範連結。
 
@@ -25,7 +26,7 @@ ht-degree: 0%
 
 * **頁面是否有一個標準連結：**&#x200B;缺少標準連結，或頁面是否有一個以上連結。 系統會分別報告指向不同URL的多個標準連結，因為搜尋引擎可能會忽略所有連結。
 * **標籤是否正確設定：**&#x200B;標籤是否在`<head>`之外、沒有`href`屬性或空屬性，或攜帶可能導致搜尋引擎忽略它的屬性，例如`hreflang`、`media`或`type`。
-* **URL是否正確：**&#x200B;標準URL是相對而非絕對，在路徑或查詢字串中包含大寫字母，使用與頁面不同的通訊協定（`http://`或`https://`），或指向與正在編輯的頁面不同的頁面。
+* **URL是否正確：**&#x200B;標準URL是相對而非絕對、在路徑或查詢字串中包含大寫字母、使用`http://`而非`https://`，或指向與正在編輯的頁面不同的頁面。
 
 ## 如何比較標準URL
 
@@ -38,4 +39,4 @@ ht-degree: 0%
 
 ## 如何解決
 
-當稽核發現商機時，每個商機都會說明問題和建議的變更。 在大多數情況下，頁面應該在`<head>`中只有一個標準連結，其絕對URL的小寫路徑指向頁面本身。 如果頁面有意指向另一個頁面作為其標準版本，例如重複或適合列印的復本，您可以保持原樣。 稽核仍會回報此事件。 若要瞭解如何檢閱和解決商機，請參閱[預檢中的稽核結果](../../audit-results.md)。
+當稽核發現商機時，每個商機都會說明問題和建議的變更。 在大多數情況下，頁面應該在`<head>`中只有一個標準連結，且絕對`https://` URL的小寫路徑指向頁面本身。 如果頁面有意指向另一個頁面作為其標準版本，例如重複或適合列印的復本，您可以保持原樣。 稽核仍會回報此事件。 若要瞭解如何檢閱和解決商機，請參閱[預檢中的稽核結果](../../audit-results.md)。

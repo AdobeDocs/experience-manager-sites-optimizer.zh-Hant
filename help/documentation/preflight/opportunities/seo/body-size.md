@@ -1,15 +1,16 @@
 ---
 title: 預檢主體大小稽核
 description: 瞭解AEM Sites Optimizer Preflight中的主體大小稽核。
+badgePreflightSEO: label="預檢 — SEO" type="Caution" url="../seo.md" tooltip="預檢 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '697'
 ht-degree: 0%
 ---
-# 內文大小稽核
+# 預檢 — 主體大小稽核
 
 **內文大小**&#x200B;稽核會檢閱您頁面上的內文內容量。 內容很少的頁面可能對讀者不太實用，並且可能在搜尋結果中排名不佳。 稽核會標籤文字似乎太少的頁面。
 

@@ -1,15 +1,16 @@
 ---
 title: 預檢內部連結稽核
 description: 瞭解AEM Sites Optimizer的Preflight中的內部連結稽核。
+badgePreflightSEO: label="預檢 — SEO" type="Caution" url="../seo.md" tooltip="預檢 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1043'
 ht-degree: 0%
 ---
-# 內部連結稽核
+# 預檢 — 內部連結稽核
 
 **內部連結**&#x200B;稽核會檢閱頁面上指向您自己網站的連結。 稽核會檢查您編輯之頁面上的每個內部連結，並標示中斷、不安全或指向訪客無法追蹤之位置的連結。
 
