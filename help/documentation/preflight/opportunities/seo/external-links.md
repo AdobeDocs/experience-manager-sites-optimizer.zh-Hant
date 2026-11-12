@@ -1,15 +1,16 @@
 ---
 title: 預檢外部連結稽核
 description: 瞭解AEM Sites Optimizer Preflight中的外部連結稽核。
+badgePreflightSEO: label="預檢 — SEO" type="Caution" url="../seo.md" tooltip="預檢 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1117'
 ht-degree: 0%
 ---
-# 外部連結稽核
+# 預檢 — 外部連結稽核
 
 **外部連結**&#x200B;稽核會檢閱頁面上指向其他網站的連結。 稽核會從您編輯的頁面中檢查每個外部連結，並標示中斷、不安全或無法自動驗證的連結。
 

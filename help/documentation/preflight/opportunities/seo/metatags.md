@@ -1,15 +1,16 @@
 ---
 title: 預檢中繼資料稽核
 description: 瞭解AEM Sites Optimizer Preflight中的中繼資料稽核。
+badgePreflightSEO: label="預檢 — SEO" type="Caution" url="../seo.md" tooltip="預檢 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '806'
 ht-degree: 1%
 ---
-# 中繼資料稽核
+# 預檢 — 中繼資料稽核
 
 **中繼資料**&#x200B;稽核會檢閱頁面標題、中繼說明和主要(H1)標題。 它會標示任何遺失、空白或超出建議長度的頁面，並標示具有多個H1標題的頁面。
 
@@ -64,6 +65,6 @@ ht-degree: 1%
 每個機會都會說明問題和建議的變更，並顯示頁面標題或中繼說明的目前值。
 
 * **頁面標題和中繼說明：**&#x200B;在您的網站設定它們的位置更新它們，例如，在AEM Sites的頁面屬性或Edge Delivery Services的頁面中繼資料中。 這些標籤位於頁面標題中，因此無法使用頁面&#x200B;**上的**&#x200B;醒目提示。
-* **H1標題：**&#x200B;使用頁面&#x200B;**上的**&#x200B;醒目提示來尋找內容中的標題。 在Edge Delivery Services、AEM Sites頁面編輯器和Adobe Managed Services (AMS)中，「預檢」會捲動到標題並概述標題；頁面編輯器和AMS需要&#x200B;**編輯模式**。 在通用編輯器中，「預檢」會選取標題或包含標題的最近可編輯區塊。 導覽或頁尾中的標題會進入檢視中，但無法選取。 如需詳細資訊，請參閱頁面[&#128279;](../../audit-results.md#highlight-on-page)上的醒目提示。
+* **H1標題：**&#x200B;使用頁面&#x200B;**上的**&#x200B;醒目提示來尋找內容中的標題。 在Edge Delivery Services、AEM Sites頁面編輯器和Adobe Managed Services (AMS)中，「預檢」會捲動到標題並概述標題；頁面編輯器和AMS需要&#x200B;**編輯模式**。 在通用編輯器中，「預檢」會選取標題或包含標題的最近可編輯區塊。 導覽或頁尾中的標題會進入檢視中，但無法選取。 如需詳細資訊，請參閱頁面](../../audit-results.md#highlight-on-page)上的[醒目提示。
 
 若要瞭解如何檢閱和解決商機，請參閱[預檢中的稽核結果](../../audit-results.md)。
